@@ -1,0 +1,386 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1525026674945">
+  <folder name="css">
+    <file name="site_global.css" crc="4196159979"/>
+    <file name="index.css" crc="4049420618" ref="index"/>
+    <file name="work.css" crc="3933181040" ref="work"/>
+  </folder>
+  <folder name="assets">
+    <file name="01_google-home.ico" crc="3857810721" seo="true" mt="1524952998000"/>
+    <file name="02_mother-2.ico" crc="65309238" seo="true" mt="1524953073000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="work:index"/>
+    <file name="museutils.js" crc="3803043152" ref="work:index"/>
+    <file name="whatinput.js" crc="86476730" ref="work:index"/>
+    <file name="museconfig.js" crc="4153641093" ref="work:index"/>
+    <file name="webpro.js" crc="242022427" ref="work"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="work"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="work"/>
+    <file name="touchswipe.js" crc="4066113679" ref="work"/>
+    <file name="jquery.watch.js" crc="99325471" ref="work:index"/>
+    <file name="require.js" crc="4157109226" ref="work:index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1879_leiter-building.svg" crc="529761617" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1879_leiter building_poster_.png" crc="238652418" ref="work"/>
+    <file name="1922_chicago-tribune-adolf-loos.svg" crc="259129920" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1922_chicago tribune adolf loos_poster_.png" crc="4147519655" ref="work"/>
+    <file name="1939_johnson-wax-building.svg" crc="3912585967" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1939_johnson wax building_poster_.png" crc="4206054926" ref="work"/>
+    <file name="1936_casa-del-fascio.svg" crc="312154146" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1936_casa del fascio_poster_.png" crc="398573018" ref="work"/>
+    <file name="1958_seagram-building.svg" crc="4020788185" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1958_seagram building_poster_.png" crc="3803273191" ref="work"/>
+    <file name="1921_friedrichstrasse-skyscraper-project.svg" crc="3873955360" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1921_friedrichstrasse skyscraper project_poster_.png" crc="3835739017" ref="work"/>
+    <file name="1852_jayne-building.svg" crc="406505427" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1852_jayne building_poster_.png" crc="361058131" ref="work"/>
+    <file name="1857_haughwout-building.svg" crc="137610053" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1857_haughwout building_poster_.png" crc="90528051" ref="work"/>
+    <file name="1966_osram.svg" crc="163723761" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1966_osram_poster_.png" crc="295013901" ref="work"/>
+    <file name="1888_rookery-building.svg" crc="218996651" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1888_rookery building_poster_.png" crc="4266363751" ref="work"/>
+    <file name="1895_prudential_building.svg" crc="13018887" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1895_prudential_building_poster_.png" crc="456291245" ref="work"/>
+    <file name="1906_larkin-building.svg" crc="3875400504" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1906_larkin building_poster_.png" crc="4005556059" ref="work"/>
+    <file name="1923_chicago-tribune-hilberseimer.svg" crc="4224536511" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1923_chicago tribune hilberseimer_poster_.png" crc="149974766" ref="work"/>
+    <file name="1889_tacoma-building.svg" crc="4236177906" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1889_tacoma building_poster_.png" crc="80275229" ref="work"/>
+    <file name="1958_caisse-centrale-de-réassurance.svg" crc="4240804803" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1958_caisse centrale de réassurance_poster_.png" crc="3863389507" ref="work"/>
+    <file name="1960_boehringer.svg" crc="196438303" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1960_boehringer_poster_.png" crc="3794306963" ref="work"/>
+    <file name="1892_monadnock.svg" crc="4223456418" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1892_monadnock_poster_.png" crc="4116477060" ref="work"/>
+    <file name="1889_eiffel.svg" crc="3999824785" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1889_eiffel_poster_.png" crc="4291949405" ref="work"/>
+    <file name="1952_lever-house.svg" crc="3904803725" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1952_lever house_poster_.png" crc="175740857" ref="work"/>
+    <file name="1966_tour-nobel.svg" crc="4029192912" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1966_tour nobel_poster_.png" crc="4213881096" ref="work"/>
+    <file name="2000_pixar.svg" crc="428687200" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2000_pixar_poster_.png" crc="433163158" ref="work"/>
+    <file name="1973_olivier-de-serres.svg" crc="4177787398" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1973_olivier de serres_poster_.png" crc="226999885" ref="work"/>
+    <file name="2001_caja-granada-savings-bank.svg" crc="3951230194" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2001_caja granada savings bank_poster_.png" crc="3837389719" ref="work"/>
+    <file name="1972_central-beheer.svg" crc="530960426" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1972_central beheer_poster_.png" crc="523600222" ref="work"/>
+    <file name="1975_willis-faber---dumas-headquarters.svg" crc="4189521891" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1975_willis faber - dumas headquarters_poster_.png" crc="394311372" ref="work"/>
+    <file name="1968_ford-foundation.svg" crc="4194183731" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_ford foundation_poster_.png" crc="3760031120" ref="work"/>
+    <file name="1986---lloyd-s-insurance-building.svg" crc="4101467778" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1986 - lloyd-s insurance building_poster_.png" crc="3115784" ref="work"/>
+    <file name="1991_tbwa.svg" crc="4247083752" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1991_tbwa_poster_.png" crc="254822796" ref="work"/>
+    <file name="1974_bmw.svg" crc="3968939495" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1974_bmw_poster_.png" crc="4268857532" ref="work"/>
+    <file name="1972_one-ibm-plaza.svg" crc="245346456" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1972_one ibm plaza_poster_.png" crc="3967592669" ref="work"/>
+    <file name="2002_lacaton-vassal.svg" crc="4143228529" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2002_lacaton vassal_poster_.png" crc="241508412" ref="work"/>
+    <file name="2017_autodesk-toronto.svg" crc="130351655" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_autodesk toronto_poster_.png" crc="316417197" ref="work"/>
+    <file name="2015_betc.svg" crc="4109492971" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_betc_poster_.png" crc="4160798494" ref="work"/>
+    <file name="2014_office-for-architecture-studio-and-coworking-space.svg" crc="480621726" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2014_office for architecture studio and coworking space_poster_.png" crc="392134300" ref="work"/>
+    <file name="2012_teletech.svg" crc="336667753" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2012_teletech_poster_.png" crc="115175529" ref="work"/>
+    <file name="2015_bedndesk.svg" crc="4146491183" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_bedndesk_poster_.png" crc="196696834" ref="work"/>
+    <file name="2010_skype-hq.svg" crc="4291725084" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2010_skype hq_poster_.png" crc="177061561" ref="work"/>
+    <file name="2008_kanagawa-institute-of-technology-workshop.svg" crc="423276050" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2008_kanagawa institute of technology workshop_poster_.png" crc="4269679247" ref="work"/>
+    <file name="2015_remix-pce.svg" crc="4055522776" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_remix pce_poster_.png" crc="3848812142" ref="work"/>
+    <file name="2017_apple.svg" crc="294654732" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_apple_poster_.png" crc="4226696794" ref="work"/>
+    <file name="2011_red-bull-amsterdam.svg" crc="3945912809" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2011_red bull amsterdam_poster_.png" crc="3959481962" ref="work"/>
+    <file name="2015_tech-farm.svg" crc="4021005537" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_tech farm_poster_.png" crc="166383974" ref="work"/>
+    <file name="2017_agnelli-foundation-hq.svg" crc="41720389" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_agnelli foundation hq_poster_.png" crc="321676427" ref="work"/>
+    <file name="2015_sun-and-co.svg" crc="4139996814" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_sun and co_poster_.png" crc="49281002" ref="work"/>
+    <file name="2004_swiss-re-headquarters.svg" crc="4168711864" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2004_swiss re headquarters_poster_.png" crc="254575271" ref="work"/>
+    <file name="2016_uber.svg" crc="7395487" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2016_uber_poster_.png" crc="49083086" ref="work"/>
+    <file name="2008_google-zurich.svg" crc="138073121" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2008_google zurich_poster_.png" crc="3811870444" ref="work"/>
+    <file name="2017_cloud-coworking.svg" crc="498373279" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_cloud coworking_poster_.png" crc="4083187496" ref="work"/>
+    <file name="2017_primmoffice.svg" crc="3776793436" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_primmoffice_poster_.png" crc="339485485" ref="work"/>
+    <file name="2017_quarters.svg" crc="3789468651" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_quarters_poster_.png" crc="4173418486" ref="work"/>
+    <file name="2017_station-f.svg" crc="390640402" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_station f_poster_.png" crc="4105487091" ref="work"/>
+    <file name="2017_wework-uptown.svg" crc="3770036586" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_wework uptown_poster_.png" crc="435519620" ref="work"/>
+    <file name="2017_lime-livingspace.svg" crc="4141378773" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2017_lime livingspace_poster_.png" crc="4040078561" ref="work"/>
+    <file name="2018_full-node.svg" crc="358441342" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2018_full node_poster_.png" crc="4283033561" ref="work"/>
+    <file name="1851_centripetal armchair.jpg" crc="305086211" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1859_chair no 14.jpg" crc="3948727129" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1874_wooton a.jpg" crc="414955215" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1874_wooton b.jpg" crc="134513632" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1874_wooton c.jpg" crc="3898915628" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1884_staffel chair.jpg" crc="62588139" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1886_receptacle for storing papers.jpg" crc="3917541279" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1903_library bureau.jpg" crc="131021909" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1906_larkin building a.jpg" crc="3843094533" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1906_larkin building b.jpg" crc="4256693452" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk b.jpg" crc="4034176063" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk c.jpg" crc="325220799" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk d.jpg" crc="3901561837" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk e.png" crc="274030702" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk.png" crc="4097450889" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1932_b287.jpg" crc="6400283" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1932_specialty desk.jpg" crc="298748554" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1934_suspension file.jpg" crc="336019841" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1937_johnson wax a.jpg" crc="4091600329" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1937_johnson wax b.jpg" crc="4259780248" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1939_first roll edge desk_steelcase.jpg" crc="65604419" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1945_standardization.jpg" crc="4139276176" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1946_multiple 15.jpg" crc="3878608690" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1949_executive office group .jpg" crc="478990467" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1957_planning unit knoll.jpg" crc="229962065" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1958_geroge nelson maa.jpg" crc="361214396" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1964_action office a.jpg" crc="4232946216" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1964_action office b.jpg" crc="4012000743" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_action office ii a.jpg" crc="35329972" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_action office ii b.jpg" crc="168669339" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_action office ii c.jpg" crc="26681948" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_action office ii d.jpg" crc="4046225421" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1973_series 9000.jpg" crc="487582981" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1976_ergon chair_stumpf.jpg" crc="33878333" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1980_balans variable.jpg" crc="293019934" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1985_neutral posture zero gravity chair.jpg" crc="266788644" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1989_context furniture system_steelcase.jpg" crc="3964912457" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1989_context.jpg" crc="4070995614" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1994_aeron chair .jpg" crc="3809882409" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1995_rooms that work.jpg" crc="163781449" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2000_standby office.jpg" crc="532356081" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2012_living office.jpg" crc="3832413919" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2015_brody worklounge.jpg" crc="340885723" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2018_cove lounge chair.jpg" crc="485534943" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1966_osram3.svg" crc="4204053708" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1966_osram3_poster_.png" crc="4248821135" ref="work"/>
+    <file name="1968_ford-foundation-3.svg" crc="136791740" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1968_ford foundation 3_poster_.png" crc="4522268" ref="work"/>
+  </folder>
+  <file name="work.html" crc="3922422247" seo="true" mt="1525026591809" redirect="true"/>
+  <file name="index.html" crc="249764918" seo="true" mt="1525026131465" redirect="true"/>
+</manifest>
