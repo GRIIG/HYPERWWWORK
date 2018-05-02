@@ -1,1028 +1,783 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="595.276px" height="841.89px" viewBox="0 0 595.276 841.89" enable-background="new 0 0 595.276 841.89"
-	 xml:space="preserve">
-<g id="Calque_1">
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 138 138.5" style="enable-background:new 0 0 138 138.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#000000;stroke-width:5.000000e-02;stroke-linecap:square;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:0.5,0.5;}
+	.st5{fill:none;stroke:#000000;stroke-width:8.000000e-02;stroke-linecap:square;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.14;stroke-linecap:square;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:0.27;stroke-linecap:square;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-width:0.41;stroke-linecap:square;stroke-miterlimit:10;}
+</style>
+<g id="Calque_1_1_">
 </g>
-<g id="INFOS_x24_A4" display="none">
-	<g id="POLYLINE_1580_" display="inline">
-		<rect x="0" fill="none" width="595.276" height="841.89"/>
+<g id="INFOS_x24_A4" class="st0">
+	<g id="POLYLINE_1580_" class="st1">
+		<rect x="-225" y="-355.4" class="st2" width="595.3" height="841.9"/>
 	</g>
 </g>
 <g id="PLAN_x24_FOND">
 	<g id="POLYLINE_2230_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" points="
-			341.819,395.414 322.701,376.297 264.6,376.297 245.482,395.414 245.482,453.516 264.6,472.633 322.701,472.633 341.819,453.516 
-					"/>
+		<polygon class="st3" points="116.8,40.1 97.7,20.9 39.6,20.9 20.5,40.1 20.5,98.2 39.6,117.3 97.7,117.3 116.8,98.2 		"/>
 	</g>
 	<g id="POLYLINE_2231_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" points="
-			340.968,395.766 322.349,377.147 264.952,377.147 246.333,395.766 246.333,453.163 264.952,471.782 322.349,471.782 
-			340.968,453.163 		"/>
+		<polygon class="st3" points="116,40.4 97.3,21.8 40,21.8 21.3,40.4 21.3,97.8 40,116.4 97.3,116.4 116,97.8 		"/>
 	</g>
 	<g id="POLYLINE_2232_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" points="
-			340.118,396.118 321.997,377.997 265.304,377.997 247.183,396.118 247.183,452.811 265.304,470.932 321.997,470.932 
-			340.118,452.811 		"/>
+		<polygon class="st3" points="115.1,40.8 97,22.6 40.3,22.6 22.2,40.8 22.2,97.5 40.3,115.6 97,115.6 115.1,97.5 		"/>
 	</g>
 </g>
 <g id="PLAN_x24_POINTILLE">
 	<g id="ARC_115_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M300.728,420.982c-1.863,2.034-1.724,5.192,0.309,7.055c0.287,0.263,0.604,0.492,0.945,0.681"/>
+		<path class="st4" d="M75.7,65.6c-1.9,2-1.7,5.2,0.3,7.1c0.3,0.3,0.6,0.5,0.9,0.7"/>
 	</g>
 	<g id="ARC_130_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M258.252,457.868c5.452,6.015,13.192,9.446,21.311,9.446"/>
+		<path class="st4" d="M33.3,102.5c5.5,6,13.2,9.4,21.3,9.4"/>
 	</g>
 	<g id="LINE_317_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="279.563" y1="467.314" x2="307.738" y2="467.314"/>
+		<line class="st4" x1="54.6" y1="112" x2="82.7" y2="112"/>
 	</g>
 	<g id="ARC_131_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M307.738,467.314c15.885,0,28.762-12.877,28.762-28.762"/>
+		<path class="st4" d="M82.7,112c15.9,0,28.8-12.9,28.8-28.8"/>
 	</g>
 	<g id="LINE_318_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="336.5" y1="438.552" x2="336.5" y2="410.377"/>
+		<line class="st4" x1="111.5" y1="83.2" x2="111.5" y2="55"/>
 	</g>
 	<g id="ARC_132_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M336.5,410.377c0-15.885-12.877-28.762-28.762-28.762"/>
+		<path class="st4" d="M111.5,55c0-15.9-12.9-28.8-28.8-28.8"/>
 	</g>
 	<g id="LINE_319_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="307.738" y1="381.616" x2="279.563" y2="381.616"/>
+		<line class="st4" x1="82.7" y1="26.3" x2="54.6" y2="26.3"/>
 	</g>
 	<g id="ARC_133_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M279.563,381.616c-7.13,0-14.006,2.648-19.294,7.432"/>
+		<path class="st4" d="M54.6,26.3c-7.1,0-14,2.6-19.3,7.4"/>
 	</g>
 	<g id="ARC_134_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M257.285,392.186c-4.193,5.135-6.484,11.562-6.484,18.192"/>
+		<path class="st4" d="M32.3,36.8C28.1,42,25.8,48.4,25.8,55"/>
 	</g>
 	<g id="LINE_320_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="250.801" y1="410.377" x2="250.801" y2="438.552"/>
+		<line class="st4" x1="25.8" y1="55" x2="25.8" y2="83.2"/>
 	</g>
 	<g id="ARC_135_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M250.801,438.552c0,5.105,1.359,10.118,3.937,14.524"/>
+		<path class="st4" d="M25.8,83.2c0,5.1,1.4,10.1,3.9,14.5"/>
 	</g>
 	<g id="ARC_136_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M259.75,455.275c4.926,5.837,12.176,9.205,19.814,9.205"/>
+		<path class="st4" d="M34.8,99.9c4.9,5.8,12.2,9.2,19.8,9.2"/>
 	</g>
 	<g id="LINE_321_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="279.563" y1="464.479" x2="307.738" y2="464.479"/>
+		<line class="st4" x1="54.6" y1="109.1" x2="82.7" y2="109.1"/>
 	</g>
 	<g id="ARC_137_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M307.738,464.479c14.319,0,25.927-11.608,25.927-25.927"/>
+		<path class="st4" d="M82.7,109.1c14.3,0,25.9-11.6,25.9-25.9"/>
 	</g>
 	<g id="LINE_322_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="333.665" y1="438.552" x2="333.665" y2="410.377"/>
+		<line class="st4" x1="108.7" y1="83.2" x2="108.7" y2="55"/>
 	</g>
 	<g id="ARC_138_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M333.665,410.377c0-14.319-11.608-25.927-25.927-25.927"/>
+		<path class="st4" d="M108.7,55c0-14.3-11.6-25.9-25.9-25.9"/>
 	</g>
 	<g id="LINE_323_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="307.738" y1="384.45" x2="279.563" y2="384.45"/>
+		<line class="st4" x1="82.7" y1="29.1" x2="54.6" y2="29.1"/>
 	</g>
 	<g id="ARC_139_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M279.563,384.45c-6.126,0-12.054,2.169-16.733,6.123"/>
+		<path class="st4" d="M54.6,29.1c-6.1,0-12.1,2.2-16.7,6.1"/>
 	</g>
 	<g id="ARC_140_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M259.709,393.703c-3.923,4.671-6.073,10.575-6.073,16.675"/>
+		<path class="st4" d="M34.7,38.4C30.8,43,28.6,48.9,28.6,55"/>
 	</g>
 	<g id="LINE_324_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" x1="253.636" y1="410.377" x2="253.636" y2="438.552"/>
+		<line class="st4" x1="28.6" y1="55" x2="28.6" y2="83.2"/>
 	</g>
 	<g id="ARC_141_">
-		
-			<path fill="none" stroke="#000000" stroke-width="0.1" stroke-linecap="square" stroke-miterlimit="10" stroke-dasharray="0.5,0.5" d="
-			M253.636,438.552c0,4.756,1.308,9.42,3.781,13.482"/>
+		<path class="st4" d="M28.6,83.2c0,4.8,1.3,9.4,3.8,13.5"/>
 	</g>
 </g>
 <g id="PLAN_x24_VITRAGE">
 	<g id="POLYLINE_1579_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="315.537" y1="394.134" x2="312.302" y2="394.134"/>
+		<line class="st3" x1="90.5" y1="38.8" x2="87.3" y2="38.8"/>
 	</g>
 	<g id="POLYLINE_1578_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="309.837" y1="394.134" x2="305.864" y2="394.134"/>
+		<line class="st3" x1="84.8" y1="38.8" x2="80.9" y2="38.8"/>
 	</g>
 	<g id="POLYLINE_1577_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="302.661" y1="394.134" x2="299.788" y2="394.134"/>
+		<line class="st3" x1="77.7" y1="38.8" x2="74.8" y2="38.8"/>
 	</g>
 	<g id="POLYLINE_1576_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="287.922" y1="394.957" x2="285.022" y2="394.957"/>
+		<line class="st3" x1="62.9" y1="39.6" x2="60" y2="39.6"/>
 	</g>
 	<g id="POLYLINE_1575_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="274.596" y1="454.795" x2="271.974" y2="454.795"/>
+		<line class="st3" x1="49.6" y1="99.4" x2="47" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1574_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="281.71" y1="454.795" x2="277.611" y2="454.795"/>
+		<line class="st3" x1="56.7" y1="99.4" x2="52.6" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1573_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="287.891" y1="454.795" x2="284.419" y2="454.795"/>
+		<line class="st3" x1="62.9" y1="99.4" x2="59.4" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1572_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="303.519" y1="454.795" x2="299.738" y2="454.795"/>
+		<line class="st3" x1="78.5" y1="99.4" x2="74.7" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1571_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="317.305" y1="454.795" x2="313.93" y2="454.795"/>
+		<line class="st3" x1="92.3" y1="99.4" x2="88.9" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1570_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="323.981" y1="443.169" x2="323.981" y2="447.418"/>
+		<line class="st3" x1="99" y1="87.8" x2="99" y2="92.1"/>
 	</g>
 	<g id="POLYLINE_1569_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="323.981" y1="430.137" x2="323.981" y2="433.123"/>
+		<line class="st3" x1="99" y1="74.8" x2="99" y2="77.8"/>
 	</g>
 	<g id="POLYLINE_1568_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="323.981" y1="414.488" x2="323.981" y2="416.257"/>
+		<line class="st3" x1="99" y1="59.1" x2="99" y2="60.9"/>
 	</g>
 	<g id="POLYLINE_1567_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="323.981" y1="408.325" x2="323.981" y2="412.026"/>
+		<line class="st3" x1="99" y1="53" x2="99" y2="56.7"/>
 	</g>
 	<g id="POLYLINE_1566_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="323.981" y1="405.76" x2="323.981" y2="401.512"/>
+		<line class="st3" x1="99" y1="50.4" x2="99" y2="46.2"/>
 	</g>
 	<g id="POLYLINE_1565_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="402.025" x2="264.143" y2="404.946"/>
+		<line class="st3" x1="39.1" y1="46.7" x2="39.1" y2="49.6"/>
 	</g>
 	<g id="POLYLINE_1564_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="408.702" x2="264.143" y2="411.623"/>
+		<line class="st3" x1="39.1" y1="53.3" x2="39.1" y2="56.3"/>
 	</g>
 	<g id="POLYLINE_1563_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="414.903" x2="264.143" y2="417.824"/>
+		<line class="st3" x1="39.1" y1="59.6" x2="39.1" y2="62.5"/>
 	</g>
 	<g id="POLYLINE_1562_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="434.027" x2="264.143" y2="431.106"/>
+		<line class="st3" x1="39.1" y1="78.7" x2="39.1" y2="75.8"/>
 	</g>
 	<g id="POLYLINE_1561_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="440.227" x2="264.143" y2="437.306"/>
+		<line class="st3" x1="39.1" y1="84.9" x2="39.1" y2="82"/>
 	</g>
 	<g id="POLYLINE_1560_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="264.143" y1="446.904" x2="264.143" y2="443.984"/>
+		<line class="st3" x1="39.1" y1="91.6" x2="39.1" y2="88.6"/>
 	</g>
 	<g id="LINE_124_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="281.265" y1="394.957" x2="278.118" y2="394.957"/>
+		<line class="st3" x1="56.3" y1="39.6" x2="53.1" y2="39.6"/>
 	</g>
 	<g id="LINE_123_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.05" stroke-linecap="square" stroke-miterlimit="10" x1="274.362" y1="394.957" x2="271.979" y2="394.957"/>
+		<line class="st3" x1="49.4" y1="39.6" x2="47" y2="39.6"/>
 	</g>
 </g>
 <g id="PLAN_x24_MOBILIER">
 	<g id="POLYLINE_2107_">
 		
-			<rect x="316.5" y="415.65" transform="matrix(-0.9578 0.2875 -0.2875 -0.9578 742.7968 724.3278)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="3.412" height="2.123"/>
+			<rect x="91.5" y="60.3" transform="matrix(0.9578 -0.2875 0.2875 0.9578 -13.6978 29.3881)" class="st5" width="3.4" height="2.1"/>
 	</g>
 	<g id="POLYLINE_2124_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="276.449" y1="419.963" x2="276.449" y2="424.08"/>
+		<line class="st5" x1="51.4" y1="64.6" x2="51.4" y2="68.7"/>
 	</g>
 	<g id="ARC_129_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M275.466,424.337
-			c0-0.904-0.733-1.636-1.636-1.636s-1.636,0.733-1.636,1.636"/>
+		<path class="st5" d="M50.5,69c0-0.9-0.7-1.6-1.6-1.6s-1.6,0.7-1.6,1.6"/>
 	</g>
 	<g id="CIRCLE_52_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M273.4,425.306
-			c0-0.278,0.225-0.504,0.504-0.504s0.504,0.225,0.504,0.504c0,0.278-0.225,0.504-0.504,0.504S273.4,425.584,273.4,425.306
-			L273.4,425.306z"/>
+		<path class="st5" d="M48.4,70c0-0.3,0.2-0.5,0.5-0.5s0.5,0.2,0.5,0.5c0,0.3-0.2,0.5-0.5,0.5S48.4,70.2,48.4,70L48.4,70z"/>
 	</g>
 	<g id="POLYLINE_2125_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="272.306" y1="424.734" x2="273.291" y2="427.238"/>
+		<line class="st5" x1="47.3" y1="69.4" x2="48.3" y2="71.9"/>
 	</g>
 	<g id="POLYLINE_2127_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="270.717" y1="443.008" x2="268.269" y2="440.561"/>
+		<line class="st5" x1="45.7" y1="87.7" x2="43.3" y2="85.2"/>
 	</g>
 	<g id="SPLINE_201_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M268.269,440.561
-			c-1.137-1.137-1.131-2.475,0.017-4.013"/>
+		<path class="st5" d="M43.3,85.2c-1.1-1.1-1.1-2.5,0-4"/>
 	</g>
 	<g id="POLYLINE_2128_">
 		
-			<rect x="292.492" y="414.874" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -206.7254 331.8318)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="9.403" height="1.164"/>
+			<rect x="67.5" y="59.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -21.3556 68.6492)" class="st5" width="9.4" height="1.2"/>
 	</g>
 	<g id="POLYLINE_2129_">
 		
-			<rect x="289.937" y="411.011" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -206.0628 330.2319)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="11.314" height="5.689"/>
+			<rect x="64.9" y="55.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -20.6925 67.0489)" class="st5" width="11.3" height="5.7"/>
 	</g>
 	<g id="POLYLINE_2130_">
-		
-			<rect x="298.778" y="407.349" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -202.4005 331.7489)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="0.955" height="5.689"/>
+		<rect x="73.8" y="52" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -17.0309 68.5659)" class="st5" width="1" height="5.7"/>
 	</g>
 	<g id="POLYLINE_2131_">
-		
-			<rect x="291.454" y="414.673" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -209.725 328.715)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="0.955" height="5.689"/>
+		<rect x="66.4" y="59.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -24.3548 65.5317)" class="st5" width="1" height="5.7"/>
 	</g>
 	<g id="POLYLINE_2132_">
 		
-			<rect x="313.906" y="409.862" transform="matrix(-0.6927 -0.7212 0.7212 -0.6927 236.8616 923.1823)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.371" height="2.544"/>
+			<rect x="88.8" y="54.6" transform="matrix(0.7212 -0.6927 0.6927 0.7212 -13.5282 77.9732)" class="st5" width="2.5" height="2.4"/>
 	</g>
 	<g id="POLYLINE_2133_">
-		
-			<rect x="296.818" y="449.973" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="4.703" height="3.07"/>
+		<rect x="71.8" y="94.6" class="st5" width="4.7" height="3.1"/>
 	</g>
 	<g id="POLYLINE_2134_">
 		
-			<rect x="283.597" y="417.935" transform="matrix(0.7071 0.7071 -0.7071 0.7071 380.7715 -80.2791)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="7.387" height="3.114"/>
+			<rect x="60.7" y="60.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.1052 62.8316)" class="st5" width="3.1" height="7.4"/>
 	</g>
 	<g id="POLYLINE_2135_">
 		
-			<rect x="276.64" y="417.512" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -214.3903 320.3517)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="5.727" height="2.911"/>
+			<rect x="51.6" y="62.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -29.0201 57.1686)" class="st5" width="5.7" height="2.9"/>
 	</g>
 	<g id="POLYLINE_2136_">
 		
-			<rect x="265.299" y="420.683" transform="matrix(0.5949 -0.8038 0.8038 0.5949 -231.0372 384.8008)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.917" height="1.877"/>
+			<rect x="40.3" y="65.3" transform="matrix(0.5949 -0.8038 0.8038 0.5949 -36.5407 60.0031)" class="st5" width="1.9" height="1.9"/>
 	</g>
 	<g id="POLYLINE_2137_">
-		
-			<rect x="265.309" y="417.263" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.601" height="1.674"/>
+		<rect x="40.3" y="61.9" class="st5" width="1.6" height="1.7"/>
 	</g>
 	<g id="POLYLINE_2138_">
-		
-			<rect x="265.345" y="414.279" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.541" height="1.565"/>
+		<rect x="40.3" y="58.9" class="st5" width="1.5" height="1.6"/>
 	</g>
 	<g id="POLYLINE_2139_">
-		
-			<rect x="265.297" y="410.785" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.856" height="1.832"/>
+		<rect x="40.3" y="55.4" class="st5" width="1.9" height="1.8"/>
 	</g>
 	<g id="POLYLINE_2140_">
 		
-			<rect x="265.43" y="396.605" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -202.99 304.6986)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.758" height="1.549"/>
+			<rect x="40.4" y="41.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -17.6195 41.5157)" class="st5" width="1.8" height="1.5"/>
 	</g>
 	<g id="POLYLINE_2141_">
 		
-			<rect x="274.474" y="405.721" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 758.7479 498.7527)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="3.209" height="1.595"/>
+			<rect x="49.5" y="50.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -21.2181 51.1079)" class="st5" width="3.2" height="1.6"/>
 	</g>
 	<g id="POLYLINE_2142_">
 		
-			<rect x="267.707" y="405.798" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 172.6803 886.3881)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="4.42" height="3.266"/>
+			<rect x="43.3" y="49.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -23.6727 47.0156)" class="st5" width="3.3" height="4.4"/>
 	</g>
 	<g id="POLYLINE_2143_">
 		
-			<rect x="296.561" y="402.714" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 793.0351 478.6086)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.666" height="1.666"/>
+			<rect x="71.6" y="47.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -12.8741 65.3106)" class="st5" width="1.7" height="1.7"/>
 	</g>
 	<g id="POLYLINE_2144_">
-		
-			<rect x="288.959" y="396.276" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.328" height="2.306"/>
+		<rect x="64" y="40.9" class="st5" width="2.3" height="2.3"/>
 	</g>
 	<g id="POLYLINE_2145_">
-		
-			<rect x="270.834" y="395.911" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="1.644" height="1.849"/>
+		<rect x="45.8" y="40.6" class="st5" width="1.6" height="1.8"/>
 	</g>
 	<g id="POLYLINE_2146_">
-		
-			<rect x="281.426" y="396.482" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.032" height="1.644"/>
+		<rect x="56.4" y="41.1" class="st5" width="2" height="1.6"/>
 	</g>
 	<g id="POLYLINE_2147_">
-		
-			<rect x="288.412" y="410.797" transform="matrix(-0.7267 0.687 -0.687 -0.7267 782.4965 511.7407)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="63.4" y="55.4" transform="matrix(0.7267 -0.687 0.687 0.7267 -20.9813 59.6173)" class="st5" width="2.1" height="1.5"/>
 	</g>
 	<g id="POLYLINE_2148_">
-		
-			<rect x="280.464" y="402.389" transform="matrix(-0.7267 0.687 -0.687 -0.7267 762.9969 502.6842)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="55.4" y="47" transform="matrix(0.7267 -0.687 0.687 0.7267 -17.3783 51.8598)" class="st5" width="2.1" height="1.5"/>
 	</g>
 	<g id="POLYLINE_2149_">
-		
-			<rect x="285.86" y="402.402" transform="matrix(-0.687 -0.7267 0.7267 -0.687 191.034 888.5682)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="61.2" y="46.7" transform="matrix(0.7267 -0.687 0.687 0.7267 -15.9007 55.5807)" class="st5" width="1.5" height="2.1"/>
 	</g>
 	<g id="POLYLINE_2150_">
-		
-			<rect x="288.702" y="405.409" transform="matrix(0.687 0.7267 -0.7267 0.687 385.8286 -83.413)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="64" y="49.8" transform="matrix(0.7267 -0.687 0.687 0.7267 -17.2123 58.356)" class="st5" width="1.5" height="2.1"/>
 	</g>
 	<g id="POLYLINE_2151_">
-		
-			<rect x="283.017" y="410.784" transform="matrix(0.687 0.7267 -0.7267 0.687 387.9548 -77.599)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="58.3" y="55.1" transform="matrix(0.7267 -0.687 0.687 0.7267 -22.459 55.9195)" class="st5" width="1.5" height="2.1"/>
 	</g>
 	<g id="POLYLINE_2152_">
-		
-			<rect x="280.174" y="407.777" transform="matrix(-0.687 -0.7267 0.7267 -0.687 177.5368 893.5042)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="2.069" height="1.475"/>
+		<rect x="55.5" y="52.1" transform="matrix(0.7267 -0.687 0.687 0.7267 -21.1473 53.1445)" class="st5" width="1.5" height="2.1"/>
 	</g>
 	<g id="POLYLINE_2153_">
 		
-			<rect x="282.298" y="402.283" transform="matrix(0.7267 -0.687 0.687 0.7267 -201.8017 307.4483)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="6.349" height="10.095"/>
+			<rect x="57.3" y="46.9" transform="matrix(0.7267 -0.687 0.687 0.7267 -19.1792 55.7617)" class="st5" width="6.3" height="10.1"/>
 	</g>
 	<g id="CIRCLE_53_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M314.179,411.134
-			c0-0.504,0.408-0.912,0.912-0.912s0.912,0.409,0.912,0.912c0,0.504-0.409,0.912-0.912,0.912S314.179,411.638,314.179,411.134
-			L314.179,411.134z"/>
+		<path class="st5" d="M89.2,55.8c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9c0,0.5-0.4,0.9-0.9,0.9S89.2,56.3,89.2,55.8L89.2,55.8z"/>
 	</g>
 	<g id="POLYLINE_2154_">
-		
-			<rect x="304.425" y="397.395" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 807.9222 461.8614)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="7.764" height="1.723"/>
+		<rect x="79.4" y="42" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.9379 71.4768)" class="st5" width="7.8" height="1.7"/>
 	</g>
 	<g id="POLYLINE_2155_">
-		
-			<rect x="306.009" y="400.024" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 810.3602 465.456)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="5.544" height="1.07"/>
+		<rect x="81" y="44.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -7.4263 72.4866)" class="st5" width="5.5" height="1.1"/>
 	</g>
 	<g id="POLYLINE_2156_">
-		
-			<rect x="314.168" y="436.479" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="3.321" height="4.113"/>
+		<rect x="89.2" y="81.1" class="st5" width="3.3" height="4.1"/>
 	</g>
 </g>
 <g id="PLAN_x24_DETAIL">
 	<g id="POLYLINE_1122_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="296.27" y1="439.622" x2="298.675" y2="442.027"/>
+		<line class="st5" x1="71.3" y1="84.3" x2="73.7" y2="86.7"/>
 	</g>
 	<g id="ARC_167_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M293.864,442.027
-			c1.328,1.328,3.482,1.328,4.811,0"/>
+		<path class="st5" d="M68.9,86.7c1.3,1.3,3.5,1.3,4.8,0"/>
 	</g>
 	<g id="ARC_166_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M293.864,446.838
-			c1.328-1.328,1.328-3.482,0-4.811"/>
+		<path class="st5" d="M68.9,91.5c1.3-1.3,1.3-3.5,0-4.8"/>
 	</g>
 	<g id="POLYLINE_1121_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="293.864" y1="446.838" x2="291.459" y2="444.432"/>
+		<line class="st5" x1="68.9" y1="91.5" x2="66.5" y2="89.1"/>
 	</g>
 	<g id="POLYLINE_1120_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.051" y1="454.795" x2="305.051" y2="458.122"/>
+		<line class="st5" x1="80.1" y1="99.4" x2="80.1" y2="102.8"/>
 	</g>
 	<g id="ARC_165_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M305.051,458.122
-			c1.837,0,3.327-1.489,3.327-3.327"/>
+		<path class="st5" d="M80.1,102.8c1.8,0,3.3-1.5,3.3-3.3"/>
 	</g>
 	<g id="ARC_164_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M308.378,454.795
-			c0,1.837,1.489,3.327,3.327,3.327"/>
+		<path class="st5" d="M83.4,99.4c0,1.8,1.5,3.3,3.3,3.3"/>
 	</g>
 	<g id="POLYLINE_1117_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="311.704" y1="458.122" x2="311.704" y2="454.795"/>
+		<line class="st5" x1="86.7" y1="102.8" x2="86.7" y2="99.4"/>
 	</g>
 	<g id="POLYLINE_1115_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="304.29" y1="450.414" x2="307.692" y2="450.414"/>
+		<line class="st5" x1="79.3" y1="95.1" x2="82.7" y2="95.1"/>
 	</g>
 	<g id="ARC_163_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M307.692,450.414
-			c0-1.879-1.523-3.402-3.402-3.402"/>
+		<path class="st5" d="M82.7,95.1c0-1.9-1.5-3.4-3.4-3.4"/>
 	</g>
 	<g id="ARC_162_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M304.29,447.012
-			c1.879,0,3.402-1.523,3.402-3.402"/>
+		<path class="st5" d="M79.3,91.7c1.9,0,3.4-1.5,3.4-3.4"/>
 	</g>
 	<g id="POLYLINE_1113_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="307.692" y1="443.611" x2="304.29" y2="443.611"/>
+		<line class="st5" x1="82.7" y1="88.3" x2="79.3" y2="88.3"/>
 	</g>
 	<g id="POLYLINE_1111_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="303.794" y1="425.461" x2="301.982" y2="428.718"/>
+		<line class="st5" x1="78.8" y1="70.1" x2="77" y2="73.4"/>
 	</g>
 	<g id="ARC_161_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M301.982,428.718
-			c2.41,1.341,5.451,0.475,6.792-1.935c1.341-2.41,0.475-5.451-1.935-6.792c-2.02-1.124-4.548-0.715-6.11,0.99"/>
+		<path class="st5" d="M77,73.4c2.4,1.3,5.5,0.5,6.8-1.9s0.5-5.5-1.9-6.8c-2-1.1-4.5-0.7-6.1,1"/>
 	</g>
 	<g id="POLYLINE_1110_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="300.728" y1="420.982" x2="303.476" y2="423.499"/>
+		<line class="st5" x1="75.7" y1="65.6" x2="78.5" y2="68.1"/>
 	</g>
 	<g id="POLYLINE_1108_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="285.027" y1="422.139" x2="283.869" y2="450.015"/>
+		<line class="st5" x1="60" y1="66.8" x2="58.9" y2="94.7"/>
 	</g>
 	<g id="POLYLINE_1106_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="298.386" y1="435.497" x2="270.51" y2="436.656"/>
+		<line class="st5" x1="73.4" y1="80.1" x2="45.5" y2="81.3"/>
 	</g>
 	<g id="POLYLINE_1104_">
 		
-			<rect x="274.183" y="426.631" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -225.0399 328.859)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="20.53" height="18.892"/>
+			<rect x="49.2" y="71.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -39.6698 65.6762)" class="st5" width="20.5" height="18.9"/>
 	</g>
 	<g id="ARC_160_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M303.125,427.957
-			c-1.35,1.307-1.385,3.46-0.078,4.81"/>
+		<path class="st5" d="M78.1,72.6c-1.4,1.3-1.4,3.5-0.1,4.8"/>
 	</g>
 	<g id="POLYLINE_1101_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="303.125" y1="427.957" x2="305.49" y2="430.401"/>
+		<line class="st5" x1="78.1" y1="72.6" x2="80.5" y2="75"/>
 	</g>
 	<g id="ARC_159_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M300.686,435.956
-			c1.307,1.35,3.46,1.385,4.81,0.078"/>
+		<path class="st5" d="M75.7,80.6c1.3,1.4,3.5,1.4,4.8,0.1"/>
 	</g>
 	<g id="POLYLINE_1099_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="300.686" y1="435.956" x2="303.13" y2="433.59"/>
+		<line class="st5" x1="75.7" y1="80.6" x2="78.1" y2="78.2"/>
 	</g>
 	<g id="POLYLINE_1098_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="303.939" y1="423.179" x2="302.556" y2="419.718"/>
+		<line class="st5" x1="78.9" y1="67.8" x2="77.6" y2="64.4"/>
 	</g>
 	<g id="POLYLINE_1096_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="304.496" y1="423.091" x2="304.751" y2="419.373"/>
+		<line class="st5" x1="79.5" y1="67.7" x2="79.8" y2="64"/>
 	</g>
 	<g id="POLYLINE_1094_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.025" y1="423.248" x2="306.838" y2="419.991"/>
+		<line class="st5" x1="80" y1="67.9" x2="81.8" y2="64.6"/>
 	</g>
 	<g id="POLYLINE_1093_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.622" y1="424.72" x2="309.191" y2="425.796"/>
+		<line class="st5" x1="80.6" y1="69.4" x2="84.2" y2="70.4"/>
 	</g>
 	<g id="POLYLINE_1092_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.661" y1="424.158" x2="309.343" y2="423.579"/>
+		<line class="st5" x1="80.7" y1="68.8" x2="84.3" y2="68.2"/>
 	</g>
 	<g id="POLYLINE_1091_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.451" y1="423.635" x2="308.517" y2="421.516"/>
+		<line class="st5" x1="80.5" y1="68.3" x2="83.5" y2="66.2"/>
 	</g>
 	<g id="POLYLINE_1090_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="304.323" y1="425.618" x2="304.068" y2="429.337"/>
+		<line class="st5" x1="79.3" y1="70.3" x2="79.1" y2="74"/>
 	</g>
 	<g id="POLYLINE_1089_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="304.88" y1="425.531" x2="306.264" y2="428.991"/>
+		<line class="st5" x1="79.9" y1="70.2" x2="81.3" y2="73.6"/>
 	</g>
 	<g id="POLYLINE_1088_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="305.344" y1="425.21" x2="308.092" y2="427.728"/>
+		<line class="st5" x1="80.3" y1="69.9" x2="83.1" y2="72.4"/>
 	</g>
 	<g id="CIRCLE_24_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M303.143,424.355
-			c0-0.699,0.567-1.266,1.266-1.266s1.266,0.567,1.266,1.266s-0.567,1.266-1.266,1.266S303.143,425.054,303.143,424.355
-			L303.143,424.355z"/>
+		<path class="st5" d="M78.1,69c0-0.7,0.6-1.3,1.3-1.3s1.3,0.6,1.3,1.3s-0.6,1.3-1.3,1.3S78.1,69.7,78.1,69L78.1,69z"/>
 	</g>
 	<g id="ARC_158_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M310.367,416.544
-			c1.381-1.274,1.467-3.426,0.194-4.807"/>
+		<path class="st5" d="M85.4,61.2c1.4-1.3,1.5-3.4,0.2-4.8"/>
 	</g>
 	<g id="POLYLINE_1087_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="310.367" y1="416.544" x2="308.06" y2="414.044"/>
+		<line class="st5" x1="85.4" y1="61.2" x2="83.1" y2="58.7"/>
 	</g>
 	<g id="ARC_157_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M327.748,440.604
-			c0-2.081-1.687-3.767-3.767-3.767"/>
+		<path class="st5" d="M102.7,85.3c0-2.1-1.7-3.8-3.8-3.8"/>
 	</g>
 	<g id="POLYLINE_1086_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="327.748" y1="440.604" x2="323.981" y2="440.604"/>
+		<line class="st5" x1="102.7" y1="85.3" x2="99" y2="85.3"/>
 	</g>
 	<g id="ARC_156_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M318.805,438.893
-			c1.879,0,3.402-1.523,3.402-3.402"/>
+		<path class="st5" d="M93.8,83.5c1.9,0,3.4-1.5,3.4-3.4"/>
 	</g>
 	<g id="POLYLINE_1085_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="318.805" y1="438.893" x2="318.805" y2="435.492"/>
+		<line class="st5" x1="93.8" y1="83.5" x2="93.8" y2="80.1"/>
 	</g>
 	<g id="ARC_155_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M307.889,436.206
-			c0.145,1.873,1.781,3.274,3.654,3.129"/>
+		<path class="st5" d="M82.9,80.9c0.1,1.9,1.8,3.3,3.7,3.1"/>
 	</g>
 	<g id="POLYLINE_1084_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="311.543" y1="439.336" x2="311.281" y2="435.944"/>
+		<line class="st5" x1="86.5" y1="84" x2="86.3" y2="80.6"/>
 	</g>
 	<g id="ARC_154_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M310.094,432.271
-			c1.35-1.307,1.385-3.46,0.078-4.81"/>
+		<path class="st5" d="M85.1,76.9c1.4-1.3,1.4-3.5,0.1-4.8"/>
 	</g>
 	<g id="POLYLINE_1083_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="310.172" y1="427.461" x2="307.728" y2="429.827"/>
+		<line class="st5" x1="85.2" y1="72.1" x2="82.7" y2="74.5"/>
 	</g>
 	<g id="ARC_153_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M314.68,399.233
-			c1.328-1.328,1.328-3.482,0-4.811"/>
+		<path class="st5" d="M89.7,43.9c1.3-1.3,1.3-3.5,0-4.8"/>
 	</g>
 	<g id="POLYLINE_1082_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="314.68" y1="394.422" x2="312.275" y2="396.827"/>
+		<line class="st5" x1="89.7" y1="39.1" x2="87.3" y2="41.5"/>
 	</g>
 	<g id="ARC_152_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M319.292,412.309
-			c0,1.879,1.523,3.402,3.402,3.402"/>
+		<path class="st5" d="M94.3,57c0,1.9,1.5,3.4,3.4,3.4"/>
 	</g>
 	<g id="POLYLINE_1081_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="322.694" y1="415.711" x2="322.694" y2="412.309"/>
+		<line class="st5" x1="97.7" y1="60.4" x2="97.7" y2="57"/>
 	</g>
 	<g id="ARC_151_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M318.562,406.896
-			c0,1.879,1.523,3.402,3.402,3.402"/>
+		<path class="st5" d="M93.6,51.5c0,1.9,1.5,3.4,3.4,3.4"/>
 	</g>
 	<g id="POLYLINE_1080_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="321.963" y1="410.297" x2="321.963" y2="406.896"/>
+		<line class="st5" x1="97" y1="54.9" x2="97" y2="51.5"/>
 	</g>
 	<g id="ARC_150_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M323.981,422.616
-			c1.874,0,3.392-1.519,3.392-3.393"/>
+		<path class="st5" d="M99,67.3c1.9,0,3.4-1.5,3.4-3.4"/>
 	</g>
 	<g id="POLYLINE_1079_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="327.374" y1="419.223" x2="323.981" y2="419.223"/>
+		<line class="st5" x1="102.4" y1="63.9" x2="99" y2="63.9"/>
 	</g>
 	<g id="ARC_149_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M297.856,401.188
-			c1.328-1.328,1.328-3.482,0-4.811"/>
+		<path class="st5" d="M72.9,45.8c1.3-1.3,1.3-3.5,0-4.8"/>
 	</g>
 	<g id="POLYLINE_1078_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="297.856" y1="396.378" x2="295.45" y2="398.783"/>
+		<line class="st5" x1="72.9" y1="41" x2="70.5" y2="43.4"/>
 	</g>
 	<g id="ARC_148_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M305.723,402.459
-			c-1.328-1.328-3.482-1.328-4.811,0"/>
+		<path class="st5" d="M80.7,47.1c-1.3-1.3-3.5-1.3-4.8,0"/>
 	</g>
 	<g id="POLYLINE_1077_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="300.913" y1="402.459" x2="303.318" y2="404.864"/>
+		<line class="st5" x1="75.9" y1="47.1" x2="78.3" y2="49.5"/>
 	</g>
 	<g id="ARC_147_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M302.363,406.699
-			c-1.328,1.328-1.328,3.482,0,4.811"/>
+		<path class="st5" d="M77.4,51.3c-1.3,1.3-1.3,3.5,0,4.8"/>
 	</g>
 	<g id="POLYLINE_1076_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="302.363" y1="406.699" x2="304.769" y2="409.104"/>
+		<line class="st5" x1="77.4" y1="51.3" x2="79.8" y2="53.8"/>
 	</g>
 	<g id="ARC_146_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M304.205,417.9
-			c1.328,1.328,3.482,1.328,4.811,0"/>
+		<path class="st5" d="M79.2,62.5c1.3,1.3,3.5,1.3,4.8,0"/>
 	</g>
 	<g id="POLYLINE_1075_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="309.015" y1="417.9" x2="306.61" y2="415.494"/>
+		<line class="st5" x1="84" y1="62.5" x2="81.6" y2="60.1"/>
 	</g>
 	<g id="POLYLINE_1074_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="324.548" y1="401.512" x2="324.548" y2="405.76"/>
+		<line class="st5" x1="99.5" y1="46.2" x2="99.5" y2="50.4"/>
 	</g>
 	<g id="POLYLINE_1073_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="401.512" x2="323.414" y2="405.76"/>
+		<line class="st5" x1="98.4" y1="46.2" x2="98.4" y2="50.4"/>
 	</g>
 	<g id="POLYLINE_1039_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="408.325" x2="323.414" y2="412.026"/>
+		<line class="st5" x1="98.4" y1="53" x2="98.4" y2="56.7"/>
 	</g>
 	<g id="POLYLINE_1038_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="324.548" y1="412.026" x2="324.548" y2="408.325"/>
+		<line class="st5" x1="99.5" y1="56.7" x2="99.5" y2="53"/>
 	</g>
 	<g id="POLYLINE_1037_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="414.488" x2="323.414" y2="416.257"/>
+		<line class="st5" x1="98.4" y1="59.1" x2="98.4" y2="60.9"/>
 	</g>
 	<g id="POLYLINE_1036_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="324.548" y1="416.257" x2="324.548" y2="414.488"/>
+		<line class="st5" x1="99.5" y1="60.9" x2="99.5" y2="59.1"/>
 	</g>
 	<g id="POLYLINE_1035_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="430.137" x2="323.414" y2="433.123"/>
+		<line class="st5" x1="98.4" y1="74.8" x2="98.4" y2="77.8"/>
 	</g>
 	<g id="POLYLINE_1034_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="324.548" y1="433.123" x2="324.548" y2="430.137"/>
+		<line class="st5" x1="99.5" y1="77.8" x2="99.5" y2="74.8"/>
 	</g>
 	<g id="POLYLINE_1033_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="447.418" x2="323.414" y2="443.169"/>
+		<line class="st5" x1="98.4" y1="92.1" x2="98.4" y2="87.8"/>
 	</g>
 	<g id="POLYLINE_1032_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="324.548" y1="443.169" x2="324.548" y2="447.418"/>
+		<line class="st5" x1="99.5" y1="87.8" x2="99.5" y2="92.1"/>
 	</g>
 	<g id="POLYLINE_1031_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="317.305" y1="454.229" x2="313.93" y2="454.229"/>
+		<line class="st5" x1="92.3" y1="98.9" x2="88.9" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1027_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="313.93" y1="455.362" x2="317.305" y2="455.362"/>
+		<line class="st5" x1="88.9" y1="100" x2="92.3" y2="100"/>
 	</g>
 	<g id="POLYLINE_1026_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="303.519" y1="455.362" x2="299.788" y2="455.362"/>
+		<line class="st5" x1="78.5" y1="100" x2="74.8" y2="100"/>
 	</g>
 	<g id="POLYLINE_1025_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="303.519" y1="454.229" x2="299.788" y2="454.229"/>
+		<line class="st5" x1="78.5" y1="98.9" x2="74.8" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1024_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="287.891" y1="455.362" x2="284.419" y2="455.362"/>
+		<line class="st5" x1="62.9" y1="100" x2="59.4" y2="100"/>
 	</g>
 	<g id="POLYLINE_1023_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="287.891" y1="454.229" x2="284.419" y2="454.229"/>
+		<line class="st5" x1="62.9" y1="98.9" x2="59.4" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1022_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="281.71" y1="455.362" x2="277.611" y2="455.362"/>
+		<line class="st5" x1="56.7" y1="100" x2="52.6" y2="100"/>
 	</g>
 	<g id="POLYLINE_1021_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="281.71" y1="454.229" x2="277.611" y2="454.229"/>
+		<line class="st5" x1="56.7" y1="98.9" x2="52.6" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1020_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="274.596" y1="455.362" x2="271.974" y2="455.362"/>
+		<line class="st5" x1="49.6" y1="100" x2="47" y2="100"/>
 	</g>
 	<g id="POLYLINE_1019_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="274.596" y1="454.229" x2="271.974" y2="454.229"/>
+		<line class="st5" x1="49.6" y1="98.9" x2="47" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1018_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="274.596" y1="393.567" x2="271.696" y2="393.567"/>
+		<line class="st5" x1="49.6" y1="38.2" x2="46.7" y2="38.2"/>
 	</g>
 	<g id="POLYLINE_1017_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="287.922" y1="395.354" x2="285.022" y2="395.354"/>
+		<line class="st5" x1="62.9" y1="40" x2="60" y2="40"/>
 	</g>
 	<g id="POLYLINE_1016_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="287.932" y1="393.567" x2="285.012" y2="393.567"/>
+		<line class="st5" x1="62.9" y1="38.2" x2="60" y2="38.2"/>
 	</g>
 	<g id="POLYLINE_1011_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="309.837" y1="394.701" x2="305.864" y2="394.701"/>
+		<line class="st5" x1="84.8" y1="39.3" x2="80.9" y2="39.3"/>
 	</g>
 	<g id="POLYLINE_1010_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="302.661" y1="394.701" x2="299.788" y2="394.701"/>
+		<line class="st5" x1="77.7" y1="39.3" x2="74.8" y2="39.3"/>
 	</g>
 	<g id="POLYLINE_1009_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="302.661" y1="393.567" x2="299.788" y2="393.567"/>
+		<line class="st5" x1="77.7" y1="38.2" x2="74.8" y2="38.2"/>
 	</g>
 	<g id="POLYLINE_1008_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="309.837" y1="393.567" x2="305.864" y2="393.567"/>
+		<line class="st5" x1="84.8" y1="38.2" x2="80.9" y2="38.2"/>
 	</g>
 	<g id="POLYLINE_1007_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="315.537" y1="393.567" x2="312.302" y2="393.567"/>
+		<line class="st5" x1="90.5" y1="38.2" x2="87.3" y2="38.2"/>
 	</g>
 	<g id="POLYLINE_1006_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" points="
-			270.013,443.712 266.585,447.14 270.7,451.256 274.129,447.828 		"/>
+		<polyline class="st5" points="45,88.4 41.6,91.8 45.7,95.9 49.1,92.5 		"/>
 	</g>
 	<g id="POLYLINE_1005_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" points="
-			270.013,405.218 266.585,401.789 270.7,397.673 274.129,401.102 		"/>
+		<polyline class="st5" points="45,49.9 41.6,46.4 45.7,42.3 49.1,45.7 		"/>
 	</g>
 	<g id="POLYLINE_1004_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" points="
-			317.288,405.218 320.716,401.789 316.6,397.673 313.172,401.102 		"/>
+		<polyline class="st5" points="92.3,49.9 95.7,46.4 91.6,42.3 88.2,45.7 		"/>
 	</g>
 	<g id="POLYLINE_1003_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" points="
-			317.288,443.712 320.716,447.14 316.6,451.256 313.172,447.828 		"/>
+		<polyline class="st5" points="92.3,88.4 95.7,91.8 91.6,95.9 88.2,92.5 		"/>
 	</g>
 	<g id="ARC_112_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M261.285,389.384
-			c-1.008-0.618-2.318-0.39-3.057,0.533"/>
+		<path class="st5" d="M36.3,34c-1-0.6-2.3-0.4-3.1,0.5"/>
 	</g>
 	<g id="ARC_111_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M258.832,393.383
-			c1.008,0.618,2.318,0.39,3.057-0.533"/>
+		<path class="st5" d="M33.8,38c1,0.6,2.3,0.4,3.1-0.5"/>
 	</g>
 	<g id="POLYLINE_1002_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.472" y1="388.52" x2="263.298" y2="393.262"/>
+		<line class="st5" x1="37.5" y1="33.2" x2="38.3" y2="37.9"/>
 	</g>
 	<g id="POLYLINE_1001_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="256.818" y1="389.505" x2="257.644" y2="394.247"/>
+		<line class="st5" x1="31.8" y1="34.2" x2="32.6" y2="38.9"/>
 	</g>
 	<g id="POLYLINE_1000_">
-		
-			<rect x="258.299" y="388.514" transform="matrix(0.1716 0.9852 -0.9852 0.1716 601.0031 68.014)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="3.519" height="5.739"/>
+		<rect x="32.2" y="34.3" transform="matrix(0.9852 -0.1716 0.1716 0.9852 -5.6634 6.5468)" class="st5" width="5.7" height="3.5"/>
 	</g>
 	<g id="POLYLINE_999_">
-		
-			<rect x="255.65" y="452.247" transform="matrix(-0.932 0.3625 -0.3625 -0.932 662.2944 785.9614)" fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" width="3.519" height="5.739"/>
+		<rect x="30.6" y="96.9" transform="matrix(0.932 -0.3625 0.3625 0.932 -33.9552 18.5326)" class="st5" width="3.5" height="5.7"/>
 	</g>
 	<g id="POLYLINE_998_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="258.612" y1="451.569" x2="254.126" y2="453.314"/>
+		<line class="st5" x1="33.6" y1="96.2" x2="29.1" y2="98"/>
 	</g>
 	<g id="POLYLINE_997_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="260.693" y1="456.918" x2="256.206" y2="458.663"/>
+		<line class="st5" x1="35.7" y1="101.6" x2="31.2" y2="103.3"/>
 	</g>
 	<g id="ARC_110_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M255.207,454.308
-			c-0.407,1.11,0.075,2.349,1.125,2.892"/>
+		<path class="st5" d="M30.2,99c-0.4,1.1,0.1,2.3,1.1,2.9"/>
 	</g>
 	<g id="ARC_109_">
-		<path fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" d="M259.611,455.925
-			c0.407-1.11-0.075-2.349-1.125-2.892"/>
+		<path class="st5" d="M34.6,100.6c0.4-1.1-0.1-2.3-1.1-2.9"/>
 	</g>
 	<g id="POLYLINE_996_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="269.431" y1="472.633" x2="269.431" y2="477.434"/>
+		<line class="st5" x1="44.4" y1="117.3" x2="44.4" y2="122.1"/>
 	</g>
 	<g id="POLYLINE_995_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="267.534" y1="472.633" x2="269.431" y2="474.53"/>
+		<line class="st5" x1="42.5" y1="117.3" x2="44.4" y2="119.2"/>
 	</g>
 	<g id="POLYLINE_994_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="318.066" y1="472.633" x2="316.169" y2="474.53"/>
+		<line class="st5" x1="93.1" y1="117.3" x2="91.2" y2="119.2"/>
 	</g>
 	<g id="POLYLINE_993_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="316.169" y1="472.633" x2="316.169" y2="477.434"/>
+		<line class="st5" x1="91.2" y1="117.3" x2="91.2" y2="122.1"/>
 	</g>
 	<g id="POLYLINE_992_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="245.482" y1="401.946" x2="240.681" y2="401.946"/>
+		<line class="st5" x1="20.5" y1="46.6" x2="15.7" y2="46.6"/>
 	</g>
 	<g id="POLYLINE_991_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="245.482" y1="400.049" x2="243.586" y2="401.946"/>
+		<line class="st5" x1="20.5" y1="44.7" x2="18.6" y2="46.6"/>
 	</g>
 	<g id="POLYLINE_990_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="245.482" y1="450.581" x2="243.586" y2="448.684"/>
+		<line class="st5" x1="20.5" y1="95.2" x2="18.6" y2="93.3"/>
 	</g>
 	<g id="POLYLINE_989_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="245.482" y1="448.684" x2="240.681" y2="448.684"/>
+		<line class="st5" x1="20.5" y1="93.3" x2="15.7" y2="93.3"/>
 	</g>
 	<g id="POLYLINE_988_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="340.968" y1="401.096" x2="345.769" y2="401.096"/>
+		<line class="st5" x1="116" y1="45.7" x2="120.8" y2="45.7"/>
 	</g>
 	<g id="POLYLINE_987_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="340.968" y1="399.199" x2="342.865" y2="401.096"/>
+		<line class="st5" x1="116" y1="43.8" x2="117.9" y2="45.7"/>
 	</g>
 	<g id="POLYLINE_986_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="340.968" y1="449.731" x2="342.865" y2="447.834"/>
+		<line class="st5" x1="116" y1="94.4" x2="117.9" y2="92.5"/>
 	</g>
 	<g id="POLYLINE_985_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="340.968" y1="447.834" x2="345.769" y2="447.834"/>
+		<line class="st5" x1="116" y1="92.5" x2="120.8" y2="92.5"/>
 	</g>
 	<g id="POLYLINE_984_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="270.281" y1="377.147" x2="270.281" y2="372.346"/>
+		<line class="st5" x1="45.3" y1="21.8" x2="45.3" y2="17"/>
 	</g>
 	<g id="POLYLINE_983_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="268.384" y1="377.147" x2="270.281" y2="375.25"/>
+		<line class="st5" x1="43.4" y1="21.8" x2="45.3" y2="19.9"/>
 	</g>
 	<g id="POLYLINE_982_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="318.917" y1="377.147" x2="317.02" y2="375.25"/>
+		<line class="st5" x1="93.9" y1="21.8" x2="92" y2="19.9"/>
 	</g>
 	<g id="POLYLINE_981_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="317.02" y1="377.147" x2="317.02" y2="372.346"/>
+		<line class="st5" x1="92" y1="21.8" x2="92" y2="17"/>
 	</g>
 	<g id="POLYLINE_980_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="447.06" x2="264.54" y2="443.828"/>
+		<line class="st5" x1="39.5" y1="91.7" x2="39.5" y2="88.5"/>
 	</g>
 	<g id="POLYLINE_979_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="443.984" x2="262.753" y2="446.904"/>
+		<line class="st5" x1="37.8" y1="88.6" x2="37.8" y2="91.6"/>
 	</g>
 	<g id="POLYLINE_978_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="440.383" x2="264.54" y2="437.151"/>
+		<line class="st5" x1="39.5" y1="85" x2="39.5" y2="81.8"/>
 	</g>
 	<g id="POLYLINE_975_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="437.306" x2="262.753" y2="440.227"/>
+		<line class="st5" x1="37.8" y1="82" x2="37.8" y2="84.9"/>
 	</g>
 	<g id="POLYLINE_974_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="434.027" x2="262.753" y2="431.106"/>
+		<line class="st5" x1="37.8" y1="78.7" x2="37.8" y2="75.8"/>
 	</g>
 	<g id="POLYLINE_973_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="430.95" x2="264.54" y2="434.182"/>
+		<line class="st5" x1="39.5" y1="75.6" x2="39.5" y2="78.8"/>
 	</g>
 	<g id="POLYLINE_972_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="417.824" x2="262.753" y2="414.903"/>
+		<line class="st5" x1="37.8" y1="62.5" x2="37.8" y2="59.6"/>
 	</g>
 	<g id="POLYLINE_939_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="414.747" x2="264.54" y2="417.979"/>
+		<line class="st5" x1="39.5" y1="59.4" x2="39.5" y2="62.6"/>
 	</g>
 	<g id="POLYLINE_926_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="411.779" x2="264.54" y2="408.547"/>
+		<line class="st5" x1="39.5" y1="56.4" x2="39.5" y2="53.2"/>
 	</g>
 	<g id="POLYLINE_925_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="408.702" x2="262.753" y2="411.623"/>
+		<line class="st5" x1="37.8" y1="53.3" x2="37.8" y2="56.3"/>
 	</g>
 	<g id="POLYLINE_924_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="262.753" y1="402.025" x2="262.753" y2="404.946"/>
+		<line class="st5" x1="37.8" y1="46.7" x2="37.8" y2="49.6"/>
 	</g>
 	<g id="POLYLINE_923_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="264.54" y1="401.869" x2="264.54" y2="405.101"/>
+		<line class="st5" x1="39.5" y1="46.5" x2="39.5" y2="49.7"/>
 	</g>
 	<g id="LINE_91_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="281.265" y1="395.354" x2="278.118" y2="395.354"/>
+		<line class="st5" x1="56.3" y1="40" x2="53.1" y2="40"/>
 	</g>
 	<g id="LINE_40_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="281.265" y1="393.567" x2="278.118" y2="393.567"/>
+		<line class="st5" x1="56.3" y1="38.2" x2="53.1" y2="38.2"/>
 	</g>
 	<g id="LINE_39_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.08" stroke-linecap="square" stroke-miterlimit="10" x1="274.362" y1="395.354" x2="271.979" y2="395.354"/>
+		<line class="st5" x1="49.4" y1="40" x2="47" y2="40"/>
 	</g>
 </g>
 <g id="PLAN_x24_CLOISON_TRANSLUCIDE">
 </g>
 <g id="PLAN_x24_CLOISON_1.3">
 	<g id="POLYLINE_902_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			306.954,428.652 307.929,429.626 307.528,430.027 306.896,429.396 305.691,430.601 		"/>
+		<polyline class="st6" points="82,73.3 82.9,74.3 82.5,74.7 81.9,74 80.7,75.2 		"/>
 	</g>
 	<g id="POLYLINE_901_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="305.691" y1="430.601" x2="305.29" y2="430.2"/>
+		<line class="st6" x1="80.7" y1="75.2" x2="80.3" y2="74.8"/>
 	</g>
 	<g id="POLYLINE_900_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="305.29" y1="430.2" x2="306.697" y2="428.794"/>
+		<line class="st6" x1="80.3" y1="74.8" x2="81.7" y2="73.4"/>
 	</g>
 	<g id="POLYLINE_899_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,441.171 317.489,441.171 317.489,435.748 311.302,436.227 311.259,435.662 313.026,435.525 309.93,432.43 		"/>
+		<polyline class="st6" points="98.4,85.8 92.5,85.8 92.5,80.4 86.3,80.9 86.3,80.3 88,80.2 84.9,77.1 		"/>
 	</g>
 	<g id="POLYLINE_898_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="309.93" y1="432.43" x2="310.338" y2="432.035"/>
+		<line class="st6" x1="84.9" y1="77.1" x2="85.3" y2="76.7"/>
 	</g>
 	<g id="POLYLINE_897_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			310.338,432.035 313.77,435.467 317.862,435.151 317.884,435.151 318.805,435.151 318.805,435.718 318.056,435.718 
-			318.056,440.604 323.414,440.604 		"/>
+		<polyline class="st6" points="85.3,76.7 88.8,80.1 92.9,79.8 92.9,79.8 93.8,79.8 93.8,80.4 93.1,80.4 93.1,85.3 98.4,85.3 		"/>
 	</g>
 	<g id="POLYLINE_896_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			289.935,424.337 300.544,434.947 302.885,432.606 		"/>
+		<polyline class="st6" points="64.9,69 75.5,79.6 77.9,77.3 		"/>
 	</g>
 	<g id="POLYLINE_865_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="302.885" y1="432.606" x2="303.286" y2="433.007"/>
+		<line class="st6" x1="77.9" y1="77.3" x2="78.3" y2="77.7"/>
 	</g>
 	<g id="POLYLINE_864_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			303.286,433.007 303.116,433.176 303.331,433.39 302.93,433.791 302.716,433.577 296.47,439.822 296.069,439.421 300.143,435.348 
-			283.064,418.268 268.401,432.931 268.401,435.861 284.015,451.475 291.258,444.232 291.659,444.633 284.015,452.277 
-			276.847,445.109 		"/>
+		<polyline class="st6" points="78.3,77.7 78.1,77.8 78.3,78 77.9,78.4 77.7,78.2 71.5,84.5 71.1,84.1 75.1,80 58.1,62.9 43.4,77.6 
+			43.4,80.5 59,96.1 66.3,88.9 66.7,89.3 59,96.9 51.8,89.8 		"/>
 	</g>
 	<g id="POLYLINE_2103_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			314.66,399.613 314.48,399.433 314.881,399.032 315.061,399.213 		"/>
+		<polyline class="st6" points="89.7,44.3 89.5,44.1 89.9,43.7 90.1,43.9 		"/>
 	</g>
 	<g id="POLYLINE_2104_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			312.216,394.701 312.216,396.367 312.476,396.627 312.075,397.028 311.815,396.768 305.924,402.66 305.523,402.259 
-			311.836,395.946 311.836,394.701 		"/>
+		<polyline class="st6" points="87.2,39.3 87.2,41 87.5,41.3 87.1,41.7 86.8,41.4 80.9,47.3 80.5,46.9 86.8,40.6 86.8,39.3 		"/>
 	</g>
 	<g id="POLYLINE_2113_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			304.869,408.603 304.568,408.904 304.969,409.305 305.671,408.603 302.826,405.758 303.519,405.065 303.118,404.664 
-			302.425,405.357 298.056,400.988 297.655,401.389 		"/>
+		<polygon class="st6" points="79.9,53.3 79.6,53.6 80,54 80.7,53.3 77.8,50.4 78.5,49.7 78.1,49.3 77.4,50 73.1,45.6 72.7,46 		"/>
 	</g>
 	<g id="POLYLINE_2114_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			315.893,406.612 318.562,406.612 318.562,407.179 315.326,407.179 		"/>
+		<polyline class="st6" points="90.9,51.3 93.6,51.3 93.6,51.8 90.3,51.8 		"/>
 	</g>
 	<g id="POLYLINE_2115_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			289.936,424.338 302.564,411.71 302.163,411.309 289.535,423.937 283.064,417.466 267.834,432.696 267.834,436.096 
-			272.732,440.993 		"/>
+		<polyline class="st6" points="64.9,69 77.6,56.4 77.2,56 64.5,68.6 58.1,62.1 42.8,77.3 42.8,80.7 47.7,85.6 		"/>
 	</g>
 	<g id="POLYLINE_2116_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,435.718 322.207,435.718 322.207,435.151 323.414,435.151 		"/>
+		<polyline class="st6" points="98.4,80.4 97.2,80.4 97.2,79.8 98.4,79.8 		"/>
 	</g>
 	<g id="POLYLINE_2117_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			307.911,436.489 306.508,436.598 304.574,438.532 304.574,443.611 304.007,443.611 304.007,438.297 305.721,436.582 
-			305.335,436.196 305.736,435.795 306.008,436.068 307.867,435.924 		"/>
+		<polygon class="st6" points="82.9,81.1 81.5,81.2 79.6,83.2 79.6,88.3 79,88.3 79,82.9 80.7,81.2 80.3,80.8 80.7,80.4 81,80.7 
+			82.9,80.6 		"/>
 	</g>
 	<g id="POLYLINE_2118_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			304.007,454.229 304.007,450.414 304.574,450.414 304.574,454.229 		"/>
+		<polyline class="st6" points="79,98.9 79,95.1 79.6,95.1 79.6,98.9 		"/>
 	</g>
 	<g id="POLYLINE_2119_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			306.59,419.863 310.225,417.732 307.554,414.951 306.811,415.695 306.41,415.294 307.86,413.844 308.261,414.245 307.955,414.55 
-			310.728,417.437 315.076,414.889 317.864,412.184 314.168,408.337 310.666,411.84 310.265,411.439 313.768,407.936 		"/>
+		<polyline class="st6" points="81.6,64.5 85.2,62.4 82.6,59.6 81.8,60.3 81.4,59.9 82.9,58.5 83.3,58.9 83,59.2 85.7,62.1 
+			90.1,59.5 92.9,56.8 89.2,53 85.7,56.5 85.3,56.1 88.8,52.6 		"/>
 	</g>
 	<g id="POLYLINE_2120_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			300.818,420.885 304.004,417.699 304.405,418.1 302.915,419.59 		"/>
+		<polyline class="st6" points="75.8,65.5 79,62.3 79.4,62.7 77.9,64.2 		"/>
 	</g>
 	<g id="POLYLINE_2121_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,407.179 321.963,407.179 321.963,406.612 323.414,406.612 		"/>
+		<polyline class="st6" points="98.4,51.8 97,51.8 97,51.3 98.4,51.3 		"/>
 	</g>
 	<g id="POLYLINE_2122_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,412.593 322.694,412.593 322.694,412.026 323.414,412.026 		"/>
+		<polyline class="st6" points="98.4,57.2 97.7,57.2 97.7,56.7 98.4,56.7 		"/>
 	</g>
 	<g id="POLYLINE_2123_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			314.577,407.944 318.498,412.026 319.292,412.026 319.292,412.593 318.256,412.593 315.881,414.898 316.878,418.219 
-			323.414,416.257 		"/>
+		<polyline class="st6" points="89.6,52.6 93.5,56.7 94.3,56.7 94.3,57.2 93.3,57.2 90.9,59.5 91.9,62.9 98.4,60.9 		"/>
 	</g>
 	<g id="POLYLINE_2126_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			276.192,424.337 271.468,424.337 271.468,424.734 275.796,424.734 		"/>
+		<polyline class="st6" points="51.2,69 46.5,69 46.5,69.4 50.8,69.4 		"/>
 	</g>
 	<g id="LINE_311_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="284.299" y1="451.993" x2="284.299" y2="454.229"/>
+		<line class="st6" x1="59.3" y1="96.6" x2="59.3" y2="98.9"/>
 	</g>
 	<g id="LINE_312_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="283.732" y1="451.993" x2="283.732" y2="454.229"/>
+		<line class="st6" x1="58.7" y1="96.6" x2="58.7" y2="98.9"/>
 	</g>
 	<g id="LINE_315_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" x1="289.134" y1="424.338" x2="289.135" y2="424.337"/>
+		<line class="st6" x1="64.1" y1="69" x2="64.1" y2="69"/>
 	</g>
 	<g id="POLYLINE_863_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			319.798,424.259 319.798,417.935 316.498,418.925 315.422,415.343 307.159,420.186 		"/>
+		<polyline class="st6" points="94.8,68.9 94.8,62.6 91.5,63.6 90.4,60 82.2,64.8 		"/>
 	</g>
 	<g id="POLYLINE_862_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,416.849 320.365,417.765 320.365,424.107 		"/>
+		<polyline class="st6" points="98.4,61.5 95.4,62.4 95.4,68.8 		"/>
 	</g>
 	<g id="POLYLINE_2574_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.14" stroke-linecap="square" stroke-miterlimit="10" points="
-			294.537,398.27 295.25,398.983 295.651,398.583 294.807,397.738 		"/>
+		<polyline class="st6" points="69.5,42.9 70.2,43.6 70.7,43.2 69.8,42.4 		"/>
 	</g>
 </g>
 <g id="PLAN_x24_CLOISON_1.2">
@@ -1031,355 +786,275 @@
 </g>
 <g id="PLAN_x24_STRUCTURE_2.3">
 	<g id="POLYLINE_1490_">
-		
-			<rect x="323.414" y="422.616" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="7.522"/>
+		<rect x="98.4" y="67.3" class="st7" width="1.1" height="7.5"/>
 	</g>
 	<g id="POLYLINE_1488_">
-		
-			<rect x="323.414" y="405.76" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="2.565"/>
+		<rect x="98.4" y="50.4" class="st7" width="1.1" height="2.6"/>
 	</g>
 	<g id="POLYLINE_1486_">
-		
-			<rect x="323.414" y="440.604" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="2.565"/>
+		<rect x="98.4" y="85.3" class="st7" width="1.1" height="2.6"/>
 	</g>
 	<g id="POLYLINE_1483_">
-		
-			<rect x="323.414" y="416.257" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="2.966"/>
+		<rect x="98.4" y="60.9" class="st7" width="1.1" height="3"/>
 	</g>
 	<g id="POLYLINE_1482_">
-		
-			<rect x="323.414" y="412.026" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="2.462"/>
+		<rect x="98.4" y="56.7" class="st7" width="1.1" height="2.5"/>
 	</g>
 	<g id="POLYLINE_1481_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			299.788,454.229 287.891,454.229 287.891,455.362 299.788,455.362 		"/>
+		<polyline class="st7" points="74.8,98.9 62.9,98.9 62.9,100 74.8,100 		"/>
 	</g>
 	<g id="POLYLINE_1480_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			323.414,447.418 323.414,454.229 317.305,454.229 317.305,455.362 324.548,455.362 324.548,447.418 		"/>
+		<polygon class="st7" points="98.4,92.1 98.4,98.9 92.3,98.9 92.3,100 99.5,100 99.5,92.1 		"/>
 	</g>
 	<g id="POLYLINE_1479_">
-		
-			<rect x="323.414" y="433.122" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.134" height="3.715"/>
+		<rect x="98.4" y="77.8" class="st7" width="1.1" height="3.7"/>
 	</g>
 	<g id="POLYLINE_1478_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			263.887,402.025 264.54,402.025 264.54,401.869 264.54,401.181 263.887,401.181 263.887,394.701 271.299,394.701 271.299,395.354 
-			271.979,395.354 271.979,394.957 271.696,394.957 271.696,394.701 271.696,393.567 262.753,393.567 262.753,402.025 		"/>
+		<polygon class="st7" points="38.9,46.7 39.5,46.7 39.5,46.5 39.5,45.8 38.9,45.8 38.9,39.3 46.3,39.3 46.3,40 47,40 47,39.6 
+			46.7,39.6 46.7,39.3 46.7,38.2 37.8,38.2 37.8,46.7 		"/>
 	</g>
 	<g id="POLYLINE_1477_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			264.54,414.747 264.54,414.903 263.887,414.903 262.753,414.903 262.753,411.623 263.887,411.623 264.54,411.623 264.54,411.779 
-			264.54,412.467 263.887,412.467 263.887,414.059 264.54,414.059 		"/>
+		<polygon class="st7" points="39.5,59.4 39.5,59.6 38.9,59.6 37.8,59.6 37.8,56.3 38.9,56.3 39.5,56.3 39.5,56.4 39.5,57.1 
+			38.9,57.1 38.9,58.7 39.5,58.7 		"/>
 	</g>
 	<g id="POLYLINE_1476_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			264.54,430.95 264.54,431.106 263.887,431.106 262.753,431.106 262.753,417.824 263.887,417.824 264.54,417.824 264.54,417.979 
-			264.54,418.667 263.887,418.667 263.887,430.262 264.54,430.262 		"/>
+		<polygon class="st7" points="39.5,75.6 39.5,75.8 38.9,75.8 37.8,75.8 37.8,62.5 38.9,62.5 39.5,62.5 39.5,62.6 39.5,63.3 
+			38.9,63.3 38.9,74.9 39.5,74.9 		"/>
 	</g>
 	<g id="POLYLINE_1475_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			264.54,437.151 264.54,437.306 263.887,437.306 262.753,437.306 262.753,434.027 263.887,434.027 264.54,434.027 264.54,434.182 
-			264.54,434.87 263.887,434.87 263.887,436.463 264.54,436.463 		"/>
+		<polygon class="st7" points="39.5,81.8 39.5,82 38.9,82 37.8,82 37.8,78.7 38.9,78.7 39.5,78.7 39.5,78.8 39.5,79.5 38.9,79.5 
+			38.9,81.1 39.5,81.1 		"/>
 	</g>
 	<g id="POLYLINE_1474_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			264.54,443.828 264.54,443.984 263.887,443.984 262.753,443.984 262.753,440.227 263.887,440.227 264.54,440.227 264.54,440.383 
-			264.54,441.071 263.887,441.071 263.887,443.14 264.54,443.14 		"/>
+		<polygon class="st7" points="39.5,88.5 39.5,88.6 38.9,88.6 37.8,88.6 37.8,84.9 38.9,84.9 39.5,84.9 39.5,85 39.5,85.7 
+			38.9,85.7 38.9,87.8 39.5,87.8 		"/>
 	</g>
 	<g id="POLYLINE_1473_">
-		
-			<rect x="309.837" y="393.567" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="2.465" height="1.134"/>
+		<rect x="84.8" y="38.2" class="st7" width="2.5" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1472_">
-		
-			<rect x="302.661" y="393.567" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="3.203" height="1.134"/>
+		<rect x="77.7" y="38.2" class="st7" width="3.2" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1471_">
-		
-			<rect x="274.596" y="454.229" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="3.015" height="1.134"/>
+		<rect x="49.6" y="98.9" class="st7" width="3" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1470_">
-		
-			<rect x="281.71" y="454.229" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="2.71" height="1.134"/>
+		<rect x="56.7" y="98.9" class="st7" width="2.7" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1469_">
-		
-			<rect x="303.519" y="454.229" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="1.532" height="1.134"/>
+		<rect x="78.5" y="98.9" class="st7" width="1.5" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1468_">
-		
-			<rect x="311.704" y="454.229" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="2.226" height="1.134"/>
+		<rect x="86.7" y="98.9" class="st7" width="2.2" height="1.1"/>
 	</g>
 	<g id="POLYLINE_1467_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			315.537,393.567 324.548,393.567 324.548,401.512 323.414,401.512 323.414,394.701 315.537,394.701 		"/>
+		<polygon class="st7" points="90.5,38.2 99.5,38.2 99.5,46.2 98.4,46.2 98.4,39.3 90.5,39.3 		"/>
 	</g>
 	<g id="POLYLINE_1466_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			271.974,454.229 271.974,455.362 262.753,455.362 262.753,446.904 263.887,446.904 264.54,446.904 264.54,447.06 264.54,447.748 
-			263.887,447.748 263.887,454.229 		"/>
+		<polygon class="st7" points="47,98.9 47,100 37.8,100 37.8,91.6 38.9,91.6 39.5,91.6 39.5,91.7 39.5,92.4 38.9,92.4 38.9,98.9 		
+			"/>
 	</g>
 	<g id="POLYLINE_1465_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="398.209" x2="319.906" y2="394.701"/>
+		<line class="st7" x1="98.4" y1="42.9" x2="94.9" y2="39.3"/>
 	</g>
 	<g id="POLYLINE_1464_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="299.738" y1="454.229" x2="299.738" y2="455.362"/>
+		<line class="st7" x1="74.7" y1="98.9" x2="74.7" y2="100"/>
 	</g>
 	<g id="POLYLINE_1463_">
 		
-			<rect x="311.464" y="441.3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 405.9757 -91.6922)" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="4.411" height="5.821"/>
+			<rect x="85.8" y="86.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -36.8574 88.7236)" class="st7" width="5.8" height="4.4"/>
 	</g>
 	<g id="POLYLINE_1462_">
 		
-			<rect x="271.425" y="441.3" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -233.9593 323.5923)" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="4.411" height="5.821"/>
+			<rect x="46.4" y="85.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -48.5894 60.4095)" class="st7" width="4.4" height="5.8"/>
 	</g>
 	<g id="POLYLINE_1461_">
 		
-			<rect x="271.425" y="401.809" transform="matrix(0.7071 0.7071 -0.7071 0.7071 366.3245 -74.9466)" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="4.411" height="5.821"/>
+			<rect x="45.7" y="47.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -20.6608 48.8456)" class="st7" width="5.8" height="4.4"/>
 	</g>
 	<g id="POLYLINE_1460_">
 		
-			<rect x="310.76" y="402.514" transform="matrix(0.7071 0.7071 -0.7071 0.7071 378.0518 -103.2587)" fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" width="5.821" height="4.411"/>
+			<rect x="86.5" y="46.5" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -8.9336 77.1579)" class="st7" width="4.4" height="5.8"/>
 	</g>
 	<g id="POLYLINE_1459_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="267.395" y1="454.229" x2="263.887" y2="450.72"/>
+		<line class="st7" x1="42.4" y1="98.9" x2="38.9" y2="95.4"/>
 	</g>
 	<g id="POLYLINE_1458_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="267.395" y1="394.701" x2="263.887" y2="398.209"/>
+		<line class="st7" x1="42.4" y1="39.3" x2="38.9" y2="42.9"/>
 	</g>
 	<g id="POLYLINE_1457_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="450.72" x2="319.906" y2="454.229"/>
+		<line class="st7" x1="98.4" y1="95.4" x2="94.9" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1456_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" x1="278.118" y1="394.701" x2="278.118" y2="394.957"/>
+		<line class="st7" x1="53.1" y1="39.3" x2="53.1" y2="39.6"/>
 	</g>
 	<g id="POLYLINE_1455_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			263.887,408.702 262.753,408.702 262.753,404.946 263.887,404.946 264.54,404.946 264.54,405.101 264.54,405.789 263.887,405.789 
-			263.887,407.859 264.54,407.859 264.54,408.547 264.54,408.702 		"/>
+		<polygon class="st7" points="38.9,53.3 37.8,53.3 37.8,49.6 38.9,49.6 39.5,49.6 39.5,49.7 39.5,50.4 38.9,50.4 38.9,52.5 
+			39.5,52.5 39.5,53.2 39.5,53.3 		"/>
 	</g>
 	<g id="POLYLINE_1454_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			274.362,394.701 274.362,393.567 278.118,393.567 278.118,394.701 278.118,395.354 277.963,395.354 277.275,395.354 
-			277.275,394.701 275.205,394.701 275.205,395.354 274.517,395.354 274.362,395.354 		"/>
+		<polygon class="st7" points="49.4,39.3 49.4,38.2 53.1,38.2 53.1,39.3 53.1,40 53,40 52.3,40 52.3,39.3 50.2,39.3 50.2,40 
+			49.5,40 49.4,40 		"/>
 	</g>
 	<g id="POLYLINE_1453_">
-		<polygon fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" points="
-			281.265,394.701 281.265,393.567 285.022,393.567 285.022,394.701 285.022,395.354 284.866,395.354 284.178,395.354 
-			284.178,394.701 282.109,394.701 282.109,395.354 281.421,395.354 281.265,395.354 		"/>
+		<polygon class="st7" points="56.3,39.3 56.3,38.2 60,38.2 60,39.3 60,40 59.9,40 59.2,40 59.2,39.3 57.1,39.3 57.1,40 56.4,40 
+			56.3,40 		"/>
 	</g>
 	<g id="POLYLINE_1452_">
-		<path fill="none" stroke="#000000" stroke-width="0.27" stroke-linecap="square" stroke-miterlimit="10" d="M299.788,393.567
-			h-11.855c-0.01,0-0.01,1.39-0.01,1.39v0.397h0.688v-0.653h11.177V393.567z"/>
+		<path class="st7" d="M74.8,38.2H62.9c0,0,0,1.4,0,1.4V40h0.7v-0.7h11.2L74.8,38.2L74.8,38.2z"/>
 	</g>
 </g>
 <g id="PLAN_x24_STRUCTURE_2.2">
 </g>
 <g id="PLAN_x24_STRUCTURE_2.1">
 	<g id="POLYLINE_806_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.008" y1="397.241" x2="293.65" y2="397.241"/>
+		<line class="st8" x1="68" y1="41.9" x2="68.6" y2="41.9"/>
 	</g>
 	<g id="POLYLINE_805_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.65" y1="397.241" x2="294.293" y2="397.241"/>
+		<line class="st8" x1="68.6" y1="41.9" x2="69.3" y2="41.9"/>
 	</g>
 	<g id="POLYLINE_804_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.008" y1="451.688" x2="293.65" y2="451.688"/>
+		<line class="st8" x1="68" y1="96.3" x2="68.6" y2="96.3"/>
 	</g>
 	<g id="POLYLINE_803_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.65" y1="451.688" x2="294.293" y2="451.688"/>
+		<line class="st8" x1="68.6" y1="96.3" x2="69.3" y2="96.3"/>
 	</g>
 	<g id="LINE_313_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="294.225" y1="422.211" x2="291.277" y2="425.159"/>
+		<line class="st8" x1="69.2" y1="66.9" x2="66.3" y2="69.8"/>
 	</g>
 	<g id="LINE_314_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="295.93" y1="423.915" x2="292.981" y2="426.864"/>
+		<line class="st8" x1="70.9" y1="68.6" x2="68" y2="71.5"/>
 	</g>
 	<g id="POLYLINE_2200_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="294.455" y1="425.389" x2="292.751" y2="423.685"/>
+		<line class="st8" x1="69.5" y1="70" x2="67.8" y2="68.3"/>
 	</g>
 	<g id="LINE_316_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="267.781" y1="424.465" x2="268.334" y2="424.465"/>
+		<line class="st8" x1="42.8" y1="69.1" x2="43.3" y2="69.1"/>
 	</g>
 	<g id="POLYLINE_2201_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="294.869" y1="451.416" x2="295.465" y2="453.553"/>
+		<line class="st8" x1="69.9" y1="96.1" x2="70.5" y2="98.2"/>
 	</g>
 	<g id="POLYLINE_2202_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="292.432" y1="451.416" x2="291.836" y2="453.553"/>
+		<line class="st8" x1="67.4" y1="96.1" x2="66.8" y2="98.2"/>
 	</g>
 	<g id="POLYLINE_2203_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.65" y1="454.229" x2="293.65" y2="451.688"/>
+		<line class="st8" x1="68.6" y1="98.9" x2="68.6" y2="96.3"/>
 	</g>
 	<g id="POLYLINE_802_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="266.699" y1="424.043" x2="264.562" y2="423.47"/>
+		<line class="st8" x1="41.7" y1="68.7" x2="39.6" y2="68.1"/>
 	</g>
 	<g id="POLYLINE_801_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="266.699" y1="424.886" x2="264.562" y2="425.46"/>
+		<line class="st8" x1="41.7" y1="69.5" x2="39.6" y2="70.1"/>
 	</g>
 	<g id="POLYLINE_800_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="263.887" y1="424.465" x2="267.214" y2="424.465"/>
+		<line class="st8" x1="38.9" y1="69.1" x2="42.2" y2="69.1"/>
 	</g>
 	<g id="LINE_364_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="319.52" y1="424.465" x2="318.967" y2="424.465"/>
+		<line class="st8" x1="94.5" y1="69.1" x2="94" y2="69.1"/>
 	</g>
 	<g id="POLYLINE_799_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="320.602" y1="424.043" x2="322.739" y2="423.47"/>
+		<line class="st8" x1="95.6" y1="68.7" x2="97.7" y2="68.1"/>
 	</g>
 	<g id="POLYLINE_798_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="320.602" y1="424.886" x2="322.739" y2="425.46"/>
+		<line class="st8" x1="95.6" y1="69.5" x2="97.7" y2="70.1"/>
 	</g>
 	<g id="POLYLINE_797_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="323.414" y1="424.465" x2="320.087" y2="424.465"/>
+		<line class="st8" x1="98.4" y1="69.1" x2="95.1" y2="69.1"/>
 	</g>
 	<g id="POLYLINE_2569_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="294.869" y1="397.514" x2="295.465" y2="395.377"/>
+		<line class="st8" x1="69.9" y1="42.2" x2="70.5" y2="40"/>
 	</g>
 	<g id="POLYLINE_2570_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="292.432" y1="397.514" x2="291.836" y2="395.377"/>
+		<line class="st8" x1="67.4" y1="42.2" x2="66.8" y2="40"/>
 	</g>
 	<g id="POLYLINE_2571_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.35" stroke-linecap="square" stroke-miterlimit="10" x1="293.65" y1="394.701" x2="293.65" y2="397.241"/>
+		<line class="st8" x1="68.6" y1="39.3" x2="68.6" y2="41.9"/>
 	</g>
 </g>
 <g id="PLAN_x24_STRUCTURE_1.3">
 	<g id="POLYLINE_1434_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			320.602,424.886 319.52,424.596 319.52,424.465 		"/>
+		<polyline class="st9" points="95.6,69.5 94.5,69.2 94.5,69.1 		"/>
 	</g>
 	<g id="POLYLINE_1433_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			319.52,424.465 319.52,424.334 320.602,424.043 		"/>
+		<polyline class="st9" points="94.5,69.1 94.5,69 95.6,68.7 		"/>
 	</g>
 	<g id="POLYLINE_1432_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			266.699,424.886 267.781,424.596 267.781,424.465 		"/>
+		<polyline class="st9" points="41.7,69.5 42.8,69.2 42.8,69.1 		"/>
 	</g>
 	<g id="POLYLINE_1379_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			267.781,424.465 267.781,424.334 266.699,424.043 		"/>
+		<polyline class="st9" points="42.8,69.1 42.8,69 41.7,68.7 		"/>
 	</g>
 	<g id="POLYLINE_1378_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			292.432,451.416 292.642,450.66 293.65,450.652 		"/>
+		<polyline class="st9" points="67.4,96.1 67.6,95.3 68.6,95.3 		"/>
 	</g>
 	<g id="POLYLINE_1377_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			293.65,450.652 294.659,450.66 294.869,451.416 		"/>
+		<polyline class="st9" points="68.6,95.3 69.7,95.3 69.9,96.1 		"/>
 	</g>
 	<g id="POLYLINE_1376_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			292.432,397.514 292.642,398.269 293.65,398.277 		"/>
+		<polyline class="st9" points="67.4,42.2 67.6,42.9 68.6,42.9 		"/>
 	</g>
 	<g id="POLYLINE_1375_">
-		<polyline fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" points="
-			293.65,398.277 294.659,398.269 294.869,397.514 		"/>
+		<polyline class="st9" points="68.6,42.9 69.7,42.9 69.9,42.2 		"/>
 	</g>
 	<g id="POLYLINE_1374_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="317.288" y1="443.712" x2="310.053" y2="444.708"/>
+		<line class="st9" x1="92.3" y1="88.4" x2="85.1" y2="89.4"/>
 	</g>
 	<g id="POLYLINE_1255_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="313.172" y1="447.828" x2="314.168" y2="440.592"/>
+		<line class="st9" x1="88.2" y1="92.5" x2="89.2" y2="85.2"/>
 	</g>
 	<g id="POLYLINE_1254_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="277.248" y1="444.708" x2="270.013" y2="443.712"/>
+		<line class="st9" x1="52.2" y1="89.4" x2="45" y2="88.4"/>
 	</g>
 	<g id="POLYLINE_1253_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="273.133" y1="440.592" x2="274.129" y2="447.828"/>
+		<line class="st9" x1="48.1" y1="85.2" x2="49.1" y2="92.5"/>
 	</g>
 	<g id="POLYLINE_1172_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="273.133" y1="408.337" x2="274.129" y2="401.102"/>
+		<line class="st9" x1="48.1" y1="53" x2="49.1" y2="45.7"/>
 	</g>
 	<g id="POLYLINE_1171_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="277.248" y1="404.221" x2="270.013" y2="405.218"/>
+		<line class="st9" x1="52.2" y1="48.9" x2="45" y2="49.9"/>
 	</g>
 	<g id="POLYLINE_1170_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="317.288" y1="405.218" x2="310.053" y2="404.221"/>
+		<line class="st9" x1="92.3" y1="49.9" x2="85.1" y2="48.9"/>
 	</g>
 	<g id="POLYLINE_1169_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="313.172" y1="401.102" x2="314.168" y2="408.337"/>
+		<line class="st9" x1="88.2" y1="45.7" x2="89.2" y2="53"/>
 	</g>
 	<g id="POLYLINE_1168_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="296.058" y1="424.044" x2="294.096" y2="422.082"/>
+		<line class="st9" x1="71.1" y1="68.7" x2="69.1" y2="66.7"/>
 	</g>
 	<g id="POLYLINE_1167_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="293.11" y1="426.992" x2="291.148" y2="425.03"/>
+		<line class="st9" x1="68.1" y1="71.6" x2="66.1" y2="69.7"/>
 	</g>
 	<g id="POLYLINE_1166_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="291.836" y1="453.553" x2="291.648" y2="454.229"/>
+		<line class="st9" x1="66.8" y1="98.2" x2="66.6" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1165_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="295.465" y1="453.553" x2="295.653" y2="454.229"/>
+		<line class="st9" x1="70.5" y1="98.2" x2="70.7" y2="98.9"/>
 	</g>
 	<g id="POLYLINE_1164_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="264.562" y1="425.46" x2="263.887" y2="425.641"/>
+		<line class="st9" x1="39.6" y1="70.1" x2="38.9" y2="70.3"/>
 	</g>
 	<g id="POLYLINE_1163_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="264.562" y1="423.47" x2="263.887" y2="423.289"/>
+		<line class="st9" x1="39.6" y1="68.1" x2="38.9" y2="67.9"/>
 	</g>
 	<g id="POLYLINE_1162_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="267.781" y1="424.465" x2="267.214" y2="424.465"/>
+		<line class="st9" x1="42.8" y1="69.1" x2="42.2" y2="69.1"/>
 	</g>
 	<g id="POLYLINE_1161_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="322.739" y1="425.46" x2="323.414" y2="425.641"/>
+		<line class="st9" x1="97.7" y1="70.1" x2="98.4" y2="70.3"/>
 	</g>
 	<g id="POLYLINE_1160_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="322.739" y1="423.47" x2="323.414" y2="423.289"/>
+		<line class="st9" x1="97.7" y1="68.1" x2="98.4" y2="67.9"/>
 	</g>
 	<g id="POLYLINE_1159_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="319.52" y1="424.465" x2="320.087" y2="424.465"/>
+		<line class="st9" x1="94.5" y1="69.1" x2="95.1" y2="69.1"/>
 	</g>
 	<g id="POLYLINE_1158_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="291.836" y1="395.377" x2="291.648" y2="394.701"/>
+		<line class="st9" x1="66.8" y1="40" x2="66.6" y2="39.3"/>
 	</g>
 	<g id="POLYLINE_1157_">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.41" stroke-linecap="square" stroke-miterlimit="10" x1="295.465" y1="395.377" x2="295.653" y2="394.701"/>
+		<line class="st9" x1="70.5" y1="40" x2="70.7" y2="39.3"/>
 	</g>
 </g>
 <g id="PLAN_x24_STRUCTURE_1.2">

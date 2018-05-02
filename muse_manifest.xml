@@ -1,386 +1,495 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1525026674945">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1525260756679">
   <folder name="css">
-    <file name="site_global.css" crc="4196159979"/>
-    <file name="index.css" crc="4049420618" ref="index"/>
-    <file name="work.css" crc="3933181040" ref="work"/>
-  </folder>
-  <folder name="assets">
-    <file name="01_google-home.ico" crc="3857810721" seo="true" mt="1524952998000"/>
-    <file name="02_mother-2.ico" crc="65309238" seo="true" mt="1524953073000"/>
+    <file name="site_global.css" crc="3761337580"/>
+    <file name="master_b-gabarit.css" crc="4020409661" ref="workspace-9:workspace-6:workspace-4:workspace-11:workspace-1:workspace-10:workspace-5:workspace-7:workspace-12:workspace-3:workspace-8:workspace-2"/>
+    <file name="workspace-9.css" crc="348079973" ref="workspace-9"/>
+    <file name="workspace-6.css" crc="4060525376" ref="workspace-6"/>
+    <file name="workspace-4.css" crc="3763127314" ref="workspace-4"/>
+    <file name="workspace-11.css" crc="327073850" ref="workspace-11"/>
+    <file name="workspace-1.css" crc="3795116560" ref="workspace-1"/>
+    <file name="workspace-10.css" crc="4237399669" ref="workspace-10"/>
+    <file name="workspace-5.css" crc="356618018" ref="workspace-5"/>
+    <file name="workspace-7.css" crc="486737603" ref="workspace-7"/>
+    <file name="workspace-12.css" crc="3805705369" ref="workspace-12"/>
+    <file name="workspace-3.css" crc="93912893" ref="workspace-3"/>
+    <file name="workspace-8.css" crc="3959451453" ref="workspace-8"/>
+    <file name="workspace-2.css" crc="4000650972" ref="workspace-2"/>
+    <file name="genealogie.css" crc="4022610294" ref="genealogie"/>
+    <file name="index.css" crc="236312926" ref="index"/>
+    <file name="twelve-ideal-offices.css" crc="4121623241" ref="twelve-ideal-offices"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="work:index"/>
-    <file name="museutils.js" crc="3803043152" ref="work:index"/>
-    <file name="whatinput.js" crc="86476730" ref="work:index"/>
-    <file name="museconfig.js" crc="4153641093" ref="work:index"/>
-    <file name="webpro.js" crc="242022427" ref="work"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="work"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="work"/>
-    <file name="touchswipe.js" crc="4066113679" ref="work"/>
-    <file name="jquery.watch.js" crc="99325471" ref="work:index"/>
-    <file name="require.js" crc="4157109226" ref="work:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
+    <file name="museutils.js" crc="3803043152" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
+    <file name="whatinput.js" crc="86476730" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:genealogie:twelve-ideal-offices:workspace-1:workspace-9:workspace-8:workspace-7:workspace-6:workspace-5:workspace-4:workspace-3:workspace-2:workspace-12:workspace-11:workspace-10"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="genealogie"/>
+    <file name="webpro.js" crc="242022427" ref="genealogie"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="genealogie"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="genealogie"/>
+    <file name="touchswipe.js" crc="4066113679" ref="genealogie"/>
   </folder>
   <folder name="images">
-    <file name="1879_leiter-building.svg" crc="529761617" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1879_leiter building_poster_.png" crc="238652418" ref="work"/>
-    <file name="1922_chicago-tribune-adolf-loos.svg" crc="259129920" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1922_chicago tribune adolf loos_poster_.png" crc="4147519655" ref="work"/>
-    <file name="1939_johnson-wax-building.svg" crc="3912585967" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1939_johnson wax building_poster_.png" crc="4206054926" ref="work"/>
-    <file name="1936_casa-del-fascio.svg" crc="312154146" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1936_casa del fascio_poster_.png" crc="398573018" ref="work"/>
-    <file name="1958_seagram-building.svg" crc="4020788185" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1958_seagram building_poster_.png" crc="3803273191" ref="work"/>
-    <file name="1921_friedrichstrasse-skyscraper-project.svg" crc="3873955360" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1921_friedrichstrasse skyscraper project_poster_.png" crc="3835739017" ref="work"/>
-    <file name="1852_jayne-building.svg" crc="406505427" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1852_jayne building_poster_.png" crc="361058131" ref="work"/>
-    <file name="1857_haughwout-building.svg" crc="137610053" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1857_haughwout building_poster_.png" crc="90528051" ref="work"/>
-    <file name="1966_osram.svg" crc="163723761" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1966_osram_poster_.png" crc="295013901" ref="work"/>
-    <file name="1888_rookery-building.svg" crc="218996651" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1888_rookery building_poster_.png" crc="4266363751" ref="work"/>
-    <file name="1895_prudential_building.svg" crc="13018887" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1895_prudential_building_poster_.png" crc="456291245" ref="work"/>
-    <file name="1906_larkin-building.svg" crc="3875400504" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1906_larkin building_poster_.png" crc="4005556059" ref="work"/>
-    <file name="1923_chicago-tribune-hilberseimer.svg" crc="4224536511" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1923_chicago tribune hilberseimer_poster_.png" crc="149974766" ref="work"/>
-    <file name="1889_tacoma-building.svg" crc="4236177906" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1889_tacoma building_poster_.png" crc="80275229" ref="work"/>
-    <file name="1958_caisse-centrale-de-réassurance.svg" crc="4240804803" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1958_caisse centrale de réassurance_poster_.png" crc="3863389507" ref="work"/>
-    <file name="1960_boehringer.svg" crc="196438303" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1960_boehringer_poster_.png" crc="3794306963" ref="work"/>
-    <file name="1892_monadnock.svg" crc="4223456418" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1892_monadnock_poster_.png" crc="4116477060" ref="work"/>
-    <file name="1889_eiffel.svg" crc="3999824785" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1889_eiffel_poster_.png" crc="4291949405" ref="work"/>
-    <file name="1952_lever-house.svg" crc="3904803725" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1952_lever house_poster_.png" crc="175740857" ref="work"/>
-    <file name="1966_tour-nobel.svg" crc="4029192912" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1966_tour nobel_poster_.png" crc="4213881096" ref="work"/>
-    <file name="2000_pixar.svg" crc="428687200" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2000_pixar_poster_.png" crc="433163158" ref="work"/>
-    <file name="1973_olivier-de-serres.svg" crc="4177787398" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1973_olivier de serres_poster_.png" crc="226999885" ref="work"/>
-    <file name="2001_caja-granada-savings-bank.svg" crc="3951230194" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2001_caja granada savings bank_poster_.png" crc="3837389719" ref="work"/>
-    <file name="1972_central-beheer.svg" crc="530960426" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1972_central beheer_poster_.png" crc="523600222" ref="work"/>
-    <file name="1975_willis-faber---dumas-headquarters.svg" crc="4189521891" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1975_willis faber - dumas headquarters_poster_.png" crc="394311372" ref="work"/>
-    <file name="1968_ford-foundation.svg" crc="4194183731" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_ford foundation_poster_.png" crc="3760031120" ref="work"/>
-    <file name="1986---lloyd-s-insurance-building.svg" crc="4101467778" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1986 - lloyd-s insurance building_poster_.png" crc="3115784" ref="work"/>
-    <file name="1991_tbwa.svg" crc="4247083752" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1991_tbwa_poster_.png" crc="254822796" ref="work"/>
-    <file name="1974_bmw.svg" crc="3968939495" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1974_bmw_poster_.png" crc="4268857532" ref="work"/>
-    <file name="1972_one-ibm-plaza.svg" crc="245346456" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1972_one ibm plaza_poster_.png" crc="3967592669" ref="work"/>
-    <file name="2002_lacaton-vassal.svg" crc="4143228529" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
+    <file name="2017_apple.svg" crc="81534700" ref="genealogie"/>
+    <file name="2017_apple_poster_u4772.png" crc="3939885058" ref="genealogie"/>
+    <file name="1852_jayne building.svg" crc="3881278201" ref="genealogie"/>
+    <file name="1852_jayne building_poster_u4403.png" crc="3858304568" ref="genealogie"/>
+    <file name="1857_haughwout building.svg" crc="522292456" ref="genealogie"/>
+    <file name="1857_haughwout building_poster_u4411.png" crc="3790942206" ref="genealogie"/>
+    <file name="1879_leiter building.svg" crc="4222267305" ref="genealogie"/>
+    <file name="1879_leiter building_poster_u4428.png" crc="315849762" ref="genealogie"/>
+    <file name="1888_rookery building.svg" crc="4129528201" ref="genealogie"/>
+    <file name="1888_rookery building_poster_u4436.png" crc="231020961" ref="genealogie"/>
+    <file name="1889_eiffel.svg" crc="3693344" ref="genealogie"/>
+    <file name="1889_eiffel_poster_u4444.png" crc="393031258" ref="genealogie"/>
+    <file name="1889_tacoma building.svg" crc="343818571" ref="genealogie"/>
+    <file name="1889_tacoma building_poster_u4452.png" crc="4039323858" ref="genealogie"/>
+    <file name="1892_monadnock.svg" crc="4188746950" ref="genealogie"/>
+    <file name="1892_monadnock_poster_u4460.png" crc="449997683" ref="genealogie"/>
+    <file name="1895_prudential_building.svg" crc="4244024982" ref="genealogie"/>
+    <file name="1895_prudential_building_poster_u4468.png" crc="4095661968" ref="genealogie"/>
+    <file name="1906_larkin building.svg" crc="512635183" ref="genealogie"/>
+    <file name="1906_larkin building_poster_u4476.png" crc="3829629333" ref="genealogie"/>
+    <file name="1921_friedrichstrasse skyscraper project.svg" crc="258952512" ref="genealogie"/>
+    <file name="1921_friedrichstrasse skyscraper project_poster_u4484.png" crc="4104969409" ref="genealogie"/>
+    <file name="1922_chicago tribune adolf loos.svg" crc="4145873678" ref="genealogie"/>
+    <file name="1922_chicago tribune adolf loos_poster_u4492.png" crc="311545630" ref="genealogie"/>
+    <file name="1923_chicago tribune hilberseimer.svg" crc="4115074959" ref="genealogie"/>
+    <file name="1923_chicago tribune hilberseimer_poster_u4500.png" crc="4281671406" ref="genealogie"/>
+    <file name="1936_casa del fascio.svg" crc="4147745421" ref="genealogie"/>
+    <file name="1936_casa del fascio_poster_u9664.png" crc="4101028657" ref="genealogie"/>
+    <file name="1952_lever house.svg" crc="4090203515" ref="genealogie"/>
+    <file name="1952_lever house_poster_u4524.png" crc="154054252" ref="genealogie"/>
+    <file name="1958_caisse centrale de réassurance.svg" crc="4003123339" ref="genealogie"/>
+    <file name="1958_caisse centrale de réassurance_poster_u4532.png" crc="4051187692" ref="genealogie"/>
+    <file name="1958_seagram building.svg" crc="3863804458" ref="genealogie"/>
+    <file name="1958_seagram building_poster_u4540.png" crc="4282209936" ref="genealogie"/>
+    <file name="1960_boehringer.svg" crc="3966847909" ref="genealogie"/>
+    <file name="1960_boehringer_poster_u4548.png" crc="252471887" ref="genealogie"/>
+    <file name="1966_osram.svg" crc="225101144" ref="genealogie"/>
+    <file name="1966_osram_poster_u4556.png" crc="3864792241" ref="genealogie"/>
+    <file name="1966_tour nobel.svg" crc="516657300" ref="genealogie"/>
+    <file name="1966_tour nobel_poster_u4564.png" crc="305519032" ref="genealogie"/>
+    <file name="1968_ford foundation.svg" crc="264186171" ref="genealogie"/>
+    <file name="1968_ford foundation_poster_u4572.png" crc="527452433" ref="genealogie"/>
+    <file name="1972_central beheer.svg" crc="37504226" ref="genealogie"/>
+    <file name="1972_central beheer_poster_u4580.png" crc="271243717" ref="genealogie"/>
+    <file name="1972_one ibm plaza.svg" crc="4185344591" ref="genealogie"/>
+    <file name="1972_one ibm plaza_poster_u4588.png" crc="3852335634" ref="genealogie"/>
+    <file name="1973_olivier de serres.svg" crc="59269171" ref="genealogie"/>
+    <file name="1973_olivier de serres_poster_u4596.png" crc="4283812010" ref="genealogie"/>
+    <file name="1974_bmw.svg" crc="4155769484" ref="genealogie"/>
+    <file name="1974_bmw_poster_u4604.png" crc="3809062106" ref="genealogie"/>
+    <file name="1975_willis faber - dumas headquarters.svg" crc="408437123" ref="genealogie"/>
+    <file name="1975_willis faber - dumas headquarters_poster_u4612.png" crc="270562096" ref="genealogie"/>
+    <file name="1986 - lloyd-s insurance building.svg" crc="243725018" ref="genealogie"/>
+    <file name="1986 - lloyd-s insurance building_poster_u9656.png" crc="3998406563" ref="genealogie"/>
+    <file name="1991_tbwa.svg" crc="4124867127" ref="genealogie"/>
+    <file name="1991_tbwa_poster_u4628.png" crc="332550405" ref="genealogie"/>
+    <file name="2000_pixar.svg" crc="3961127964" ref="genealogie"/>
+    <file name="2000_pixar_poster_u4636.png" crc="3898048262" ref="genealogie"/>
+    <file name="2001_caja granada savings bank.svg" crc="335064246" ref="genealogie"/>
+    <file name="2001_caja granada savings bank_poster_u4644.png" crc="470049308" ref="genealogie"/>
+    <file name="2002_lacaton vassal.svg" crc="474238598" ref="genealogie"/>
+    <file name="2002_lacaton vassal_poster_u4652.png" crc="325188747" ref="genealogie"/>
+    <file name="2004_swiss re headquarters.svg" crc="3790864566" ref="genealogie"/>
+    <file name="2004_swiss re headquarters_poster_u4660.png" crc="469295618" ref="genealogie"/>
+    <file name="2008_google zurich.svg" crc="337209688" ref="genealogie"/>
+    <file name="2008_google zurich_poster_u4668.png" crc="4005553668" ref="genealogie"/>
+    <file name="2008_kanagawa institute of technology workshop.svg" crc="4170346526" ref="genealogie"/>
+    <file name="2008_kanagawa institute of technology workshop_poster_u4676.png" crc="3942741565" ref="genealogie"/>
+    <file name="2010_skype hq.svg" crc="3922302726" ref="genealogie"/>
+    <file name="2010_skype hq_poster_u4684.png" crc="3794132332" ref="genealogie"/>
+    <file name="2011_red bull amsterdam.svg" crc="327418441" ref="genealogie"/>
+    <file name="2011_red bull amsterdam_poster_u4692.png" crc="524187150" ref="genealogie"/>
+    <file name="2012_teletech.svg" crc="3798780990" ref="genealogie"/>
+    <file name="2012_teletech_poster_u4700.png" crc="4172628998" ref="genealogie"/>
+    <file name="2014_office for architecture studio and coworking space.svg" crc="416540100" ref="genealogie"/>
+    <file name="2014_office for architecture studio and coworking space_poster_u4708.png" crc="525568189" ref="genealogie"/>
+    <file name="2015_bedndesk.svg" crc="30880457" ref="genealogie"/>
+    <file name="2015_bedndesk_poster_u4716.png" crc="4269551156" ref="genealogie"/>
+    <file name="2015_betc.svg" crc="292299719" ref="genealogie"/>
+    <file name="2015_betc_poster_u4724.png" crc="440226684" ref="genealogie"/>
+    <file name="2015_remix pce.svg" crc="4118401467" ref="genealogie"/>
+    <file name="2015_remix pce_poster_u4732.png" crc="307545124" ref="genealogie"/>
+    <file name="2015_sun and co.svg" crc="523183885" ref="genealogie"/>
+    <file name="2015_sun and co_poster_u4740.png" crc="138195013" ref="genealogie"/>
+    <file name="2015_tech farm.svg" crc="77640704" ref="genealogie"/>
+    <file name="2015_tech farm_poster_u4748.png" crc="79779121" ref="genealogie"/>
+    <file name="2016_uber.svg" crc="4061045736" ref="genealogie"/>
+    <file name="2016_uber_poster_u4756.png" crc="4026128194" ref="genealogie"/>
+    <file name="2017_autodesk toronto.svg" crc="3780993819" ref="genealogie"/>
+    <file name="2017_autodesk toronto_poster_u4788.png" crc="4148677093" ref="genealogie"/>
+    <file name="2017_cloud coworking.svg" crc="4179299735" ref="genealogie"/>
+    <file name="2017_cloud coworking_poster_u4802.png" crc="483216978" ref="genealogie"/>
+    <file name="2017_lime livingspace.svg" crc="293794436" ref="genealogie"/>
+    <file name="2017_lime livingspace_poster_u4822.png" crc="3827783557" ref="genealogie"/>
+    <file name="2017_primmoffice.svg" crc="78046472" ref="genealogie"/>
+    <file name="2017_primmoffice_poster_u4830.png" crc="4105463530" ref="genealogie"/>
+    <file name="2017_quarters.svg" crc="30497813" ref="genealogie"/>
+    <file name="2017_quarters_poster_u4856.png" crc="4093098203" ref="genealogie"/>
+    <file name="2017_station f.svg" crc="4132555525" ref="genealogie"/>
+    <file name="2017_station f_poster_u4864.png" crc="12766113" ref="genealogie"/>
+    <file name="2017_wework uptown.svg" crc="235491752" ref="genealogie"/>
+    <file name="2017_wework uptown_poster_u4878.png" crc="287457620" ref="genealogie"/>
+    <file name="2018_full node.svg" crc="18810267" ref="genealogie"/>
+    <file name="2018_full node_poster_u4886.png" crc="80007653" ref="genealogie"/>
+    <file name="2017_agnelli foundation hq.svg" crc="457709432" ref="genealogie"/>
+    <file name="2017_agnelli foundation hq_poster_u4764.png" crc="4135879873" ref="genealogie"/>
+    <file name="1939_johnson wax building.svg" crc="509207065" ref="genealogie"/>
+    <file name="1939_johnson wax building_poster_u4516.png" crc="406050092" ref="genealogie"/>
+    <file name="2017_apple2.svg" crc="4013076557" ref="genealogie"/>
+    <file name="1852_jayne building2.svg" crc="26910467" ref="genealogie"/>
+    <file name="1852_jayne building_poster_u6080.png" crc="356726826" ref="genealogie"/>
+    <file name="1857_haughwout building2.svg" crc="3782881878" ref="genealogie"/>
+    <file name="1857_haughwout building_poster_u6088.png" crc="4118289243" ref="genealogie"/>
+    <file name="1879_leiter building2.svg" crc="377707159" ref="genealogie"/>
+    <file name="1879_leiter building_poster_u6096.png" crc="143104289" ref="genealogie"/>
+    <file name="1888_rookery building2.svg" crc="4262571725" ref="genealogie"/>
+    <file name="1888_rookery building_poster_u6112.png" crc="147168970" ref="genealogie"/>
+    <file name="1889_eiffel2.svg" crc="3923796428" ref="genealogie"/>
+    <file name="1889_eiffel_poster_u6104.png" crc="440938050" ref="genealogie"/>
+    <file name="1889_tacoma building2.svg" crc="325805909" ref="genealogie"/>
+    <file name="1889_tacoma building_poster_u6120.png" crc="3794744881" ref="genealogie"/>
+    <file name="1892_monadnock2.svg" crc="4143498280" ref="genealogie"/>
+    <file name="1892_monadnock_poster_u6128.png" crc="225977433" ref="genealogie"/>
+    <file name="1895_prudential_building2.svg" crc="67900284" ref="genealogie"/>
+    <file name="1895_prudential_building_poster_u6136.png" crc="3839638639" ref="genealogie"/>
+    <file name="1906_larkin building2.svg" crc="3862332218" ref="genealogie"/>
+    <file name="1906_larkin building_poster_u6144.png" crc="4232892863" ref="genealogie"/>
+    <file name="1921_friedrichstrasse skyscraper project2.svg" crc="4202953948" ref="genealogie"/>
+    <file name="1921_friedrichstrasse skyscraper project_poster_u6168.png" crc="526964189" ref="genealogie"/>
+    <file name="1922_chicago tribune adolf loos2.svg" crc="192597834" ref="genealogie"/>
+    <file name="1922_chicago tribune adolf loos_poster_u6160.png" crc="403122920" ref="genealogie"/>
+    <file name="1923_chicago tribune hilberseimer2.svg" crc="4148743250" ref="genealogie"/>
+    <file name="1923_chicago tribune hilberseimer_poster_u6152.png" crc="447297229" ref="genealogie"/>
+    <file name="1936_casa del fascio2.svg" crc="4033510615" ref="genealogie"/>
+    <file name="1936_casa del fascio_poster_u6184.png" crc="365694215" ref="genealogie"/>
+    <file name="1952_lever house2.svg" crc="400910675" ref="genealogie"/>
+    <file name="1952_lever house_poster_u6192.png" crc="116335828" ref="genealogie"/>
+    <file name="1958_caisse centrale de réassurance2.svg" crc="3879610950" ref="genealogie"/>
+    <file name="1958_caisse centrale de réassurance_poster_u6208.png" crc="58334834" ref="genealogie"/>
+    <file name="1958_seagram building2.svg" crc="3794307235" ref="genealogie"/>
+    <file name="1958_seagram building_poster_u6200.png" crc="498954257" ref="genealogie"/>
+    <file name="1960_boehringer2.svg" crc="336021979" ref="genealogie"/>
+    <file name="1960_boehringer_poster_u6224.png" crc="424388004" ref="genealogie"/>
+    <file name="1966_osram2.svg" crc="4180408908" ref="genealogie"/>
+    <file name="1966_osram_poster_u6216.png" crc="3803516215" ref="genealogie"/>
+    <file name="1966_tour nobel2.svg" crc="4039755504" ref="genealogie"/>
+    <file name="1966_tour nobel_poster_u6248.png" crc="4231224503" ref="genealogie"/>
+    <file name="1968_ford foundation2.svg" crc="4012634653" ref="genealogie"/>
+    <file name="1968_ford foundation_poster_u6232.png" crc="161809657" ref="genealogie"/>
+    <file name="1972_central beheer2.svg" crc="4088221027" ref="genealogie"/>
+    <file name="1972_central beheer_poster_u6240.png" crc="4105265154" ref="genealogie"/>
+    <file name="1972_one ibm plaza2.svg" crc="4249564029" ref="genealogie"/>
+    <file name="1972_one ibm plaza_poster_u6264.png" crc="529054804" ref="genealogie"/>
+    <file name="1973_olivier de serres2.svg" crc="4222652115" ref="genealogie"/>
+    <file name="1973_olivier de serres_poster_u6304.png" crc="308030056" ref="genealogie"/>
+    <file name="1974_bmw2.svg" crc="4102722149" ref="genealogie"/>
+    <file name="1974_bmw_poster_u6272.png" crc="46955570" ref="genealogie"/>
+    <file name="1975_willis faber - dumas headquarters2.svg" crc="4206703240" ref="genealogie"/>
+    <file name="1975_willis faber - dumas headquarters_poster_u6256.png" crc="4268048741" ref="genealogie"/>
+    <file name="1986 - lloyd-s insurance building2.svg" crc="4002705506" ref="genealogie"/>
+    <file name="1986 - lloyd-s insurance building_poster_u6296.png" crc="22391509" ref="genealogie"/>
+    <file name="1991_tbwa2.svg" crc="4216433362" ref="genealogie"/>
+    <file name="1991_tbwa_poster_u6312.png" crc="313686534" ref="genealogie"/>
+    <file name="2000_pixar2.svg" crc="4170165384" ref="genealogie"/>
+    <file name="2000_pixar_poster_u6288.png" crc="71848628" ref="genealogie"/>
+    <file name="2001_caja granada savings bank2.svg" crc="4127796620" ref="genealogie"/>
+    <file name="2001_caja granada savings bank_poster_u6328.png" crc="4019683822" ref="genealogie"/>
+    <file name="2002_lacaton vassal2.svg" crc="4172400380" ref="genealogie"/>
+    <file name="2002_lacaton vassal_poster_u6336.png" crc="4001586240" ref="genealogie"/>
+    <file name="2004_swiss re headquarters2.svg" crc="4179767925" ref="genealogie"/>
+    <file name="2004_swiss re headquarters_poster_u6320.png" crc="134266997" ref="genealogie"/>
+    <file name="2008_google zurich2.svg" crc="3789009106" ref="genealogie"/>
+    <file name="2008_google zurich_poster_u6280.png" crc="152578461" ref="genealogie"/>
+    <file name="2008_kanagawa institute of technology workshop2.svg" crc="4024003665" ref="genealogie"/>
+    <file name="2008_kanagawa institute of technology workshop_poster_u6344.png" crc="4057012402" ref="genealogie"/>
+    <file name="2010_skype hq2.svg" crc="85727139" ref="genealogie"/>
+    <file name="2010_skype hq_poster_u6352.png" crc="377432666" ref="genealogie"/>
+    <file name="2011_red bull amsterdam2.svg" crc="431523268" ref="genealogie"/>
+    <file name="2011_red bull amsterdam_poster_u6360.png" crc="337770660" ref="genealogie"/>
+    <file name="2012_teletech2.svg" crc="3907115194" ref="genealogie"/>
+    <file name="2012_teletech_poster_u6368.png" crc="487224257" ref="genealogie"/>
+    <file name="2014_office for architecture studio and coworking space2.svg" crc="484148711" ref="genealogie"/>
+    <file name="2014_office for architecture studio and coworking space_poster_u6376.png" crc="488763604" ref="genealogie"/>
+    <file name="2015_bedndesk2.svg" crc="363956456" ref="genealogie"/>
+    <file name="2015_bedndesk_poster_u6416.png" crc="3963064182" ref="genealogie"/>
+    <file name="2015_betc2.svg" crc="353542963" ref="genealogie"/>
+    <file name="2015_betc_poster_u6384.png" crc="4002302713" ref="genealogie"/>
+    <file name="2015_remix pce2.svg" crc="505359547" ref="genealogie"/>
+    <file name="2015_remix pce_poster_u6392.png" crc="4232783129" ref="genealogie"/>
+    <file name="2015_sun and co2.svg" crc="276200739" ref="genealogie"/>
+    <file name="2015_sun and co_poster_u6400.png" crc="3844741997" ref="genealogie"/>
+    <file name="2015_tech farm2.svg" crc="449546400" ref="genealogie"/>
+    <file name="2015_tech farm_poster_u6408.png" crc="3907975850" ref="genealogie"/>
+    <file name="2016_uber2.svg" crc="4079196422" ref="genealogie"/>
+    <file name="2016_uber_poster_u6438.png" crc="57732077" ref="genealogie"/>
+    <file name="2017_autodesk toronto2.svg" crc="158750786" ref="genealogie"/>
+    <file name="2017_autodesk toronto_poster_u6446.png" crc="4067833344" ref="genealogie"/>
+    <file name="2017_cloud coworking2.svg" crc="5111429" ref="genealogie"/>
+    <file name="2017_cloud coworking_poster_u6494.png" crc="16696642" ref="genealogie"/>
+    <file name="2017_lime livingspace2.svg" crc="4025969400" ref="genealogie"/>
+    <file name="2017_lime livingspace_poster_u6454.png" crc="3817312636" ref="genealogie"/>
+    <file name="2017_primmoffice2.svg" crc="388881959" ref="genealogie"/>
+    <file name="2017_primmoffice_poster_u6502.png" crc="59444968" ref="genealogie"/>
+    <file name="2017_quarters2.svg" crc="4179783067" ref="genealogie"/>
+    <file name="2017_quarters_poster_u6462.png" crc="4061857506" ref="genealogie"/>
+    <file name="2017_station f2.svg" crc="3927895012" ref="genealogie"/>
+    <file name="2017_station f_poster_u6486.png" crc="4023773848" ref="genealogie"/>
+    <file name="2017_wework uptown2.svg" crc="168070405" ref="genealogie"/>
+    <file name="2017_wework uptown_poster_u6478.png" crc="3920744140" ref="genealogie"/>
+    <file name="2018_full node2.svg" crc="3895023979" ref="genealogie"/>
+    <file name="2018_full node_poster_u6470.png" crc="4209990504" ref="genealogie"/>
+    <file name="2017_agnelli foundation hq2.svg" crc="27834723" ref="genealogie"/>
+    <file name="2017_agnelli foundation hq_poster_u6430.png" crc="152701211" ref="genealogie"/>
+    <file name="1939_johnson wax building2.svg" crc="34622784" ref="genealogie"/>
+    <file name="1939_johnson wax building_poster_u6176.png" crc="3790068917" ref="genealogie"/>
+    <file name="1851_centripetal armchair.jpg" crc="153112186" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1859_chair no 14.jpg" crc="83545736" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1874_wooton a.jpg" crc="375638987" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1874_wooton b.jpg" crc="3981595783" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1874_wooton c.jpg" crc="7764255" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1884_staffel chair.jpg" crc="42082600" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1886_receptacle for storing papers.jpg" crc="451311372" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1903_library bureau.jpg" crc="3978584766" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1906_larkin building a.jpg" crc="4242736621" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1906_larkin building b-u1419-fr.jpg" crc="244404372" ref="genealogie"/>
+    <file name="1915_modern efficiency desk.png" crc="3877482674" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk b.jpg" crc="3956694566" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk c.jpg" crc="459943438" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk d.jpg" crc="4291498849" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1932_b287.jpg" crc="75859005" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1934_suspension file.jpg" crc="3995997243" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1939_first roll edge desk_steelcase.jpg" crc="3945914458" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1937_johnson wax a-u1473-fr.jpg" crc="3782779103" ref="genealogie"/>
+    <file name="1940_johnson wax b.jpg" crc="3805120087" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1945_standardization.jpg" crc="92434695" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1946_multiple 15.jpg" crc="3937936713" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1949_executive office group .jpg" crc="6846776" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1957_planning unit knoll.jpg" crc="216205213" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1958_geroge nelson maa.jpg" crc="3761987287" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1964_action office a.jpg" crc="492209346" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1964_action office b.jpg" crc="463774024" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1968_action office ii a.jpg" crc="354147808" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1968_action office ii b.jpg" crc="88312770" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1968_action office ii c.jpg" crc="3878152772" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1968_action office ii d.jpg" crc="366460290" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1973_series 9000.jpg" crc="197490179" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1976_ergon chair_stumpf.jpg" crc="4281951600" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1980_balans variable.jpg" crc="11134501" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1985_neutral posture zero gravity chair.jpg" crc="4268613540" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1989_context furniture system_steelcase.jpg" crc="264223902" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1994_aeron chair .jpg" crc="3851046415" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1995_rooms that work.jpg" crc="368389931" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="2000_standby office.jpg" crc="4219673055" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="2012_living office.jpg" crc="355559322" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="2015_brody worklounge.jpg" crc="3932802269" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="2018_cove lounge chair.jpg" crc="4089222026" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="1906_larkin building b-u1166-fr.jpg" crc="3891377656" ref="genealogie"/>
+    <file name="1937_johnson wax a-u1214-fr.jpg" crc="339954651" ref="genealogie"/>
+    <file name="1937_johnson wax b-u1220-fr.jpg" crc="141127313" ref="genealogie"/>
+    <file name="svg-collé-188373-x-107.svg" crc="318490508" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 188373 x 107_poster_.png" crc="4242177401" ref="genealogie"/>
+    <file name="svg-collé-182838-x-107.svg" crc="4043495196" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 182838 x 107_poster_.png" crc="93463145" ref="genealogie"/>
+    <file name="svg-collé-188522-x-91.svg" crc="34490216" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 188522 x 91_poster_.png" crc="265425262" ref="genealogie"/>
+    <file name="svg-collé-194537-x-91.svg" crc="4032510402" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 194537 x 91_poster_.png" crc="533456852" ref="genealogie"/>
+    <file name="svg-collé-190472-x-91.svg" crc="194742014" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 190472 x 91_poster_.png" crc="295288209" ref="genealogie"/>
+    <file name="svg-collé-184937-x-91.svg" crc="3935519290" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 184937 x 91_poster_.png" crc="163901499" ref="genealogie"/>
+    <file name="svg-collé-196038-x-76.svg" crc="3902793456" seo="true" ref="genealogie">
+      <caption webpage="genealogie" alt=""/>
+    </file>
+    <file name="svg collé 196038 x 76_poster_.png" crc="3898881542" ref="genealogie"/>
+    <file name="180502_tableau-crop-u20113.jpg" crc="4198051099" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="180502_fiche 01.jpg" crc="4177784901" seo="true" ref="workspace-1">
+      <caption webpage="workspace-1" alt=""/>
+    </file>
+    <file name="180502_fiche 09.jpg" crc="438252153" seo="true" ref="workspace-9">
+      <caption webpage="workspace-9" alt=""/>
+    </file>
+    <file name="180502_fiche 08.jpg" crc="160409640" seo="true" ref="workspace-8">
+      <caption webpage="workspace-8" alt=""/>
+    </file>
+    <file name="180502_fiche 07.jpg" crc="306924432" seo="true" ref="workspace-7">
+      <caption webpage="workspace-7" alt=""/>
+    </file>
+    <file name="180502_fiche 06.jpg" crc="3812523239" seo="true" ref="workspace-6">
+      <caption webpage="workspace-6" alt=""/>
+    </file>
+    <file name="180502_fiche 05.jpg" crc="366428355" seo="true" ref="workspace-5">
+      <caption webpage="workspace-5" alt=""/>
+    </file>
+    <file name="180502_fiche 04.jpg" crc="450674975" seo="true" ref="workspace-4">
+      <caption webpage="workspace-4" alt=""/>
+    </file>
+    <file name="180502_fiche 03.jpg" crc="4027612191" seo="true" ref="workspace-3">
+      <caption webpage="workspace-3" alt=""/>
+    </file>
+    <file name="180502_fiche 02.jpg" crc="4210216405" seo="true" ref="workspace-2">
+      <caption webpage="workspace-2" alt=""/>
+    </file>
+    <file name="180502_fiche 12.jpg" crc="4186530063" seo="true" ref="workspace-12">
+      <caption webpage="workspace-12" alt=""/>
+    </file>
+    <file name="180502_fiche 11.jpg" crc="499860636" seo="true" ref="workspace-11">
+      <caption webpage="workspace-11" alt=""/>
+    </file>
+    <file name="180502_fiche 10.jpg" crc="4102864125" seo="true" ref="workspace-10">
+      <caption webpage="workspace-10" alt=""/>
+    </file>
+    <file name="180502_fiche 104x5.jpg" crc="4289888795" seo="true" ref="workspace-10">
+      <caption webpage="workspace-10" alt=""/>
     </file>
-    <file name="2002_lacaton vassal_poster_.png" crc="241508412" ref="work"/>
-    <file name="2017_autodesk-toronto.svg" crc="130351655" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_autodesk toronto_poster_.png" crc="316417197" ref="work"/>
-    <file name="2015_betc.svg" crc="4109492971" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_betc_poster_.png" crc="4160798494" ref="work"/>
-    <file name="2014_office-for-architecture-studio-and-coworking-space.svg" crc="480621726" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2014_office for architecture studio and coworking space_poster_.png" crc="392134300" ref="work"/>
-    <file name="2012_teletech.svg" crc="336667753" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2012_teletech_poster_.png" crc="115175529" ref="work"/>
-    <file name="2015_bedndesk.svg" crc="4146491183" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_bedndesk_poster_.png" crc="196696834" ref="work"/>
-    <file name="2010_skype-hq.svg" crc="4291725084" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2010_skype hq_poster_.png" crc="177061561" ref="work"/>
-    <file name="2008_kanagawa-institute-of-technology-workshop.svg" crc="423276050" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2008_kanagawa institute of technology workshop_poster_.png" crc="4269679247" ref="work"/>
-    <file name="2015_remix-pce.svg" crc="4055522776" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_remix pce_poster_.png" crc="3848812142" ref="work"/>
-    <file name="2017_apple.svg" crc="294654732" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_apple_poster_.png" crc="4226696794" ref="work"/>
-    <file name="2011_red-bull-amsterdam.svg" crc="3945912809" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2011_red bull amsterdam_poster_.png" crc="3959481962" ref="work"/>
-    <file name="2015_tech-farm.svg" crc="4021005537" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_tech farm_poster_.png" crc="166383974" ref="work"/>
-    <file name="2017_agnelli-foundation-hq.svg" crc="41720389" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_agnelli foundation hq_poster_.png" crc="321676427" ref="work"/>
-    <file name="2015_sun-and-co.svg" crc="4139996814" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_sun and co_poster_.png" crc="49281002" ref="work"/>
-    <file name="2004_swiss-re-headquarters.svg" crc="4168711864" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2004_swiss re headquarters_poster_.png" crc="254575271" ref="work"/>
-    <file name="2016_uber.svg" crc="7395487" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2016_uber_poster_.png" crc="49083086" ref="work"/>
-    <file name="2008_google-zurich.svg" crc="138073121" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2008_google zurich_poster_.png" crc="3811870444" ref="work"/>
-    <file name="2017_cloud-coworking.svg" crc="498373279" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_cloud coworking_poster_.png" crc="4083187496" ref="work"/>
-    <file name="2017_primmoffice.svg" crc="3776793436" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_primmoffice_poster_.png" crc="339485485" ref="work"/>
-    <file name="2017_quarters.svg" crc="3789468651" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_quarters_poster_.png" crc="4173418486" ref="work"/>
-    <file name="2017_station-f.svg" crc="390640402" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_station f_poster_.png" crc="4105487091" ref="work"/>
-    <file name="2017_wework-uptown.svg" crc="3770036586" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_wework uptown_poster_.png" crc="435519620" ref="work"/>
-    <file name="2017_lime-livingspace.svg" crc="4141378773" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2017_lime livingspace_poster_.png" crc="4040078561" ref="work"/>
-    <file name="2018_full-node.svg" crc="358441342" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2018_full node_poster_.png" crc="4283033561" ref="work"/>
-    <file name="1851_centripetal armchair.jpg" crc="305086211" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1859_chair no 14.jpg" crc="3948727129" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1874_wooton a.jpg" crc="414955215" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1874_wooton b.jpg" crc="134513632" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1874_wooton c.jpg" crc="3898915628" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1884_staffel chair.jpg" crc="62588139" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1886_receptacle for storing papers.jpg" crc="3917541279" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1903_library bureau.jpg" crc="131021909" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1906_larkin building a.jpg" crc="3843094533" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1906_larkin building b.jpg" crc="4256693452" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk b.jpg" crc="4034176063" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk c.jpg" crc="325220799" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk d.jpg" crc="3901561837" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk e.png" crc="274030702" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk.png" crc="4097450889" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1932_b287.jpg" crc="6400283" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1932_specialty desk.jpg" crc="298748554" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1934_suspension file.jpg" crc="336019841" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1937_johnson wax a.jpg" crc="4091600329" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1937_johnson wax b.jpg" crc="4259780248" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1939_first roll edge desk_steelcase.jpg" crc="65604419" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1945_standardization.jpg" crc="4139276176" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1946_multiple 15.jpg" crc="3878608690" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1949_executive office group .jpg" crc="478990467" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1957_planning unit knoll.jpg" crc="229962065" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1958_geroge nelson maa.jpg" crc="361214396" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1964_action office a.jpg" crc="4232946216" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1964_action office b.jpg" crc="4012000743" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_action office ii a.jpg" crc="35329972" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_action office ii b.jpg" crc="168669339" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_action office ii c.jpg" crc="26681948" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_action office ii d.jpg" crc="4046225421" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1973_series 9000.jpg" crc="487582981" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1976_ergon chair_stumpf.jpg" crc="33878333" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1980_balans variable.jpg" crc="293019934" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1985_neutral posture zero gravity chair.jpg" crc="266788644" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1989_context furniture system_steelcase.jpg" crc="3964912457" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1989_context.jpg" crc="4070995614" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1994_aeron chair .jpg" crc="3809882409" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1995_rooms that work.jpg" crc="163781449" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2000_standby office.jpg" crc="532356081" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2012_living office.jpg" crc="3832413919" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2015_brody worklounge.jpg" crc="340885723" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="2018_cove lounge chair.jpg" crc="485534943" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1966_osram3.svg" crc="4204053708" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1966_osram3_poster_.png" crc="4248821135" ref="work"/>
-    <file name="1968_ford-foundation-3.svg" crc="136791740" seo="true" ref="work">
-      <caption webpage="work" alt=""/>
-      <caption webpage="work" alt=""/>
-    </file>
-    <file name="1968_ford foundation 3_poster_.png" crc="4522268" ref="work"/>
   </folder>
-  <file name="work.html" crc="3922422247" seo="true" mt="1525026591809" redirect="true"/>
-  <file name="index.html" crc="249764918" seo="true" mt="1525026131465" redirect="true"/>
+  <file name="index.html" crc="129592138" seo="true" mt="1525258606244" redirect="true"/>
+  <file name="genealogie.html" crc="4036823004" seo="true" mt="1525260742299" redirect="true"/>
+  <file name="twelve-ideal-offices.html" crc="158755302" seo="true" mt="1525260688940" redirect="true"/>
+  <file name="workspace-1.html" crc="323177628" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-9.html" crc="4042314169" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-8.html" crc="4118609736" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-7.html" crc="58519488" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-6.html" crc="48091643" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-5.html" crc="4113822492" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-4.html" crc="4151099119" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-3.html" crc="3826425145" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-2.html" crc="34198413" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-12.html" crc="3982546852" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-11.html" crc="3833895266" seo="true" mt="1525260606795" redirect="true"/>
+  <file name="workspace-10.html" crc="3975741501" seo="true" mt="1525260606795" redirect="true"/>
 </manifest>
