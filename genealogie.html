@@ -975,7 +975,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
      
 <!--  SCRIPT PAN & ZOOM   -->
      
-        <script src="https://cdn.rawgit.com/anvaka/panzoom/v4.4.0/dist/panzoom.min.js"></script>
+        <script src="scripts/panzoom.js"></script>
         <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
      
 <!--
@@ -987,8 +987,8 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 -->
         <script>
              $('body').bind('mousewheel', function(){ return false});
-             var scene = document.getElementById('page');
-             var panzoom (scene, {
+             var scene = document.getElementById('page')
+             panzoom (scene, { 
                 zoomSpeed: 0.1,
                 maxZoom: 1.5,
                 minZoom: 0.05,
