@@ -1,25 +1,36 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1527460030560">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1527699417511">
+  <folder name="css">
+    <file name="site_global.css" crc="525022325"/>
+    <file name="master_c-gabarit.css" crc="4236878370" ref="twelve-ideal-offices:installation"/>
+    <file name="master_b-gabarit.css" crc="4036772862" ref="workplace-7:workplace-3:workplace-10:workplace-2:workplace-8:workplace-4:workplace-5:workplace-12:workplace-1:workplace-9:workplace-6:workplace-11"/>
+    <file name="genealogie-2.css" crc="4272769084" ref="genealogie-2"/>
+    <file name="workplace-7.css" crc="348689898" ref="workplace-7"/>
+    <file name="workplace-3.css" crc="4120900775" ref="workplace-3"/>
+    <file name="workplace-10.css" crc="214571581" ref="workplace-10"/>
+    <file name="workplace-2.css" crc="491959206" ref="workplace-2"/>
+    <file name="workplace-8.css" crc="180762915" ref="workplace-8"/>
+    <file name="index.css" crc="3784722513" ref="index"/>
+    <file name="workplace-4.css" crc="98510540" ref="workplace-4"/>
+    <file name="workplace-5.css" crc="4052158963" ref="workplace-5"/>
+    <file name="workplace-12.css" crc="319158024" ref="workplace-12"/>
+    <file name="twelve-ideal-offices.css" crc="322075968" ref="twelve-ideal-offices"/>
+    <file name="workplace-1.css" crc="131184328" ref="workplace-1"/>
+    <file name="workplace-9.css" crc="274753834" ref="workplace-9"/>
+    <file name="workplace-6.css" crc="83314005" ref="workplace-6"/>
+    <file name="installation.css" crc="4235403676" ref="installation"/>
+    <file name="workplace-11.css" crc="3922710853" ref="workplace-11"/>
+  </folder>
   <folder name="assets">
     <file name="snippet_3111b7a55.idms" crc="4090009214" seo="true" mt="1527441749000"/>
     <file name="180525_schema-installation.pdf" crc="4055806817" seo="true" mt="1527438532000"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="399083031"/>
-    <file name="master_b-gabarit.css" crc="4036772862" ref="workspace-1"/>
-    <file name="index.css" crc="4109168168" ref="index"/>
-    <file name="workspace-1.css" crc="443725581" ref="workspace-1"/>
-    <file name="twelve-ideal-offices.css" crc="3985261811" ref="twelve-ideal-offices"/>
-    <file name="genealogie-2.css" crc="361943766" ref="genealogie-2"/>
-    <file name="master_c-gabarit.css" crc="4236878370" ref="installation:twelve-ideal-offices"/>
-    <file name="installation.css" crc="4235403676" ref="installation"/>
-  </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twelve-ideal-offices:workspace-1:genealogie-2:installation"/>
-    <file name="museutils.js" crc="3803043152" ref="index:twelve-ideal-offices:workspace-1:genealogie-2:installation"/>
-    <file name="whatinput.js" crc="86476730" ref="index:twelve-ideal-offices:workspace-1:genealogie-2:installation"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:twelve-ideal-offices:workspace-1:genealogie-2:installation"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:workspace-1:genealogie-2"/>
-    <file name="require.js" crc="4157109226" ref="index:twelve-ideal-offices:workspace-1:genealogie-2:installation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:installation:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="museutils.js" crc="3803043152" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:installation:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="whatinput.js" crc="86476730" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:installation:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:installation:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="require.js" crc="4157109226" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:installation:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="genealogie-2"/>
     <file name="webpro.js" crc="242022427" ref="genealogie-2"/>
     <file name="musewpslideshow.js" crc="457073769" ref="genealogie-2"/>
@@ -27,7 +38,42 @@
     <file name="touchswipe.js" crc="4066113679" ref="genealogie-2"/>
   </folder>
   <folder name="images">
-    <file name="1806_stylographic manifold writer.jpg" crc="325115741" seo="true" ref="genealogie-2">
+    <file name="180524_couv_final-u122811.png" crc="222941541" ref="index"/>
+    <file name="u123066-6.png" crc="4252013356" ref="index"/>
+    <file name="u123457.png" crc="3775293267" ref="twelve-ideal-offices:installation"/>
+    <file name="u123457-r.png" crc="381578767" ref="twelve-ideal-offices:installation"/>
+    <file name="01_google home.png" crc="4287951565" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="06_jooxter.png" crc="17419812" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="09_bolt lockitron.png" crc="47725819" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="11_spire.png" crc="246354546" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="10_flex fitbit.png" crc="3970018507" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="sans titre-6.png" crc="253341063" seo="true" ref="twelve-ideal-offices">
+      <caption webpage="twelve-ideal-offices" alt=""/>
+    </file>
+    <file name="u124084.png" crc="3775293267" ref="workplace-1"/>
+    <file name="u124084-r.png" crc="381578767" ref="workplace-1"/>
+    <file name="180525_workplace.png" crc="3866106779" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="u74723-4.png" crc="49374233" ref="workplace-1"/>
+    <file name="u124759.png" crc="3775293267" ref="genealogie-2"/>
+    <file name="u124759-r.png" crc="381578767" ref="genealogie-2"/>
+    <file name="1915_modern efficiency desk d-u33431-fr.jpg" crc="468451317" ref="genealogie-2"/>
+    <file name="1915_modern efficiency desk d.jpg" crc="4095171262" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1939_first roll edge desk_steelcase-u33597-fr.jpg" crc="3960153001" ref="genealogie-2"/>
+    <file name="1939_first roll edge desk_steelcase.jpg" crc="536528773" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="2017_apple.svg" crc="81534700" ref="genealogie-2"/>
@@ -249,101 +295,181 @@
       <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1850_col blanc b.jpg" crc="4112044585" ref="genealogie-2">
+    <file name="1850_col blanc c148x216.jpg" crc="3984440681" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1850_col blanc c.jpg" crc="3875480140" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1853_elementary treatise on book-keeping.jpg" crc="3886212209" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1860_eight-hour.jpg" crc="311763506" ref="genealogie-2">
+    <file name="1876_treasury department186x121.jpg" crc="3877447613" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1876_treasury department.jpg" crc="436640334" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1850_col blanc b204x259.jpg" crc="293842587" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1850_col blanc b.jpg" crc="4112044585" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1860_eight-hour282x200.jpg" crc="12883789" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1860_eight-hour.jpg" crc="311763506" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1905_frederick taylor242x368.jpg" crc="465858754" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1905_frederick taylor.jpg" crc="354286715" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1911_taylor principles209x331.jpg" crc="314429818" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1911_taylor principles.jpg" crc="3796934636" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1912_taylor society.jpg" crc="3786405597" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1917_leffingwell.jpg" crc="4249280220" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_the brass check.jpg" crc="380675252" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
+    <file name="1922_emile coue238x371.jpg" crc="4173941526" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1922_emile coue.jpg" crc="155873589" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1853_elementary treatise on book-keeping235x368.jpg" crc="420985671" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1853_elementary treatise on book-keeping.jpg" crc="3886212209" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1912_taylor society151x209.jpg" crc="301042851" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1912_taylor society.jpg" crc="3786405597" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1917_leffingwell231x308.jpg" crc="3949711440" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1917_leffingwell.jpg" crc="4249280220" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1924_home office280x179.jpg" crc="536284648" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1924_home office.jpg" crc="4253923710" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1933_elton mayo121x198.jpg" crc="3954267004" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1933_elton mayo.jpg" crc="3934713345" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1934_new masses233x308.jpg" crc="3807911917" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1934_new masses.jpg" crc="204798806" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1935_acts a.jpg" crc="422191931" ref="genealogie-2">
+    <file name="1935_acts a248x182.jpg" crc="9514919" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1935_acts b.jpg" crc="269962322" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1935_acts b179x259.jpg" crc="4056798753" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1935_acts a.jpg" crc="422191931" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1935_lewis corey212x322.jpg" crc="4281905370" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1935_lewis corey.jpg" crc="4064102755" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1937_ibm songs.jpg" crc="186825653" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_corbusier.jpg" crc="118810678" ref="genealogie-2">
+    <file name="1938_hp garage134x171.jpg" crc="3947645801" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1938_hp garage.jpg" crc="263010104" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1942_bell labs231x159.jpg" crc="27336253" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1942_bell labs.jpg" crc="346762185" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1948_cybernetics105x158.jpg" crc="531713896" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1948_cybernetics.jpg" crc="532134877" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1949_us dept of state294x228.jpg" crc="103099952" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1949_us dept of state.jpg" crc="4019823432" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1956_organization man180x261.jpg" crc="3816428584" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1956_organization man.jpg" crc="4132337255" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1959_landmarks of tomorrow.jpg" crc="291103086" ref="genealogie-2">
+    <file name="1959_landmarks of tomorrow247x353.jpg" crc="422889261" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1959_the silent language.jpg" crc="4068606651" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1959_the silent language207x349.jpg" crc="3844187350" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1959_landmarks of tomorrow.jpg" crc="291103086" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1960_the human side of enterprise145x176.jpg" crc="44711304" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1960_the human side of enterprise.jpg" crc="4023276522" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1974_humanscale a194x149.jpg" crc="486128378" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1974_humanscale a.jpg" crc="3839733291" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1974_humanscale b233x185.jpg" crc="383586458" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1974_humanscale b.jpg" crc="438168113" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1976_steve jobs244x179.jpg" crc="4016368170" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1976_steve jobs.jpg" crc="3873377050" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1981_theory z223x365.jpg" crc="4259369857" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1981_theory z.jpg" crc="246492378" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1982_in search of excellence261x390.jpg" crc="58504475" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1982_in search of excellence.jpg" crc="253443498" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1982_newsweek299x393.jpg" crc="527372619" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1982_newsweek.jpg" crc="3761595255" ref="genealogie-2">
@@ -357,11 +483,7 @@
       <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1987_sas headquarters.jpg" crc="4058584119" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_gordon moore.jpg" crc="429045398" ref="genealogie-2">
+    <file name="1992_liberation management168x250.jpg" crc="4085587771" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1992_liberation management.jpg" crc="4264019334" ref="genealogie-2">
@@ -369,6 +491,9 @@
     </file>
     <file name="1995_freelancers union a.jpg" crc="3931540984" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1995_freelancers union b263x276.jpg" crc="4179894150" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1995_freelancers union b.jpg" crc="473399782" ref="genealogie-2">
@@ -382,8 +507,17 @@
       <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1992_gordon moore271x203.jpg" crc="4010663421" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1992_gordon moore.jpg" crc="429045398" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="2005_googleplex.jpg" crc="4066318366" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2014_happy hour is 9 to 5188x282.jpg" crc="4143402830" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="2014_happy hour is 9 to 5.jpg" crc="3802214998" ref="genealogie-2">
@@ -393,465 +527,7 @@
       <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
-    <file name="1823_ascending room b.jpg" crc="3938642305" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1823_difference engine.jpg" crc="4134732853" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1832_telegraph.jpg" crc="379281898" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_speaking tubes.jpg" crc="533711682" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1852_mechanical typographer.jpg" crc="3841761063" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis a.jpg" crc="115048643" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis b.jpg" crc="4004682568" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch a.jpg" crc="4040853674" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch b.jpg" crc="3887392578" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch c.jpg" crc="3776730720" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1856_bessemer process.jpg" crc="216986478" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1857_geissler tubes.jpg" crc="397197198" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1867_edoux a.jpg" crc="4161255638" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1867_edoux b.jpg" crc="4157919720" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_remington 1.jpg" crc="3915648027" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1880_skeleton frame a.jpg" crc="84412222" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1880_skeleton frame b.jpg" crc="75212222" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_comptometer a.jpg" crc="4085842564" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone a.jpg" crc="3961676111" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone b.jpg" crc="3953485440" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone c.jpg" crc="4028498907" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_patent calculating machine.jpg" crc="4173033517" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_telautographe.jpg" crc="4258502243" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1901_type 001 keypunch a.jpg" crc="528961024" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1902_willis haviland carrier.jpg" crc="377971512" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1910_george claude.jpg" crc="194134928" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_western electric model 50al a.jpg" crc="4261581622" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1921_hollerith type iii tabulator.jpg" crc="282692620" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch a.jpg" crc="3975844401" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch b.jpg" crc="196817083" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1943_eniac.jpg" crc="4082344292" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1945_memex.jpg" crc="3781725661" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1947_dictabelt.jpg" crc="472975980" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1952_ibm 726.jpg" crc="4216239364" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1958_jack kilby.jpg" crc="308970165" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_dictabelt time master.jpg" crc="3932809546" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_xerox 914.jpg" crc="3999101960" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1963_xerox 813.jpg" crc="3956558888" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1971_intel 4004.jpg" crc="4160449280" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1973_micral n.jpg" crc="4255462306" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1991_webcam.jpg" crc="233741420" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_hitachi buisness microscope.jpg" crc="3994313313" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1859_chair no 14-u29417-fr.jpg" crc="3831030934" ref="genealogie-2"/>
-    <file name="1851_centripetal armchair-u29417-a-fr.jpg" crc="3794258633" ref="genealogie-2"/>
-    <file name="1859_chair no 14.jpg" crc="155866178" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton c-u30548-fr.jpg" crc="4097180694" ref="genealogie-2"/>
-    <file name="1851_centripetal armchair-u30548-a-fr.jpg" crc="3829845129" ref="genealogie-2"/>
-    <file name="1874_wooton c.jpg" crc="3857650597" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1884_staffel chair.jpg" crc="358689813" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1886_receptacle for storing papers-u33076-fr.png" crc="43804758" ref="genealogie-2"/>
-    <file name="1886_receptacle for storing papers.png" crc="3969977339" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1906_larkin building a.jpg" crc="4289512446" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1906_larkin building b.jpg" crc="4158241438" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk b.jpg" crc="525339013" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk c.jpg" crc="4278355446" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk d.jpg" crc="4095171262" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1932_b287-u33487-fr.jpg" crc="3858620628" ref="genealogie-2"/>
-    <file name="1932_b287.jpg" crc="4147538043" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1934_suspension file.jpg" crc="134200276" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1939_first roll edge desk_steelcase-u33597-fr.jpg" crc="3960153001" ref="genealogie-2"/>
-    <file name="1939_first roll edge desk_steelcase.jpg" crc="536528773" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2000_standby office.jpg" crc="4212841098" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2012_living office.jpg" crc="488114126" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2018_cove lounge chair.jpg" crc="141195659" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_brody worklounge-u35319-fr.jpg" crc="4131212056" ref="genealogie-2"/>
-    <file name="2015_brody worklounge.jpg" crc="476164773" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1940_johnson wax a.jpg" crc="4189328775" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1940_johnson wax b.jpg" crc="16074073" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1945_standardization.jpg" crc="23344203" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1946_multiple 15-u33820-fr.jpg" crc="3977242071" ref="genealogie-2"/>
-    <file name="1946_multiple 15.jpg" crc="389423751" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1957_planning unit knoll.jpg" crc="4077237422" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1958_geroge nelson maa-u33975-fr.jpg" crc="443431281" ref="genealogie-2"/>
-    <file name="1958_geroge nelson maa.jpg" crc="436966309" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1964_action office a.jpg" crc="4256995644" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii a-u34124-fr.jpg" crc="3993284185" ref="genealogie-2"/>
-    <file name="1968_action office ii a.jpg" crc="295975854" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii b.jpg" crc="507747465" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii c.jpg" crc="390035347" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii d.jpg" crc="518994782" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1973_series 9000.jpg" crc="532380630" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1976_ergon chair_stumpf-u34372-fr.jpg" crc="4038131224" ref="genealogie-2"/>
-    <file name="1976_ergon chair_stumpf.jpg" crc="379130858" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1980_balans variable.jpg" crc="127884866" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1985_neutral posture zero gravity chair-u34482-fr.jpg" crc="3830065363" ref="genealogie-2"/>
-    <file name="1985_neutral posture zero gravity chair-u34477-fr.jpg" crc="3830065363" ref="genealogie-2"/>
-    <file name="1989_context furniture system_steelcase.jpg" crc="4173706337" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1994_aeron chair .jpg" crc="3939269656" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_rooms that work.jpg" crc="4020043894" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1964_action office b.jpg" crc="4165919986" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk.png" crc="148141001" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1903_library bureau.jpg" crc="3976021229" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton b.jpg" crc="4031752332" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_centripetal armchair.jpg" crc="4262711794" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton a.jpg" crc="4063939133" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_centripetal armchair-u27343-fr.jpg" crc="53619064" ref="genealogie-2"/>
-    <file name="35b1f8f11652dac9.png" crc="4150844696" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="72c6692f48fab2c9.png" crc="425363551" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca6596aa60e37ffd.png" crc="386008537" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca5d2b9da6d52bb2.png" crc="4226952423" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca54c090ecc6d76b.png" crc="19748104" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca6e01b71af1d444.png" crc="387405580" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca766cc3d500288f.png" crc="4170488656" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1949_executive office group .jpg" crc="4003756810" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="180524_couv_final-u122811.png" crc="222941541" ref="index"/>
-    <file name="u123066-6.png" crc="4252013356" ref="index"/>
-    <file name="u123457.png" crc="3775293267" ref="twelve-ideal-offices:installation"/>
-    <file name="u123457-r.png" crc="381578767" ref="twelve-ideal-offices:installation"/>
-    <file name="01_google home.png" crc="4287951565" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="06_jooxter.png" crc="17419812" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="09_bolt lockitron.png" crc="47725819" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="11_spire.png" crc="246354546" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="10_flex fitbit.png" crc="3970018507" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="sans titre-6.png" crc="253341063" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="u124084.png" crc="3775293267" ref="workspace-1"/>
-    <file name="u124084-r.png" crc="381578767" ref="workspace-1"/>
-    <file name="180528_pleine conscience fond blanc.png" crc="4199332157" ref="workspace-1">
-      <caption webpage="workspace-1" alt=""/>
-    </file>
-    <file name="u74723-4.png" crc="395685435" ref="workspace-1"/>
-    <file name="u124759.png" crc="3775293267" ref="genealogie-2"/>
-    <file name="u124759-r.png" crc="381578767" ref="genealogie-2"/>
-    <file name="1915_modern efficiency desk d-u33431-fr.jpg" crc="468451317" ref="genealogie-2"/>
-    <file name="1850_col blanc c148x216.jpg" crc="3984440681" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1876_treasury department186x121.jpg" crc="3877447613" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_col blanc b204x259.jpg" crc="293842587" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1860_eight-hour282x200.jpg" crc="12883789" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1905_frederick taylor242x368.jpg" crc="465858754" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1911_taylor principles209x331.jpg" crc="314429818" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1922_emile coue238x371.jpg" crc="4173941526" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_elementary treatise on book-keeping235x368.jpg" crc="420985671" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1912_taylor society151x209.jpg" crc="301042851" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1917_leffingwell231x308.jpg" crc="3949711440" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1924_home office280x179.jpg" crc="536284648" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1933_elton mayo121x198.jpg" crc="3954267004" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1934_new masses233x308.jpg" crc="3807911917" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts a248x182.jpg" crc="9514919" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts b179x259.jpg" crc="4056798753" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_lewis corey212x322.jpg" crc="4281905370" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_hp garage134x171.jpg" crc="3947645801" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1942_bell labs231x159.jpg" crc="27336253" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1948_cybernetics105x158.jpg" crc="531713896" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1949_us dept of state294x228.jpg" crc="103099952" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_organization man180x261.jpg" crc="3816428584" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_landmarks of tomorrow247x353.jpg" crc="422889261" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_the silent language207x349.jpg" crc="3844187350" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1960_the human side of enterprise145x176.jpg" crc="44711304" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale a194x149.jpg" crc="486128378" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale b233x185.jpg" crc="383586458" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1976_steve jobs244x179.jpg" crc="4016368170" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1981_theory z223x365.jpg" crc="4259369857" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_in search of excellence261x390.jpg" crc="58504475" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_newsweek299x393.jpg" crc="527372619" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_liberation management168x250.jpg" crc="4085587771" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_freelancers union b263x276.jpg" crc="4179894150" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_gordon moore271x203.jpg" crc="4010663421" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_happy hour is 9 to 5188x282.jpg" crc="4143402830" seo="true" ref="genealogie-2">
+    <file name="1806_stylographic manifold writer.jpg" crc="325115741" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1850_curtain wall b149x245.jpg" crc="4282089067" seo="true" ref="genealogie-2">
@@ -1001,56 +677,145 @@
     <file name="1823_ascending room b200x270.jpg" crc="4154720404" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1823_ascending room b.jpg" crc="3938642305" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1823_difference engine.jpg" crc="4134732853" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1832_telegraph.jpg" crc="379281898" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1851_speaking tubes.jpg" crc="533711682" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1852_mechanical typographer170x250.jpg" crc="101247376" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1852_mechanical typographer.jpg" crc="3841761063" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1853_otis a220x217.jpg" crc="366218182" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1853_otis a.jpg" crc="115048643" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1853_otis b232x375.jpg" crc="132696999" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1853_otis b.jpg" crc="4004682568" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1853_pneumatic despatch a136x208.jpg" crc="184757878" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1853_pneumatic despatch a.jpg" crc="4040853674" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1853_pneumatic despatch b184x194.jpg" crc="4031473959" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1853_pneumatic despatch b.jpg" crc="3887392578" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1853_pneumatic despatch c264x209.jpg" crc="216997346" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1853_pneumatic despatch c.jpg" crc="3776730720" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1856_bessemer process156x116.jpg" crc="4091027964" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1856_bessemer process.jpg" crc="216986478" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1857_geissler tubes219x140.jpg" crc="298762704" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1857_geissler tubes.jpg" crc="397197198" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1867_edoux a226x318.jpg" crc="4091747540" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1867_edoux a.jpg" crc="4161255638" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1867_edoux b.jpg" crc="4157919720" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1874_remington 1228x220.jpg" crc="4192415054" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1874_remington 1.jpg" crc="3915648027" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1880_skeleton frame a.jpg" crc="84412222" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1880_skeleton frame b238x319.jpg" crc="3925794861" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1880_skeleton frame b.jpg" crc="75212222" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1887_comptometer a.jpg" crc="4085842564" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1890_comptometer a-u51413-fr.jpg" crc="4173518348" ref="genealogie-2"/>
     <file name="1887_graphophone a184x203.jpg" crc="3839136540" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1887_graphophone a.jpg" crc="3961676111" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1887_graphophone b.jpg" crc="3953485440" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1887_graphophone c136x150.jpg" crc="4122279256" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1887_graphophone c.jpg" crc="4028498907" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1888_patent calculating machine240x344.jpg" crc="476903788" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1888_patent calculating machine.jpg" crc="4173033517" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1888_telautographe208x214.jpg" crc="353533882" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1888_telautographe.jpg" crc="4258502243" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1901_type 001 keypunch a.jpg" crc="528961024" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1902_willis haviland carrier.jpg" crc="377971512" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1910_george claude159x179.jpg" crc="441965555" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1910_george claude.jpg" crc="194134928" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1919_western electric model 50al a188x189.jpg" crc="3815006366" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1919_western electric model 50al a.jpg" crc="4261581622" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1919_western electric model 50al a180x257.png" crc="4007474478" seo="true" ref="genealogie-2">
@@ -1059,23 +824,53 @@
     <file name="1919_western electric model 50al a.png" crc="87022287" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1921_hollerith type iii tabulator.jpg" crc="282692620" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1923_type 011 electric keypunch a262x206.jpg" crc="171761588" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1923_type 011 electric keypunch a.jpg" crc="3975844401" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1923_type 011 electric keypunch b263x337.jpg" crc="3931791723" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1923_type 011 electric keypunch b.jpg" crc="196817083" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1945_memex312x250.jpg" crc="3994467080" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1945_memex.jpg" crc="3781725661" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1947_dictabelt292x266.jpg" crc="4180359920" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1947_dictabelt.jpg" crc="472975980" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1952_ibm 726.jpg" crc="4216239364" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1955_ibm 702 machine_ezra stoller.png" crc="3989826345" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1958_jack kilby.jpg" crc="308970165" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1959_dictabelt time master.jpg" crc="3932809546" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1959_xerox 914287x370.jpg" crc="334285093" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1959_xerox 914.jpg" crc="3999101960" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1966_xerox magnafax telecopier.jpg" crc="474765137" ref="genealogie-2">
@@ -1086,8 +881,23 @@
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1969_arpanet-u51789-fr.jpg" crc="217877761" ref="genealogie-2"/>
+    <file name="1971_intel 4004.jpg" crc="4160449280" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1973_micral n.jpg" crc="4255462306" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1989_www.png" crc="399409734" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1991_webcam.jpg" crc="233741420" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2015_hitachi buisness microscope.jpg" crc="3994313313" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1889_office boy235x213.jpg" crc="4197947022" seo="true" ref="genealogie-2">
@@ -1232,33 +1042,311 @@
     <file name="2015_comfort zone.jpg" crc="3896505356" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1859_chair no 14-u29417-fr.jpg" crc="3831030934" ref="genealogie-2"/>
+    <file name="1851_centripetal armchair-u29417-a-fr.jpg" crc="3794258633" ref="genealogie-2"/>
+    <file name="1859_chair no 14.jpg" crc="155866178" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1874_wooton c-u30548-fr.jpg" crc="4097180694" ref="genealogie-2"/>
+    <file name="1851_centripetal armchair-u30548-a-fr.jpg" crc="3829845129" ref="genealogie-2"/>
+    <file name="1874_wooton c.jpg" crc="3857650597" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1884_staffel chair.jpg" crc="358689813" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1886_receptacle for storing papers-u33076-fr.png" crc="43804758" ref="genealogie-2"/>
+    <file name="1886_receptacle for storing papers.png" crc="3969977339" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1906_larkin building a-u33167-fr.jpg" crc="250775380" ref="genealogie-2"/>
+    <file name="1906_larkin building a.jpg" crc="4289512446" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1906_larkin building b.jpg" crc="4158241438" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1915_modern efficiency desk b-u33338-fr.jpg" crc="308261350" ref="genealogie-2"/>
+    <file name="1915_modern efficiency desk b.jpg" crc="525339013" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1915_modern efficiency desk c-u33387-fr.jpg" crc="33121700" ref="genealogie-2"/>
+    <file name="1915_modern efficiency desk c.jpg" crc="4278355446" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1932_b287-u33487-fr.jpg" crc="3858620628" ref="genealogie-2"/>
+    <file name="1932_b287.jpg" crc="4147538043" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1934_suspension file-u33544-fr.jpg" crc="260234258" ref="genealogie-2"/>
+    <file name="1934_suspension file.jpg" crc="134200276" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2000_standby office.jpg" crc="4212841098" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2012_living office.jpg" crc="488114126" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2018_cove lounge chair.jpg" crc="141195659" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="2015_brody worklounge-u35319-fr.jpg" crc="4131212056" ref="genealogie-2"/>
+    <file name="2015_brody worklounge.jpg" crc="476164773" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1940_johnson wax a.jpg" crc="4189328775" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1940_johnson wax b.jpg" crc="16074073" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1945_standardization.jpg" crc="23344203" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1957_planning unit knoll.jpg" crc="4077237422" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1958_geroge nelson maa-u33975-fr.jpg" crc="443431281" ref="genealogie-2"/>
+    <file name="1958_geroge nelson maa.jpg" crc="436966309" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1964_action office a.jpg" crc="4256995644" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1968_action office ii a-u34124-fr.jpg" crc="3993284185" ref="genealogie-2"/>
+    <file name="1968_action office ii a.jpg" crc="295975854" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1968_action office ii b-u34168-fr.jpg" crc="129255052" ref="genealogie-2"/>
+    <file name="1968_action office ii b.jpg" crc="507747465" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1968_action office ii c.jpg" crc="390035347" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1973_series 9000.jpg" crc="532380630" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1976_ergon chair_stumpf-u34372-fr.jpg" crc="4038131224" ref="genealogie-2"/>
+    <file name="1976_ergon chair_stumpf.jpg" crc="379130858" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1980_balans variable.jpg" crc="127884866" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1985_neutral posture zero gravity chair-u34482-fr.jpg" crc="3830065363" ref="genealogie-2"/>
+    <file name="1985_neutral posture zero gravity chair-u34477-fr.jpg" crc="3830065363" ref="genealogie-2"/>
     <file name="1994_aeron chair -u34571-fr.jpg" crc="56092160" ref="genealogie-2"/>
+    <file name="1994_aeron chair .jpg" crc="3939269656" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1995_rooms that work-u34619-fr.jpg" crc="27264961" ref="genealogie-2"/>
+    <file name="1995_rooms that work.jpg" crc="4020043894" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1964_action office b.jpg" crc="4165919986" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1915_modern efficiency desk.png" crc="148141001" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1903_library bureau.jpg" crc="3976021229" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1874_wooton b.jpg" crc="4031752332" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1851_centripetal armchair.jpg" crc="4262711794" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1874_wooton a.jpg" crc="4063939133" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1851_centripetal armchair-u27343-fr.jpg" crc="53619064" ref="genealogie-2"/>
+    <file name="35b1f8f11652dac9.png" crc="4150844696" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="72c6692f48fab2c9.png" crc="425363551" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="ca6596aa60e37ffd.png" crc="386008537" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="ca5d2b9da6d52bb2.png" crc="4226952423" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="ca54c090ecc6d76b.png" crc="19748104" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="ca6e01b71af1d444.png" crc="387405580" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="ca766cc3d500288f.png" crc="4170488656" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1887_comptometer268x200.jpg" crc="4122405149" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1887_comptometer.jpg" crc="4094895982" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1919_the brass check.jpg" crc="380675252" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1943_eniac.jpg" crc="4082344292" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1937_ibm songs217x312.jpg" crc="66802275" seo="true" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1937_ibm songs.jpg" crc="186825653" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1946_multiple 15-u33820-fr.jpg" crc="3977242071" ref="genealogie-2"/>
+    <file name="1946_multiple 15.jpg" crc="389423751" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
     <file name="1938_corbusier213x290.jpg" crc="428217235" seo="true" ref="genealogie-2">
       <caption webpage="genealogie-2" alt=""/>
     </file>
+    <file name="1938_corbusier.jpg" crc="118810678" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="1968_action office ii d-u34277-fr.jpg" crc="372730570" ref="genealogie-2"/>
+    <file name="1968_action office ii d.jpg" crc="518994782" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1963_xerox 813.jpg" crc="3956558888" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1989_context furniture system_steelcase.jpg" crc="4173706337" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1987_sas headquarters.jpg" crc="4058584119" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
+    <file name="1949_executive office group .jpg" crc="4003756810" ref="genealogie-2">
+      <caption webpage="genealogie-2" alt=""/>
+      <caption webpage="genealogie-2" alt=""/>
+    </file>
     <file name="180525_schema installation.png" crc="4228730214" seo="true" ref="installation">
       <caption webpage="installation" alt=""/>
     </file>
+    <file name="u136724.png" crc="3775293267" ref="workplace-2"/>
+    <file name="u136724-r.png" crc="381578767" ref="workplace-2"/>
+    <file name="180525_workplace2.png" crc="4025408669" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="u136784-4.png" crc="455145946" ref="workplace-2"/>
+    <file name="u136911.png" crc="3775293267" ref="workplace-3"/>
+    <file name="u136911-r.png" crc="381578767" ref="workplace-3"/>
+    <file name="180525_workplace3.png" crc="4289694635" ref="workplace-3">
+      <caption webpage="workplace-3" alt=""/>
+    </file>
+    <file name="u136898-5.png" crc="4085445051" ref="workplace-3"/>
+    <file name="u137010.png" crc="3775293267" ref="workplace-4"/>
+    <file name="u137010-r.png" crc="381578767" ref="workplace-4"/>
+    <file name="180525_workplace4.png" crc="4254648111" ref="workplace-4">
+      <caption webpage="workplace-4" alt=""/>
+    </file>
+    <file name="u136928-4.png" crc="395685435" ref="workplace-4"/>
+    <file name="u137093.png" crc="3775293267" ref="workplace-5"/>
+    <file name="u137093-r.png" crc="381578767" ref="workplace-5"/>
+    <file name="180525_workplace5.png" crc="4016474765" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="u137102-4.png" crc="361364303" ref="workplace-5"/>
+    <file name="u137136.png" crc="3775293267" ref="workplace-6"/>
+    <file name="u137136-r.png" crc="381578767" ref="workplace-6"/>
+    <file name="180525_workplace6.png" crc="12067857" ref="workplace-6">
+      <caption webpage="workplace-6" alt=""/>
+    </file>
+    <file name="u137206-4.png" crc="293024579" ref="workplace-6"/>
+    <file name="u137268.png" crc="3775293267" ref="workplace-7"/>
+    <file name="u137268-r.png" crc="381578767" ref="workplace-7"/>
+    <file name="180525_workplace7.png" crc="516920435" ref="workplace-7">
+      <caption webpage="workplace-7" alt=""/>
+    </file>
+    <file name="u137257-4.png" crc="70152530" ref="workplace-7"/>
+    <file name="u137398.png" crc="3775293267" ref="workplace-8"/>
+    <file name="u137398-r.png" crc="381578767" ref="workplace-8"/>
+    <file name="180525_workplace8.png" crc="273709931" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="u137423-4.png" crc="3912891985" ref="workplace-8"/>
+    <file name="u137435.png" crc="3775293267" ref="workplace-9"/>
+    <file name="u137435-r.png" crc="381578767" ref="workplace-9"/>
+    <file name="180525_workplace9.png" crc="4230801021" ref="workplace-9">
+      <caption webpage="workplace-9" alt=""/>
+    </file>
+    <file name="u137457-4.png" crc="3901017150" ref="workplace-9"/>
+    <file name="u137539.png" crc="3775293267" ref="workplace-10"/>
+    <file name="u137539-r.png" crc="381578767" ref="workplace-10"/>
+    <file name="180525_workplace10.png" crc="298686639" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="u137548-4.png" crc="4294459512" ref="workplace-10"/>
+    <file name="u137644.png" crc="3775293267" ref="workplace-11"/>
+    <file name="u137644-r.png" crc="381578767" ref="workplace-11"/>
+    <file name="180525_workplace11.png" crc="3977867642" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="u137732-4.png" crc="3986209616" ref="workplace-11"/>
+    <file name="u137748.png" crc="3775293267" ref="workplace-12"/>
+    <file name="u137748-r.png" crc="381578767" ref="workplace-12"/>
+    <file name="180525_workplace12.png" crc="4289694635" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="u137815-4.png" crc="106469589" ref="workplace-12"/>
   </folder>
-  <file name="index.html" crc="406070449" seo="true" mt="1527459566412" redirect="true"/>
-  <file name="twelve-ideal-offices.html" crc="480409217" seo="true" mt="1527455495208" redirect="true"/>
-  <file name="workspace-1.html" crc="331962081" seo="true" mt="1527459623827" redirect="true"/>
-  <file name="genealogie-2.html" crc="181802889" seo="true" mt="1527456650133" redirect="true"/>
-  <file name="installation.html" crc="4014048712" seo="true" mt="1527455484394" redirect="true"/>
+  <file name="index.html" crc="4286341117" seo="true" mt="1527692180632" redirect="true"/>
+  <file name="twelve-ideal-offices.html" crc="528986023" seo="true" mt="1527696250390" redirect="true"/>
+  <file name="workplace-1.html" crc="4149389979" seo="true" mt="1527696270904" redirect="true"/>
+  <file name="genealogie-2.html" crc="4030325340" seo="true" mt="1527456650133" redirect="true"/>
+  <file name="installation.html" crc="3973492793" seo="true" mt="1527455484394" redirect="true"/>
+  <file name="workplace-2.html" crc="454110404" seo="true" mt="1527696274221" redirect="true"/>
+  <file name="workplace-3.html" crc="240289460" seo="true" mt="1527696277955" redirect="true"/>
+  <file name="workplace-4.html" crc="4152614078" seo="true" mt="1527696282892" redirect="true"/>
+  <file name="workplace-5.html" crc="147779861" seo="true" mt="1527696289176" redirect="true"/>
+  <file name="workplace-6.html" crc="459810158" seo="true" mt="1527696292713" redirect="true"/>
+  <file name="workplace-7.html" crc="4262690157" seo="true" mt="1527696300104" redirect="true"/>
+  <file name="workplace-8.html" crc="151841346" seo="true" mt="1527696304110" redirect="true"/>
+  <file name="workplace-9.html" crc="4027071957" seo="true" mt="1527696307845" redirect="true"/>
+  <file name="workplace-10.html" crc="3811342795" seo="true" mt="1527696311087" redirect="true"/>
+  <file name="workplace-11.html" crc="4033369121" seo="true" mt="1527696314176" redirect="true"/>
+  <file name="workplace-12.html" crc="423255299" seo="true" mt="1527696317797" redirect="true"/>
 </manifest>

@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hyperwwwork.life/index.html</loc>
-    <lastmod>2018-05-28</lastmod>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-4.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-5.html</loc>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyperwwwork.life/twelve-ideal-offices.html</loc>
-    <lastmod>2018-05-27</lastmod>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,8 +43,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/workspace-1.html</loc>
-    <lastmod>2018-05-28</lastmod>
+    <loc>http://hyperwwwork.life/workplace-1.html</loc>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -41,42 +53,6 @@
     <lastmod>2018-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/1806_stylographic%20manifold%20writer.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/1823_difference%20engine.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/1887_comptometer%20a.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/1959_dictabelt%20time%20master.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/2015_hitachi%20buisness%20microscope.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/35b1f8f11652dac9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/72c6692f48fab2c9.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/ca6596aa60e37ffd.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/ca5d2b9da6d52bb2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/ca54c090ecc6d76b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/ca6e01b71af1d444.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/ca766cc3d500288f.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/1850_col%20blanc%20c148x216.jpg</image:loc>
     </image:image>
@@ -180,6 +156,9 @@
       <image:loc>http://hyperwwwork.life/images/2014_happy%20hour%20is%209%20to%205188x282.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://hyperwwwork.life/images/1806_stylographic%20manifold%20writer.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hyperwwwork.life/images/1850_curtain%20wall%20b149x245.jpg</image:loc>
     </image:image>
     <image:image>
@@ -243,6 +222,9 @@
       <image:loc>http://hyperwwwork.life/images/1823_ascending%20room%20b200x270.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://hyperwwwork.life/images/1823_difference%20engine.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hyperwwwork.life/images/1852_mechanical%20typographer170x250.jpg</image:loc>
     </image:image>
     <image:image>
@@ -274,6 +256,9 @@
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/1880_skeleton%20frame%20b238x319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/1887_comptometer%20a.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/1887_graphophone%20a184x203.jpg</image:loc>
@@ -309,10 +294,16 @@
       <image:loc>http://hyperwwwork.life/images/1947_dictabelt292x266.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://hyperwwwork.life/images/1959_dictabelt%20time%20master.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hyperwwwork.life/images/1959_xerox%20914287x370.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/1969_arpanet540x387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/2015_hitachi%20buisness%20microscope.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/1889_office%20boy235x213.jpg</image:loc>
@@ -363,6 +354,27 @@
       <image:loc>http://hyperwwwork.life/images/2015_comfort%20zone243x358.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://hyperwwwork.life/images/35b1f8f11652dac9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/72c6692f48fab2c9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/ca6596aa60e37ffd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/ca5d2b9da6d52bb2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/ca54c090ecc6d76b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/ca6e01b71af1d444.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/ca766cc3d500288f.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://hyperwwwork.life/images/1887_comptometer268x200.jpg</image:loc>
     </image:image>
     <image:image>
@@ -382,13 +394,67 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/assets/180525_schema-installation.pdf</loc>
-    <lastmod>2018-05-27</lastmod>
+    <loc>http://hyperwwwork.life/workplace-2.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-3.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-8.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-9.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-6.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-7.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-10.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-11.html</loc>
+    <lastmod>2018-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-12.html</loc>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://hyperwwwork.life/assets/snippet_3111b7a55.idms</loc>
+    <lastmod>2018-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/180525_schema-installation.pdf</loc>
     <lastmod>2018-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
