@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hyperwwwork.life/index.html</loc>
-    <lastmod>2018-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-4.html</loc>
-    <lastmod>2018-06-12</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-04567x567.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/180301_google%20home%20blur.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-4.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-04422x422.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-5.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +29,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/twelve-ideal-offices.html</loc>
-    <lastmod>2018-06-12</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,11 +50,11 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-1.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-02567x567.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/01_fitness%20manager-crop-u138542.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -392,22 +395,25 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-2.html</loc>
-    <lastmod>2018-06-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-3.html</loc>
-    <lastmod>2018-06-12</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-03567x567.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-02422x422.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-3.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-03422x422.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-8.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -416,7 +422,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-9.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -425,7 +431,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-6.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -434,7 +440,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-7.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -443,7 +449,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-10.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -452,7 +458,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-11.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -461,7 +467,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-12.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
