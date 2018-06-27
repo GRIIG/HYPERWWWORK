@@ -6588,6 +6588,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
              $('body').bind('mousewheel', function(){ return false});
             
             //PANZOOM SETTINGS
+            function panzoomSettings() {
              var scene = document.getElementById('page')
              panzoom (scene, { 
                 zoomSpeed: 0.1,
@@ -6599,6 +6600,16 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
                 100, // initial y position
                 0.05  // initial zoom 
              );
+            };
+
+            function checkPanzoom() {
+              if (panzoom) {
+                panzoomSettings();
+              } else {
+                window.setTimeout(panzoomSettings, 300);
+              }
+            }
+            checkPanzoom();
         </script>
      
      
