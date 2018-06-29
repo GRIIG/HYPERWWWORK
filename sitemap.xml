@@ -2,11 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hyperwwwork.life/index.html</loc>
-    <lastmod>2018-06-16</lastmod>
+    <lastmod>2018-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/180301_google%20home%20blur.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-2.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-02422x422.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-3.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-03422x422.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -19,12 +37,36 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/workplace-5.html</loc>
+    <loc>http://hyperwwwork.life/workplace-12.html</loc>
     <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-05.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-12.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-11.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-11.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/telechargement.html</loc>
+    <lastmod>2018-06-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-9.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-09.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -394,21 +436,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/workplace-2.html</loc>
+    <loc>http://hyperwwwork.life/workplace-5.html</loc>
     <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-02422x422.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-3.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-03422x422.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-05.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -421,12 +454,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/workplace-9.html</loc>
+    <loc>http://hyperwwwork.life/workplace-10.html</loc>
     <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-09.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-10.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -448,41 +481,44 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/workplace-10.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-10.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-11.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-11.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-12.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/00_diagrams%20final-12.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://hyperwwwork.life/assets/180525_schema-installation.pdf</loc>
     <lastmod>2018-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_g%C3%A9n%C3%A9alogie-des-espaces-de-travail.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://hyperwwwork.life/assets/monarch.woff</loc>
     <lastmod>2018-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_internet-des-objets.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_12-logiques-spatiales-au-service-de-la-soft-production.pdf</loc>
+    <lastmod>2018-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_%C3%A9tat-du-travail-en-france-2017.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_%C3%A9cosyst%C3%A8me-des-espaces-de-travail.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

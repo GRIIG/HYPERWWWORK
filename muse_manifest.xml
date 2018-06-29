@@ -1,23 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1529104114626">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1530275765769">
   <folder name="css">
     <file name="site_global.css" crc="156450830"/>
-    <file name="master_b-gabarit.css" crc="4036772862" ref="workplace-3:workplace-1:workplace-10:workplace-4:workplace-11:workplace-5:workplace-12:workplace-6:workplace-7:workplace-8:workplace-2:workplace-9"/>
-    <file name="master_c-gabarit.css" crc="4236878370" ref="twelve-ideal-offices"/>
-    <file name="workplace-3.css" crc="4345135" ref="workplace-3"/>
-    <file name="workplace-1.css" crc="262189157" ref="workplace-1"/>
+    <file name="master_b-gabarit.css" crc="10941424" ref="workplace-10:workplace-4:workplace-11:workplace-5:workplace-12:workplace-6:workplace-1:workplace-7:workplace-8:workplace-2:workplace-9:workplace-3"/>
+    <file name="master_c-gabarit.css" crc="4236878370" ref="twelve-ideal-offices:telechargement"/>
     <file name="workplace-10.css" crc="3799371427" ref="workplace-10"/>
     <file name="workplace-4.css" crc="4289049799" ref="workplace-4"/>
     <file name="workplace-11.css" crc="4132101351" ref="workplace-11"/>
     <file name="workplace-5.css" crc="4054310573" ref="workplace-5"/>
-    <file name="twelve-ideal-offices.css" crc="4281324842" ref="twelve-ideal-offices"/>
+    <file name="twelve-ideal-offices.css" crc="34508555" ref="twelve-ideal-offices"/>
     <file name="workplace-12.css" crc="4267250855" ref="workplace-12"/>
     <file name="workplace-6.css" crc="369984487" ref="workplace-6"/>
-    <file name="index.css" crc="51409705" ref="index"/>
+    <file name="index.css" crc="4099293529" ref="index"/>
+    <file name="workplace-1.css" crc="262189157" ref="workplace-1"/>
+    <file name="telechargement.css" crc="4278999144" ref="telechargement"/>
     <file name="workplace-7.css" crc="3775213534" ref="workplace-7"/>
-    <file name="genealogie-2.css" crc="3913994656" ref="genealogie-2"/>
+    <file name="genealogie-2.css" crc="120837928" ref="genealogie-2"/>
     <file name="workplace-8.css" crc="4260748966" ref="workplace-8"/>
     <file name="workplace-2.css" crc="3828842388" ref="workplace-2"/>
     <file name="workplace-9.css" crc="3802121724" ref="workplace-9"/>
+    <file name="workplace-3.css" crc="4345135" ref="workplace-3"/>
   </folder>
   <folder name="fonts">
     <file name="monarch.woff" crc="125157947"/>
@@ -27,14 +28,19 @@
   <folder name="assets">
     <file name="180525_schema-installation.pdf" crc="4055806817" seo="true" mt="1527438532000"/>
     <file name="monarch.woff" crc="125157947" seo="true" mt="1522423392000"/>
+    <file name="hyperwwwork_12-logiques-spatiales-au-service-de-la-soft-production.pdf" crc="3863988557" seo="true" mt="1527807160000"/>
+    <file name="hyperwwwork_écosystème-des-espaces-de-travail.pdf" crc="3873107577" seo="true" mt="1528759945000"/>
+    <file name="hyperwwwork_état-du-travail-en-france-2017.pdf" crc="125686162" seo="true" mt="1528760754000"/>
+    <file name="hyperwwwork_généalogie-des-espaces-de-travail.pdf" crc="3851872146" seo="true" mt="1528759992000"/>
+    <file name="hyperwwwork_internet-des-objets.pdf" crc="1899230" seo="true" mt="1528759945000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
-    <file name="museutils.js" crc="3803043152" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
-    <file name="whatinput.js" crc="86476730" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
+    <file name="museutils.js" crc="3803043152" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
+    <file name="whatinput.js" crc="86476730" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
-    <file name="require.js" crc="4157109226" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="require.js" crc="4157109226" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="genealogie-2"/>
     <file name="webpro.js" crc="242022427" ref="genealogie-2"/>
     <file name="musewpslideshow.js" crc="457073769" ref="genealogie-2"/>
@@ -45,8 +51,8 @@
     <file name="180301_google home blur.png" crc="493177312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u123457.png" crc="3775293267" ref="twelve-ideal-offices"/>
-    <file name="u123457-r.png" crc="381578767" ref="twelve-ideal-offices"/>
+    <file name="u123457.png" crc="3775293267" ref="twelve-ideal-offices:telechargement"/>
+    <file name="u123457-r.png" crc="381578767" ref="twelve-ideal-offices:telechargement"/>
     <file name="01_google home.png" crc="4287951565" seo="true" ref="twelve-ideal-offices">
       <caption webpage="twelve-ideal-offices" alt=""/>
     </file>
@@ -1320,19 +1326,20 @@
       <caption webpage="workplace-12" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="337486901" seo="true" mt="1529103723165" redirect="true"/>
-  <file name="twelve-ideal-offices.html" crc="32949471" seo="true" mt="1529103730118" redirect="true"/>
-  <file name="workplace-1.html" crc="272232400" seo="true" mt="1529103723170" redirect="true"/>
-  <file name="genealogie-2.html" crc="4030834568" seo="true" mt="1527456650133" redirect="true"/>
-  <file name="workplace-2.html" crc="221658504" seo="true" mt="1529103723171" redirect="true"/>
-  <file name="workplace-3.html" crc="4090826947" seo="true" mt="1529103723172" redirect="true"/>
-  <file name="workplace-4.html" crc="72429650" seo="true" mt="1529103723173" redirect="true"/>
-  <file name="workplace-5.html" crc="4183001496" seo="true" mt="1529103723174" redirect="true"/>
-  <file name="workplace-6.html" crc="4180097233" seo="true" mt="1529103723175" redirect="true"/>
-  <file name="workplace-7.html" crc="3882370478" seo="true" mt="1529103723176" redirect="true"/>
-  <file name="workplace-8.html" crc="3886405797" seo="true" mt="1529103723177" redirect="true"/>
-  <file name="workplace-9.html" crc="4056028035" seo="true" mt="1529103723179" redirect="true"/>
-  <file name="workplace-10.html" crc="3967226424" seo="true" mt="1529103723180" redirect="true"/>
-  <file name="workplace-11.html" crc="43740593" seo="true" mt="1529103723181" redirect="true"/>
-  <file name="workplace-12.html" crc="402421435" seo="true" mt="1529103723183" redirect="true"/>
+  <file name="index.html" crc="198145226" seo="true" mt="1530274904916" redirect="true"/>
+  <file name="twelve-ideal-offices.html" crc="184819418" seo="true" mt="1529103730118" redirect="true"/>
+  <file name="workplace-1.html" crc="4210245131" seo="true" mt="1529103723170" redirect="true"/>
+  <file name="genealogie-2.html" crc="246587476" seo="true" mt="1527456650133" redirect="true"/>
+  <file name="workplace-2.html" crc="354788455" seo="true" mt="1529103723171" redirect="true"/>
+  <file name="workplace-3.html" crc="224281074" seo="true" mt="1529103723172" redirect="true"/>
+  <file name="workplace-4.html" crc="338748407" seo="true" mt="1529103723173" redirect="true"/>
+  <file name="workplace-5.html" crc="174670966" seo="true" mt="1529103723174" redirect="true"/>
+  <file name="workplace-6.html" crc="3867426735" seo="true" mt="1529103723175" redirect="true"/>
+  <file name="workplace-7.html" crc="3871221543" seo="true" mt="1529103723176" redirect="true"/>
+  <file name="workplace-8.html" crc="468040525" seo="true" mt="1529103723177" redirect="true"/>
+  <file name="workplace-9.html" crc="83131640" seo="true" mt="1529103723179" redirect="true"/>
+  <file name="workplace-10.html" crc="3941960278" seo="true" mt="1529103723180" redirect="true"/>
+  <file name="workplace-11.html" crc="454132923" seo="true" mt="1529103723181" redirect="true"/>
+  <file name="workplace-12.html" crc="142510666" seo="true" mt="1529103723183" redirect="true"/>
+  <file name="telechargement.html" crc="384333819" seo="true" mt="1530275112681" redirect="true"/>
 </manifest>
