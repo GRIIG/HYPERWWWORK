@@ -1,24 +1,144 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1530275765769">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1533555816258">
   <folder name="css">
-    <file name="site_global.css" crc="156450830"/>
-    <file name="master_b-gabarit.css" crc="10941424" ref="workplace-10:workplace-4:workplace-11:workplace-5:workplace-12:workplace-6:workplace-1:workplace-7:workplace-8:workplace-2:workplace-9:workplace-3"/>
-    <file name="master_c-gabarit.css" crc="4236878370" ref="twelve-ideal-offices:telechargement"/>
-    <file name="workplace-10.css" crc="3799371427" ref="workplace-10"/>
-    <file name="workplace-4.css" crc="4289049799" ref="workplace-4"/>
-    <file name="workplace-11.css" crc="4132101351" ref="workplace-11"/>
-    <file name="workplace-5.css" crc="4054310573" ref="workplace-5"/>
-    <file name="twelve-ideal-offices.css" crc="34508555" ref="twelve-ideal-offices"/>
-    <file name="workplace-12.css" crc="4267250855" ref="workplace-12"/>
-    <file name="workplace-6.css" crc="369984487" ref="workplace-6"/>
-    <file name="index.css" crc="4099293529" ref="index"/>
-    <file name="workplace-1.css" crc="262189157" ref="workplace-1"/>
-    <file name="telechargement.css" crc="4278999144" ref="telechargement"/>
-    <file name="workplace-7.css" crc="3775213534" ref="workplace-7"/>
-    <file name="genealogie-2.css" crc="120837928" ref="genealogie-2"/>
-    <file name="workplace-8.css" crc="4260748966" ref="workplace-8"/>
-    <file name="workplace-2.css" crc="3828842388" ref="workplace-2"/>
-    <file name="workplace-9.css" crc="3802121724" ref="workplace-9"/>
-    <file name="workplace-3.css" crc="4345135" ref="workplace-3"/>
+    <file name="site_global.css" crc="499533841"/>
+    <file name="plan-6.css" crc="4226742140" ref="plan-6"/>
+    <file name="nomq_plan-6.css" crc="3850447734" ref="plan-6"/>
+    <file name="render-11.css" crc="220769884" ref="render-11"/>
+    <file name="nomq_render-11.css" crc="4286499703" ref="render-11"/>
+    <file name="plan-3.css" crc="4095522189" ref="plan-3"/>
+    <file name="nomq_plan-3.css" crc="135410112" ref="plan-3"/>
+    <file name="render-6.css" crc="4002403383" ref="render-6"/>
+    <file name="nomq_render-6.css" crc="304918902" ref="render-6"/>
+    <file name="text-11.css" crc="87725097" ref="text-11"/>
+    <file name="nomq_text-11.css" crc="342873672" ref="text-11"/>
+    <file name="render-3.css" crc="4166049729" ref="render-3"/>
+    <file name="nomq_render-3.css" crc="4169382692" ref="render-3"/>
+    <file name="text-6.css" crc="3927764797" ref="text-6"/>
+    <file name="nomq_text-6.css" crc="4280674390" ref="text-6"/>
+    <file name="iot-11.css" crc="173681983" ref="iot-11"/>
+    <file name="nomq_iot-11.css" crc="4069162713" ref="iot-11"/>
+    <file name="text-3.css" crc="3793503327" ref="text-3"/>
+    <file name="nomq_text-3.css" crc="319808777" ref="text-3"/>
+    <file name="iot-6.css" crc="81807604" ref="iot-6"/>
+    <file name="nomq_iot-6.css" crc="4045887155" ref="iot-6"/>
+    <file name="workplace-12.css" crc="3884790837" ref="workplace-12"/>
+    <file name="nomq_workplace-12.css" crc="511031652" ref="workplace-12"/>
+    <file name="iot-3.css" crc="450390620" ref="iot-3"/>
+    <file name="nomq_iot-3.css" crc="420520043" ref="iot-3"/>
+    <file name="workplace-7.css" crc="4111366344" ref="workplace-7"/>
+    <file name="nomq_workplace-7.css" crc="424522824" ref="workplace-7"/>
+    <file name="plan-12.css" crc="144762476" ref="plan-12"/>
+    <file name="nomq_plan-12.css" crc="483917900" ref="plan-12"/>
+    <file name="plan-2.css" crc="3941399086" ref="plan-2"/>
+    <file name="nomq_plan-2.css" crc="251194542" ref="plan-2"/>
+    <file name="plan-7.css" crc="325062343" ref="plan-7"/>
+    <file name="nomq_plan-7.css" crc="120798192" ref="plan-7"/>
+    <file name="render-12.css" crc="3849326457" ref="render-12"/>
+    <file name="nomq_render-12.css" crc="3997233931" ref="render-12"/>
+    <file name="render-2.css" crc="497456209" ref="render-2"/>
+    <file name="nomq_render-2.css" crc="483585454" ref="render-2"/>
+    <file name="render-7.css" crc="3923354022" ref="render-7"/>
+    <file name="nomq_render-7.css" crc="120959032" ref="render-7"/>
+    <file name="text-12.css" crc="3954239952" ref="text-12"/>
+    <file name="nomq_text-12.css" crc="3793371036" ref="text-12"/>
+    <file name="index.css" crc="388533784" ref="index"/>
+    <file name="nomq_index.css" crc="3895013827" ref="index"/>
+    <file name="text-7.css" crc="3794297645" ref="text-7"/>
+    <file name="nomq_text-7.css" crc="3878710419" ref="text-7"/>
+    <file name="iot-12.css" crc="192332745" ref="iot-12"/>
+    <file name="nomq_iot-12.css" crc="43313090" ref="iot-12"/>
+    <file name="workplace-2.css" crc="4178381161" ref="workplace-2"/>
+    <file name="nomq_workplace-2.css" crc="136454860" ref="workplace-2"/>
+    <file name="iot-7.css" crc="264041448" ref="iot-7"/>
+    <file name="nomq_iot-7.css" crc="97266438" ref="iot-7"/>
+    <file name="text-2.css" crc="359251956" ref="text-2"/>
+    <file name="nomq_text-2.css" crc="3759658730" ref="text-2"/>
+    <file name="publi.css" crc="4016745734" ref="publi"/>
+    <file name="nomq_publi.css" crc="4263315257" ref="publi"/>
+    <file name="iot-2.css" crc="3821188076" ref="iot-2"/>
+    <file name="nomq_iot-2.css" crc="4245395659" ref="iot-2"/>
+    <file name="workplace-8.css" crc="4186202450" ref="workplace-8"/>
+    <file name="nomq_workplace-8.css" crc="379129294" ref="workplace-8"/>
+    <file name="biblio.css" crc="3818453919" ref="biblio"/>
+    <file name="nomq_biblio.css" crc="112107732" ref="biblio"/>
+    <file name="workplace-1.css" crc="3902312324" ref="workplace-1"/>
+    <file name="nomq_workplace-1.css" crc="4037148313" ref="workplace-1"/>
+    <file name="plan-8.css" crc="3826017131" ref="plan-8"/>
+    <file name="nomq_plan-8.css" crc="529386633" ref="plan-8"/>
+    <file name="plan-1.css" crc="4214892288" ref="plan-1"/>
+    <file name="nomq_plan-1.css" crc="123209721" ref="plan-1"/>
+    <file name="render-8.css" crc="3878639163" ref="render-8"/>
+    <file name="nomq_render-8.css" crc="4198029736" ref="render-8"/>
+    <file name="70-historical-offices.css" crc="14013528" ref="70-historical-offices"/>
+    <file name="nomq_70-historical-offices.css" crc="4106385756" ref="70-historical-offices"/>
+    <file name="render-1.css" crc="4020880336" ref="render-1"/>
+    <file name="nomq_render-1.css" crc="78215553" ref="render-1"/>
+    <file name="text-8.css" crc="4235791051" ref="text-8"/>
+    <file name="nomq_text-8.css" crc="4220232755" ref="text-8"/>
+    <file name="text-1.css" crc="56962351" ref="text-1"/>
+    <file name="nomq_text-1.css" crc="427555732" ref="text-1"/>
+    <file name="iot-8.css" crc="154437989" ref="iot-8"/>
+    <file name="nomq_iot-8.css" crc="3959698827" ref="iot-8"/>
+    <file name="iot-1.css" crc="3927425836" ref="iot-1"/>
+    <file name="nomq_iot-1.css" crc="4108194018" ref="iot-1"/>
+    <file name="workplace-9.css" crc="146666761" ref="workplace-9"/>
+    <file name="nomq_workplace-9.css" crc="3838972070" ref="workplace-9"/>
+    <file name="workplace-4.css" crc="4131225691" ref="workplace-4"/>
+    <file name="nomq_workplace-4.css" crc="3902361043" ref="workplace-4"/>
+    <file name="plan-9.css" crc="3914000112" ref="plan-9"/>
+    <file name="nomq_plan-9.css" crc="157678653" ref="plan-9"/>
+    <file name="plan-4.css" crc="57055651" ref="plan-4"/>
+    <file name="nomq_plan-4.css" crc="401869481" ref="plan-4"/>
+    <file name="render-9.css" crc="472303321" ref="render-9"/>
+    <file name="nomq_render-9.css" crc="4230917411" ref="render-9"/>
+    <file name="render-4.css" crc="46550695" ref="render-4"/>
+    <file name="nomq_render-4.css" crc="4224772419" ref="render-4"/>
+    <file name="text-9.css" crc="3995370634" ref="text-9"/>
+    <file name="nomq_text-9.css" crc="3891648281" ref="text-9"/>
+    <file name="text-4.css" crc="341458780" ref="text-4"/>
+    <file name="nomq_text-4.css" crc="249406372" ref="text-4"/>
+    <file name="iot-9.css" crc="4187072398" ref="iot-9"/>
+    <file name="nomq_iot-9.css" crc="4128725689" ref="iot-9"/>
+    <file name="iot-4.css" crc="3787310688" ref="iot-4"/>
+    <file name="nomq_iot-4.css" crc="534370625" ref="iot-4"/>
+    <file name="workplace-10.css" crc="465658678" ref="workplace-10"/>
+    <file name="nomq_workplace-10.css" crc="3914767242" ref="workplace-10"/>
+    <file name="workplace-5.css" crc="4271351915" ref="workplace-5"/>
+    <file name="nomq_workplace-5.css" crc="174787128" ref="workplace-5"/>
+    <file name="plan-10.css" crc="4131082899" ref="plan-10"/>
+    <file name="nomq_plan-10.css" crc="439168143" ref="plan-10"/>
+    <file name="100-iot.css" crc="132510590" ref="100-iot"/>
+    <file name="nomq_100-iot.css" crc="4113401018" ref="100-iot"/>
+    <file name="plan-5.css" crc="483066280" ref="plan-5"/>
+    <file name="nomq_plan-5.css" crc="4105723467" ref="plan-5"/>
+    <file name="render-10.css" crc="252488241" ref="render-10"/>
+    <file name="nomq_render-10.css" crc="4287171951" ref="render-10"/>
+    <file name="abstract.css" crc="3950826762" ref="abstract"/>
+    <file name="nomq_abstract.css" crc="4024278345" ref="abstract"/>
+    <file name="render-5.css" crc="3764535331" ref="render-5"/>
+    <file name="nomq_render-5.css" crc="4213960779" ref="render-5"/>
+    <file name="text-10.css" crc="3982139700" ref="text-10"/>
+    <file name="nomq_text-10.css" crc="469821953" ref="text-10"/>
+    <file name="about.css" crc="321213736" ref="about"/>
+    <file name="nomq_about.css" crc="100047052" ref="about"/>
+    <file name="text-5.css" crc="151580551" ref="text-5"/>
+    <file name="nomq_text-5.css" crc="374429947" ref="text-5"/>
+    <file name="iot-10.css" crc="3805513721" ref="iot-10"/>
+    <file name="nomq_iot-10.css" crc="4128240342" ref="iot-10"/>
+    <file name="downloads.css" crc="4190516880" ref="downloads"/>
+    <file name="nomq_downloads.css" crc="4123214382" ref="downloads"/>
+    <file name="iot-5.css" crc="3938985002" ref="iot-5"/>
+    <file name="nomq_iot-5.css" crc="212896951" ref="iot-5"/>
+    <file name="workplace-11.css" crc="4169650825" ref="workplace-11"/>
+    <file name="nomq_workplace-11.css" crc="3997904985" ref="workplace-11"/>
+    <file name="worplace-3.css" crc="4237372457" ref="worplace-3"/>
+    <file name="nomq_worplace-3.css" crc="4128478367" ref="worplace-3"/>
+    <file name="workplace-6.css" crc="3762925180" ref="workplace-6"/>
+    <file name="nomq_workplace-6.css" crc="4252798791" ref="workplace-6"/>
+    <file name="plan-11.css" crc="4103651023" ref="plan-11"/>
+    <file name="nomq_plan-11.css" crc="4036419533" ref="plan-11"/>
+    <file name="12-ideal-offices.css" crc="3925811283" ref="12-ideal-offices"/>
+    <file name="nomq_12-ideal-offices.css" crc="171288660" ref="12-ideal-offices"/>
   </folder>
   <folder name="fonts">
     <file name="monarch.woff" crc="125157947"/>
@@ -26,1320 +146,1391 @@
     <file name="monarch.svg" crc="4190830485"/>
   </folder>
   <folder name="assets">
-    <file name="180525_schema-installation.pdf" crc="4055806817" seo="true" mt="1527438532000"/>
-    <file name="monarch.woff" crc="125157947" seo="true" mt="1522423392000"/>
-    <file name="hyperwwwork_12-logiques-spatiales-au-service-de-la-soft-production.pdf" crc="3863988557" seo="true" mt="1527807160000"/>
     <file name="hyperwwwork_écosystème-des-espaces-de-travail.pdf" crc="3873107577" seo="true" mt="1528759945000"/>
     <file name="hyperwwwork_état-du-travail-en-france-2017.pdf" crc="125686162" seo="true" mt="1528760754000"/>
     <file name="hyperwwwork_généalogie-des-espaces-de-travail.pdf" crc="3851872146" seo="true" mt="1528759992000"/>
     <file name="hyperwwwork_internet-des-objets.pdf" crc="1899230" seo="true" mt="1528759945000"/>
+    <file name="hyperwwwork_12-logiques-spatiales-au-service-de-la-soft-production.pdf" crc="3863988557" seo="true" mt="1527807160000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
-    <file name="museutils.js" crc="3803043152" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
-    <file name="whatinput.js" crc="86476730" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
-    <file name="require.js" crc="4157109226" ref="index:twelve-ideal-offices:workplace-1:genealogie-2:workplace-2:workplace-3:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:telechargement"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="genealogie-2"/>
-    <file name="webpro.js" crc="242022427" ref="genealogie-2"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="genealogie-2"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="genealogie-2"/>
-    <file name="touchswipe.js" crc="4066113679" ref="genealogie-2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="require.js" crc="4157109226" ref="index:70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="100-iot"/>
+    <file name="webpro.js" crc="242022427" ref="worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
+    <file name="touchswipe.js" crc="4066113679" ref="worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
   </folder>
   <folder name="images">
-    <file name="180301_google home blur.png" crc="493177312" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u123457.png" crc="3775293267" ref="twelve-ideal-offices:telechargement"/>
-    <file name="u123457-r.png" crc="381578767" ref="twelve-ideal-offices:telechargement"/>
-    <file name="01_google home.png" crc="4287951565" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="06_jooxter.png" crc="17419812" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="09_bolt lockitron.png" crc="47725819" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="11_spire.png" crc="246354546" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="10_flex fitbit.png" crc="3970018507" seo="true" ref="twelve-ideal-offices">
-      <caption webpage="twelve-ideal-offices" alt=""/>
-    </file>
-    <file name="u124084.png" crc="3775293267" ref="workplace-1"/>
-    <file name="u124084-r.png" crc="381578767" ref="workplace-1"/>
-    <file name="01_fitness manager-crop-u138542.png" crc="203641570" seo="true" ref="workplace-1">
-      <caption webpage="workplace-1" alt=""/>
-    </file>
-    <file name="u124759.png" crc="3775293267" ref="genealogie-2"/>
-    <file name="u124759-r.png" crc="381578767" ref="genealogie-2"/>
-    <file name="1915_modern efficiency desk d-u33431-fr.jpg" crc="468451317" ref="genealogie-2"/>
-    <file name="1915_modern efficiency desk d.jpg" crc="4095171262" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1939_first roll edge desk_steelcase-u33597-fr.jpg" crc="3960153001" ref="genealogie-2"/>
-    <file name="1939_first roll edge desk_steelcase.jpg" crc="536528773" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2017_apple.svg" crc="81534700" ref="genealogie-2"/>
-    <file name="2017_apple_poster_u4772.png" crc="3939885058" ref="genealogie-2"/>
-    <file name="1852_jayne building.svg" crc="3881278201" ref="genealogie-2"/>
-    <file name="1852_jayne building_poster_u4403.png" crc="3858304568" ref="genealogie-2"/>
-    <file name="1857_haughwout building.svg" crc="522292456" ref="genealogie-2"/>
-    <file name="1857_haughwout building_poster_u4411.png" crc="3790942206" ref="genealogie-2"/>
-    <file name="1879_leiter building.svg" crc="4222267305" ref="genealogie-2"/>
-    <file name="1879_leiter building_poster_u4428.png" crc="315849762" ref="genealogie-2"/>
-    <file name="1888_rookery building.svg" crc="4129528201" ref="genealogie-2"/>
-    <file name="1888_rookery building_poster_u4436.png" crc="231020961" ref="genealogie-2"/>
-    <file name="1889_eiffel.svg" crc="3693344" ref="genealogie-2"/>
-    <file name="1889_eiffel_poster_u4444.png" crc="393031258" ref="genealogie-2"/>
-    <file name="1889_tacoma building.svg" crc="343818571" ref="genealogie-2"/>
-    <file name="1889_tacoma building_poster_u4452.png" crc="4039323858" ref="genealogie-2"/>
-    <file name="1895_prudential_building.svg" crc="4244024982" ref="genealogie-2"/>
-    <file name="1895_prudential_building_poster_u4468.png" crc="4095661968" ref="genealogie-2"/>
-    <file name="1922_chicago tribune adolf loos.svg" crc="4145873678" ref="genealogie-2"/>
-    <file name="1922_chicago tribune adolf loos_poster_u4492.png" crc="311545630" ref="genealogie-2"/>
-    <file name="1923_chicago tribune hilberseimer.svg" crc="4115074959" ref="genealogie-2"/>
-    <file name="1923_chicago tribune hilberseimer_poster_u4500.png" crc="4281671406" ref="genealogie-2"/>
-    <file name="1958_caisse centrale de réassurance.svg" crc="4003123339" ref="genealogie-2"/>
-    <file name="1958_caisse centrale de réassurance_poster_u4532.png" crc="4051187692" ref="genealogie-2"/>
-    <file name="1960_boehringer.svg" crc="3966847909" ref="genealogie-2"/>
-    <file name="1960_boehringer_poster_u4548.png" crc="252471887" ref="genealogie-2"/>
-    <file name="1966_osram.svg" crc="225101144" ref="genealogie-2"/>
-    <file name="1966_osram_poster_u4556.png" crc="3864792241" ref="genealogie-2"/>
-    <file name="1966_tour nobel.svg" crc="516657300" ref="genealogie-2"/>
-    <file name="1966_tour nobel_poster_u4564.png" crc="305519032" ref="genealogie-2"/>
-    <file name="1968_ford foundation.svg" crc="264186171" ref="genealogie-2"/>
-    <file name="1968_ford foundation_poster_u4572.png" crc="527452433" ref="genealogie-2"/>
-    <file name="1972_central beheer.svg" crc="37504226" ref="genealogie-2"/>
-    <file name="1972_central beheer_poster_u4580.png" crc="271243717" ref="genealogie-2"/>
-    <file name="1972_one ibm plaza.svg" crc="4185344591" ref="genealogie-2"/>
-    <file name="1972_one ibm plaza_poster_u4588.png" crc="3852335634" ref="genealogie-2"/>
-    <file name="1973_olivier de serres.svg" crc="59269171" ref="genealogie-2"/>
-    <file name="1973_olivier de serres_poster_u4596.png" crc="4283812010" ref="genealogie-2"/>
-    <file name="1974_bmw.svg" crc="4155769484" ref="genealogie-2"/>
-    <file name="1974_bmw_poster_u4604.png" crc="3809062106" ref="genealogie-2"/>
-    <file name="1975_willis faber - dumas headquarters.svg" crc="408437123" ref="genealogie-2"/>
-    <file name="1975_willis faber - dumas headquarters_poster_u4612.png" crc="270562096" ref="genealogie-2"/>
-    <file name="1986 - lloyd-s insurance building.svg" crc="243725018" ref="genealogie-2"/>
-    <file name="1986 - lloyd-s insurance building_poster_u9656.png" crc="3998406563" ref="genealogie-2"/>
-    <file name="1991_tbwa.svg" crc="4124867127" ref="genealogie-2"/>
-    <file name="1991_tbwa_poster_u4628.png" crc="332550405" ref="genealogie-2"/>
-    <file name="2000_pixar.svg" crc="3961127964" ref="genealogie-2"/>
-    <file name="2000_pixar_poster_u4636.png" crc="3898048262" ref="genealogie-2"/>
-    <file name="2001_caja granada savings bank.svg" crc="335064246" ref="genealogie-2"/>
-    <file name="2001_caja granada savings bank_poster_u4644.png" crc="470049308" ref="genealogie-2"/>
-    <file name="2002_lacaton vassal.svg" crc="474238598" ref="genealogie-2"/>
-    <file name="2002_lacaton vassal_poster_u4652.png" crc="325188747" ref="genealogie-2"/>
-    <file name="2004_swiss re headquarters.svg" crc="3790864566" ref="genealogie-2"/>
-    <file name="2004_swiss re headquarters_poster_u4660.png" crc="469295618" ref="genealogie-2"/>
-    <file name="2008_google zurich.svg" crc="337209688" ref="genealogie-2"/>
-    <file name="2008_google zurich_poster_u4668.png" crc="4005553668" ref="genealogie-2"/>
-    <file name="2008_kanagawa institute of technology workshop.svg" crc="4170346526" ref="genealogie-2"/>
-    <file name="2008_kanagawa institute of technology workshop_poster_u4676.png" crc="3942741565" ref="genealogie-2"/>
-    <file name="2010_skype hq.svg" crc="3922302726" ref="genealogie-2"/>
-    <file name="2010_skype hq_poster_u4684.png" crc="3794132332" ref="genealogie-2"/>
-    <file name="2011_red bull amsterdam.svg" crc="327418441" ref="genealogie-2"/>
-    <file name="2011_red bull amsterdam_poster_u4692.png" crc="524187150" ref="genealogie-2"/>
-    <file name="2012_teletech.svg" crc="3798780990" ref="genealogie-2"/>
-    <file name="2012_teletech_poster_u4700.png" crc="4172628998" ref="genealogie-2"/>
-    <file name="2014_office for architecture studio and coworking space.svg" crc="416540100" ref="genealogie-2"/>
-    <file name="2014_office for architecture studio and coworking space_poster_u4708.png" crc="525568189" ref="genealogie-2"/>
-    <file name="2015_bedndesk.svg" crc="30880457" ref="genealogie-2"/>
-    <file name="2015_bedndesk_poster_u4716.png" crc="4269551156" ref="genealogie-2"/>
-    <file name="2015_remix pce.svg" crc="4118401467" ref="genealogie-2"/>
-    <file name="2015_remix pce_poster_u4732.png" crc="307545124" ref="genealogie-2"/>
-    <file name="2015_sun and co.svg" crc="523183885" ref="genealogie-2"/>
-    <file name="2015_sun and co_poster_u4740.png" crc="138195013" ref="genealogie-2"/>
-    <file name="2015_tech farm.svg" crc="77640704" ref="genealogie-2"/>
-    <file name="2015_tech farm_poster_u4748.png" crc="79779121" ref="genealogie-2"/>
-    <file name="2016_uber.svg" crc="4061045736" ref="genealogie-2"/>
-    <file name="2016_uber_poster_u4756.png" crc="4026128194" ref="genealogie-2"/>
-    <file name="2017_autodesk toronto.svg" crc="3780993819" ref="genealogie-2"/>
-    <file name="2017_autodesk toronto_poster_u4788.png" crc="4148677093" ref="genealogie-2"/>
-    <file name="2017_cloud coworking.svg" crc="4179299735" ref="genealogie-2"/>
-    <file name="2017_cloud coworking_poster_u4802.png" crc="483216978" ref="genealogie-2"/>
-    <file name="2017_lime livingspace.svg" crc="293794436" ref="genealogie-2"/>
-    <file name="2017_lime livingspace_poster_u4822.png" crc="3827783557" ref="genealogie-2"/>
-    <file name="2017_primmoffice.svg" crc="78046472" ref="genealogie-2"/>
-    <file name="2017_primmoffice_poster_u4830.png" crc="4105463530" ref="genealogie-2"/>
-    <file name="2017_quarters.svg" crc="30497813" ref="genealogie-2"/>
-    <file name="2017_quarters_poster_u4856.png" crc="4093098203" ref="genealogie-2"/>
-    <file name="2017_station f.svg" crc="4132555525" ref="genealogie-2"/>
-    <file name="2017_station f_poster_u4864.png" crc="12766113" ref="genealogie-2"/>
-    <file name="2017_wework uptown.svg" crc="235491752" ref="genealogie-2"/>
-    <file name="2017_wework uptown_poster_u4878.png" crc="287457620" ref="genealogie-2"/>
-    <file name="2018_full node.svg" crc="18810267" ref="genealogie-2"/>
-    <file name="2018_full node_poster_u4886.png" crc="80007653" ref="genealogie-2"/>
-    <file name="2017_agnelli foundation hq.svg" crc="457709432" ref="genealogie-2"/>
-    <file name="2017_agnelli foundation hq_poster_u4764.png" crc="4135879873" ref="genealogie-2"/>
-    <file name="1939_johnson wax building.svg" crc="509207065" ref="genealogie-2"/>
-    <file name="1939_johnson wax building_poster_u4516.png" crc="406050092" ref="genealogie-2"/>
-    <file name="1892_monadnock.svg" crc="4188746950" ref="genealogie-2"/>
-    <file name="1892_monadnock_poster_u4460.png" crc="449997683" ref="genealogie-2"/>
-    <file name="1921_friedrichstrasse skyscraper project.svg" crc="258952512" ref="genealogie-2"/>
-    <file name="1921_friedrichstrasse skyscraper project_poster_u4484.png" crc="4104969409" ref="genealogie-2"/>
-    <file name="1906_larkin building.svg" crc="512635183" ref="genealogie-2"/>
-    <file name="1906_larkin building_poster_u4476.png" crc="3829629333" ref="genealogie-2"/>
-    <file name="1936_casa del fascio.svg" crc="4147745421" ref="genealogie-2"/>
-    <file name="1936_casa del fascio_poster_u9664.png" crc="4101028657" ref="genealogie-2"/>
-    <file name="1952_lever house.svg" crc="4090203515" ref="genealogie-2"/>
-    <file name="1952_lever house_poster_u4524.png" crc="154054252" ref="genealogie-2"/>
-    <file name="1958_seagram building.svg" crc="3863804458" ref="genealogie-2"/>
-    <file name="1958_seagram building_poster_u4540.png" crc="4282209936" ref="genealogie-2"/>
-    <file name="2015_betc.svg" crc="292299719" ref="genealogie-2"/>
-    <file name="2015_betc_poster_u4724.png" crc="440226684" ref="genealogie-2"/>
-    <file name="2017_apple2.svg" crc="4013076557" ref="genealogie-2"/>
-    <file name="1852_jayne building2.svg" crc="26910467" ref="genealogie-2"/>
-    <file name="1852_jayne building_poster_u6080.png" crc="356726826" ref="genealogie-2"/>
-    <file name="1857_haughwout building2.svg" crc="3782881878" ref="genealogie-2"/>
-    <file name="1857_haughwout building_poster_u6088.png" crc="4118289243" ref="genealogie-2"/>
-    <file name="1879_leiter building2.svg" crc="377707159" ref="genealogie-2"/>
-    <file name="1879_leiter building_poster_u6096.png" crc="143104289" ref="genealogie-2"/>
-    <file name="1888_rookery building2.svg" crc="4262571725" ref="genealogie-2"/>
-    <file name="1888_rookery building_poster_u6112.png" crc="147168970" ref="genealogie-2"/>
-    <file name="1889_eiffel2.svg" crc="3923796428" ref="genealogie-2"/>
-    <file name="1889_eiffel_poster_u6104.png" crc="440938050" ref="genealogie-2"/>
-    <file name="1889_tacoma building2.svg" crc="325805909" ref="genealogie-2"/>
-    <file name="1889_tacoma building_poster_u6120.png" crc="3794744881" ref="genealogie-2"/>
-    <file name="1895_prudential_building2.svg" crc="67900284" ref="genealogie-2"/>
-    <file name="1895_prudential_building_poster_u6136.png" crc="3839638639" ref="genealogie-2"/>
-    <file name="1922_chicago tribune adolf loos2.svg" crc="192597834" ref="genealogie-2"/>
-    <file name="1922_chicago tribune adolf loos_poster_u6160.png" crc="403122920" ref="genealogie-2"/>
-    <file name="1923_chicago tribune hilberseimer2.svg" crc="4148743250" ref="genealogie-2"/>
-    <file name="1923_chicago tribune hilberseimer_poster_u6152.png" crc="447297229" ref="genealogie-2"/>
-    <file name="1958_caisse centrale de réassurance2.svg" crc="3879610950" ref="genealogie-2"/>
-    <file name="1958_caisse centrale de réassurance_poster_u6208.png" crc="58334834" ref="genealogie-2"/>
-    <file name="1960_boehringer2.svg" crc="336021979" ref="genealogie-2"/>
-    <file name="1960_boehringer_poster_u6224.png" crc="424388004" ref="genealogie-2"/>
-    <file name="1966_osram2.svg" crc="4180408908" ref="genealogie-2"/>
-    <file name="1966_osram_poster_u6216.png" crc="3803516215" ref="genealogie-2"/>
-    <file name="1966_tour nobel2.svg" crc="4039755504" ref="genealogie-2"/>
-    <file name="1966_tour nobel_poster_u6248.png" crc="4231224503" ref="genealogie-2"/>
-    <file name="1968_ford foundation2.svg" crc="4012634653" ref="genealogie-2"/>
-    <file name="1968_ford foundation_poster_u6232.png" crc="161809657" ref="genealogie-2"/>
-    <file name="1972_central beheer2.svg" crc="4088221027" ref="genealogie-2"/>
-    <file name="1972_central beheer_poster_u6240.png" crc="4105265154" ref="genealogie-2"/>
-    <file name="1972_one ibm plaza2.svg" crc="4249564029" ref="genealogie-2"/>
-    <file name="1972_one ibm plaza_poster_u6264.png" crc="529054804" ref="genealogie-2"/>
-    <file name="1973_olivier de serres2.svg" crc="4222652115" ref="genealogie-2"/>
-    <file name="1973_olivier de serres_poster_u6304.png" crc="308030056" ref="genealogie-2"/>
-    <file name="1974_bmw2.svg" crc="4102722149" ref="genealogie-2"/>
-    <file name="1974_bmw_poster_u6272.png" crc="46955570" ref="genealogie-2"/>
-    <file name="1975_willis faber - dumas headquarters2.svg" crc="4206703240" ref="genealogie-2"/>
-    <file name="1975_willis faber - dumas headquarters_poster_u6256.png" crc="4268048741" ref="genealogie-2"/>
-    <file name="1986 - lloyd-s insurance building2.svg" crc="4002705506" ref="genealogie-2"/>
-    <file name="1986 - lloyd-s insurance building_poster_u6296.png" crc="22391509" ref="genealogie-2"/>
-    <file name="1991_tbwa2.svg" crc="4216433362" ref="genealogie-2"/>
-    <file name="1991_tbwa_poster_u6312.png" crc="313686534" ref="genealogie-2"/>
-    <file name="2000_pixar2.svg" crc="4170165384" ref="genealogie-2"/>
-    <file name="2000_pixar_poster_u6288.png" crc="71848628" ref="genealogie-2"/>
-    <file name="2001_caja granada savings bank2.svg" crc="4127796620" ref="genealogie-2"/>
-    <file name="2001_caja granada savings bank_poster_u6328.png" crc="4019683822" ref="genealogie-2"/>
-    <file name="2002_lacaton vassal2.svg" crc="4172400380" ref="genealogie-2"/>
-    <file name="2002_lacaton vassal_poster_u6336.png" crc="4001586240" ref="genealogie-2"/>
-    <file name="2004_swiss re headquarters2.svg" crc="4179767925" ref="genealogie-2"/>
-    <file name="2004_swiss re headquarters_poster_u6320.png" crc="134266997" ref="genealogie-2"/>
-    <file name="2008_google zurich2.svg" crc="3789009106" ref="genealogie-2"/>
-    <file name="2008_google zurich_poster_u6280.png" crc="152578461" ref="genealogie-2"/>
-    <file name="2008_kanagawa institute of technology workshop2.svg" crc="4024003665" ref="genealogie-2"/>
-    <file name="2008_kanagawa institute of technology workshop_poster_u6344.png" crc="4057012402" ref="genealogie-2"/>
-    <file name="2010_skype hq2.svg" crc="85727139" ref="genealogie-2"/>
-    <file name="2010_skype hq_poster_u6352.png" crc="377432666" ref="genealogie-2"/>
-    <file name="2011_red bull amsterdam2.svg" crc="431523268" ref="genealogie-2"/>
-    <file name="2011_red bull amsterdam_poster_u6360.png" crc="337770660" ref="genealogie-2"/>
-    <file name="2012_teletech2.svg" crc="3907115194" ref="genealogie-2"/>
-    <file name="2012_teletech_poster_u6368.png" crc="487224257" ref="genealogie-2"/>
-    <file name="2014_office for architecture studio and coworking space2.svg" crc="484148711" ref="genealogie-2"/>
-    <file name="2014_office for architecture studio and coworking space_poster_u6376.png" crc="488763604" ref="genealogie-2"/>
-    <file name="2015_bedndesk2.svg" crc="363956456" ref="genealogie-2"/>
-    <file name="2015_bedndesk_poster_u6416.png" crc="3963064182" ref="genealogie-2"/>
-    <file name="2015_remix pce2.svg" crc="505359547" ref="genealogie-2"/>
-    <file name="2015_remix pce_poster_u6392.png" crc="4232783129" ref="genealogie-2"/>
-    <file name="2015_sun and co2.svg" crc="276200739" ref="genealogie-2"/>
-    <file name="2015_sun and co_poster_u6400.png" crc="3844741997" ref="genealogie-2"/>
-    <file name="2015_tech farm2.svg" crc="449546400" ref="genealogie-2"/>
-    <file name="2015_tech farm_poster_u6408.png" crc="3907975850" ref="genealogie-2"/>
-    <file name="2016_uber2.svg" crc="4079196422" ref="genealogie-2"/>
-    <file name="2016_uber_poster_u6438.png" crc="57732077" ref="genealogie-2"/>
-    <file name="2017_autodesk toronto2.svg" crc="158750786" ref="genealogie-2"/>
-    <file name="2017_autodesk toronto_poster_u6446.png" crc="4067833344" ref="genealogie-2"/>
-    <file name="2017_cloud coworking2.svg" crc="5111429" ref="genealogie-2"/>
-    <file name="2017_cloud coworking_poster_u6494.png" crc="16696642" ref="genealogie-2"/>
-    <file name="2017_lime livingspace2.svg" crc="4025969400" ref="genealogie-2"/>
-    <file name="2017_lime livingspace_poster_u6454.png" crc="3817312636" ref="genealogie-2"/>
-    <file name="2017_primmoffice2.svg" crc="388881959" ref="genealogie-2"/>
-    <file name="2017_primmoffice_poster_u6502.png" crc="59444968" ref="genealogie-2"/>
-    <file name="2017_quarters2.svg" crc="4179783067" ref="genealogie-2"/>
-    <file name="2017_quarters_poster_u6462.png" crc="4061857506" ref="genealogie-2"/>
-    <file name="2017_station f2.svg" crc="3927895012" ref="genealogie-2"/>
-    <file name="2017_station f_poster_u6486.png" crc="4023773848" ref="genealogie-2"/>
-    <file name="2017_wework uptown2.svg" crc="168070405" ref="genealogie-2"/>
-    <file name="2017_wework uptown_poster_u6478.png" crc="3920744140" ref="genealogie-2"/>
-    <file name="2018_full node2.svg" crc="3895023979" ref="genealogie-2"/>
-    <file name="2018_full node_poster_u6470.png" crc="4209990504" ref="genealogie-2"/>
-    <file name="2017_agnelli foundation hq2.svg" crc="27834723" ref="genealogie-2"/>
-    <file name="2017_agnelli foundation hq_poster_u6430.png" crc="152701211" ref="genealogie-2"/>
-    <file name="1939_johnson wax building2.svg" crc="34622784" ref="genealogie-2"/>
-    <file name="1939_johnson wax building_poster_u6176.png" crc="3790068917" ref="genealogie-2"/>
-    <file name="1892_monadnock2.svg" crc="4143498280" ref="genealogie-2"/>
-    <file name="1892_monadnock_poster_u6128.png" crc="225977433" ref="genealogie-2"/>
-    <file name="1921_friedrichstrasse skyscraper project2.svg" crc="4202953948" ref="genealogie-2"/>
-    <file name="1921_friedrichstrasse skyscraper project_poster_u6168.png" crc="526964189" ref="genealogie-2"/>
-    <file name="1906_larkin building2.svg" crc="3862332218" ref="genealogie-2"/>
-    <file name="1906_larkin building_poster_u6144.png" crc="4232892863" ref="genealogie-2"/>
-    <file name="1936_casa del fascio2.svg" crc="4033510615" ref="genealogie-2"/>
-    <file name="1936_casa del fascio_poster_u6184.png" crc="365694215" ref="genealogie-2"/>
-    <file name="1952_lever house2.svg" crc="400910675" ref="genealogie-2"/>
-    <file name="1952_lever house_poster_u6192.png" crc="116335828" ref="genealogie-2"/>
-    <file name="1958_seagram building2.svg" crc="3794307235" ref="genealogie-2"/>
-    <file name="1958_seagram building_poster_u6200.png" crc="498954257" ref="genealogie-2"/>
-    <file name="2015_betc2.svg" crc="353542963" ref="genealogie-2"/>
-    <file name="2015_betc_poster_u6384.png" crc="4002302713" ref="genealogie-2"/>
-    <file name="1850_col blanc a.jpg" crc="359856286" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_col blanc c148x216.jpg" crc="3984440681" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_col blanc c.jpg" crc="3875480140" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1876_treasury department186x121.jpg" crc="3877447613" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1876_treasury department.jpg" crc="436640334" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_col blanc b204x259.jpg" crc="293842587" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_col blanc b.jpg" crc="4112044585" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1860_eight-hour282x200.jpg" crc="12883789" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1860_eight-hour.jpg" crc="311763506" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1905_frederick taylor242x368.jpg" crc="465858754" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1905_frederick taylor.jpg" crc="354286715" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1911_taylor principles209x331.jpg" crc="314429818" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1911_taylor principles.jpg" crc="3796934636" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1922_emile coue238x371.jpg" crc="4173941526" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1922_emile coue.jpg" crc="155873589" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_elementary treatise on book-keeping235x368.jpg" crc="420985671" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_elementary treatise on book-keeping.jpg" crc="3886212209" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1912_taylor society151x209.jpg" crc="301042851" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1912_taylor society.jpg" crc="3786405597" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1917_leffingwell231x308.jpg" crc="3949711440" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1917_leffingwell.jpg" crc="4249280220" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1924_home office280x179.jpg" crc="536284648" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1924_home office.jpg" crc="4253923710" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1933_elton mayo121x198.jpg" crc="3954267004" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1933_elton mayo.jpg" crc="3934713345" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1934_new masses233x308.jpg" crc="3807911917" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1934_new masses.jpg" crc="204798806" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts a248x182.jpg" crc="9514919" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts b.jpg" crc="269962322" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts b179x259.jpg" crc="4056798753" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_acts a.jpg" crc="422191931" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_lewis corey212x322.jpg" crc="4281905370" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1935_lewis corey.jpg" crc="4064102755" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_hp garage134x171.jpg" crc="3947645801" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_hp garage.jpg" crc="263010104" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1942_bell labs231x159.jpg" crc="27336253" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1942_bell labs.jpg" crc="346762185" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1948_cybernetics105x158.jpg" crc="531713896" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1948_cybernetics.jpg" crc="532134877" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1949_us dept of state294x228.jpg" crc="103099952" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1949_us dept of state.jpg" crc="4019823432" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_organization man180x261.jpg" crc="3816428584" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_organization man.jpg" crc="4132337255" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_landmarks of tomorrow247x353.jpg" crc="422889261" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_the silent language.jpg" crc="4068606651" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_the silent language207x349.jpg" crc="3844187350" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_landmarks of tomorrow.jpg" crc="291103086" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1960_the human side of enterprise145x176.jpg" crc="44711304" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1960_the human side of enterprise.jpg" crc="4023276522" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale a194x149.jpg" crc="486128378" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale a.jpg" crc="3839733291" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale b233x185.jpg" crc="383586458" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_humanscale b.jpg" crc="438168113" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1976_steve jobs244x179.jpg" crc="4016368170" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1976_steve jobs.jpg" crc="3873377050" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1981_theory z223x365.jpg" crc="4259369857" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1981_theory z.jpg" crc="246492378" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_in search of excellence261x390.jpg" crc="58504475" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_in search of excellence.jpg" crc="253443498" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_newsweek299x393.jpg" crc="527372619" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1982_newsweek.jpg" crc="3761595255" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_niels diffrient.jpg" crc="114845399" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_steve jobs.jpg" crc="384924539" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_liberation management168x250.jpg" crc="4085587771" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_liberation management.jpg" crc="4264019334" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_freelancers union a.jpg" crc="3931540984" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_freelancers union b263x276.jpg" crc="4179894150" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_freelancers union b.jpg" crc="473399782" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_netscape.jpg" crc="4032831243" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1996_face intel.jpg" crc="99975724" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_gordon moore271x203.jpg" crc="4010663421" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1992_gordon moore.jpg" crc="429045398" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2005_googleplex.jpg" crc="4066318366" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_happy hour is 9 to 5188x282.jpg" crc="4143402830" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_happy hour is 9 to 5.jpg" crc="3802214998" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2017_cho.jpg" crc="3841786061" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1806_stylographic manifold writer.jpg" crc="325115741" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_curtain wall b149x245.jpg" crc="4282089067" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_curtain wall b.jpg" crc="346169175" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_suspended ceiling148x218.jpg" crc="198173549" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_suspended ceiling.jpg" crc="3944645230" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1876_bell telephone a164x237.jpg" crc="3861690092" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1876_bell telephone a.jpg" crc="226581467" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1977_apple ii298x216.jpg" crc="3776424447" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1977_apple ii.jpg" crc="4092596990" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_dial recorder.jpg" crc="4155059319" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2007_iphone179x242.jpg" crc="17891213" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2007_iphone.jpg" crc="510788542" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_curtain wall a161x215.jpg" crc="235722469" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1850_curtain wall a.jpg" crc="4161999625" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2012_hue.jpg" crc="60412714" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_senseative.png" crc="4068905953" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2013_ethereum.png" crc="4121301593" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_jooxter166x212.png" crc="4007979192" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_jooxter.png" crc="300014975" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_echo206x207.jpg" crc="4212154859" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_echo.jpg" crc="4251148914" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2016_new gen2123x246.jpg" crc="316511491" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2016_new gen2.jpg" crc="3778879384" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1889_punched card tabulator b.jpg" crc="336124231" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis c288x200.jpg" crc="206188064" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis c.jpg" crc="4231273101" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_tcp ip258x202.jpg" crc="411634351" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1974_tcp ip.jpg" crc="213570008" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1997_google258x236.jpg" crc="273632559" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1997_google.jpg" crc="151246378" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1960_hypertext.png" crc="3900781362" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_adaline200x241.jpg" crc="31568490" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_adaline.jpg" crc="389316544" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1884_mimeograph168x244.jpg" crc="3806734376" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1884_mimeograph.jpg" crc="54518209" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1994_simon176x244.jpg" crc="4017275746" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1994_simon.jpg" crc="3935137008" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1879_electric lightbulb164x216.jpg" crc="368623896" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1879_electric lightbulb.jpg" crc="100455555" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1983_dynatac 8000x296x195.jpg" crc="3888780807" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1983_dynatac 8000x-u76594-fr.jpg" crc="4205611333" ref="genealogie-2"/>
-    <file name="1889_punched card tabulator a285x227.jpg" crc="285285705" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1889_punched card tabulator a.jpg" crc="3997075467" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2008_bitcoin190x242.jpg" crc="4223991702" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2008_bitcoin.jpg" crc="368062628" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1814_steam press.png" crc="530950161" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1823_ascending room a201x191.png" crc="258287574" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1823_ascending room a-u51118-fr.png" crc="177036245" ref="genealogie-2"/>
-    <file name="1823_ascending room b200x270.jpg" crc="4154720404" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1823_ascending room b.jpg" crc="3938642305" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1823_difference engine.jpg" crc="4134732853" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1832_telegraph.jpg" crc="379281898" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_speaking tubes.jpg" crc="533711682" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1852_mechanical typographer170x250.jpg" crc="101247376" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1852_mechanical typographer.jpg" crc="3841761063" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis a220x217.jpg" crc="366218182" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis a.jpg" crc="115048643" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis b232x375.jpg" crc="132696999" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_otis b.jpg" crc="4004682568" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch a136x208.jpg" crc="184757878" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch a.jpg" crc="4040853674" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch b184x194.jpg" crc="4031473959" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch b.jpg" crc="3887392578" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch c264x209.jpg" crc="216997346" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1853_pneumatic despatch c.jpg" crc="3776730720" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1856_bessemer process156x116.jpg" crc="4091027964" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1856_bessemer process.jpg" crc="216986478" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1857_geissler tubes219x140.jpg" crc="298762704" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1857_geissler tubes.jpg" crc="397197198" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1867_edoux a226x318.jpg" crc="4091747540" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1867_edoux a.jpg" crc="4161255638" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1867_edoux b.jpg" crc="4157919720" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_remington 1228x220.jpg" crc="4192415054" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_remington 1.jpg" crc="3915648027" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1880_skeleton frame a.jpg" crc="84412222" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1880_skeleton frame b238x319.jpg" crc="3925794861" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1880_skeleton frame b.jpg" crc="75212222" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_comptometer a.jpg" crc="4085842564" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1890_comptometer a-u51413-fr.jpg" crc="4173518348" ref="genealogie-2"/>
-    <file name="1887_graphophone a184x203.jpg" crc="3839136540" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone a.jpg" crc="3961676111" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone b.jpg" crc="3953485440" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone c136x150.jpg" crc="4122279256" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_graphophone c.jpg" crc="4028498907" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_patent calculating machine240x344.jpg" crc="476903788" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_patent calculating machine.jpg" crc="4173033517" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_telautographe208x214.jpg" crc="353533882" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1888_telautographe.jpg" crc="4258502243" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1901_type 001 keypunch a.jpg" crc="528961024" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1902_willis haviland carrier.jpg" crc="377971512" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1910_george claude159x179.jpg" crc="441965555" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1910_george claude.jpg" crc="194134928" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_western electric model 50al a188x189.jpg" crc="3815006366" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_western electric model 50al a.jpg" crc="4261581622" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_western electric model 50al a180x257.png" crc="4007474478" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_western electric model 50al a.png" crc="87022287" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1921_hollerith type iii tabulator.jpg" crc="282692620" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch a262x206.jpg" crc="171761588" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch a.jpg" crc="3975844401" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch b263x337.jpg" crc="3931791723" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_type 011 electric keypunch b.jpg" crc="196817083" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1945_memex312x250.jpg" crc="3994467080" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1945_memex.jpg" crc="3781725661" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1947_dictabelt292x266.jpg" crc="4180359920" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1947_dictabelt.jpg" crc="472975980" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1952_ibm 726.jpg" crc="4216239364" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1955_ibm 702 machine_ezra stoller.png" crc="3989826345" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1958_jack kilby.jpg" crc="308970165" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_dictabelt time master.jpg" crc="3932809546" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_xerox 914287x370.jpg" crc="334285093" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_xerox 914.jpg" crc="3999101960" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1966_xerox magnafax telecopier.jpg" crc="474765137" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_arpanet540x387.jpg" crc="3843402841" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_arpanet-u51789-fr.jpg" crc="217877761" ref="genealogie-2"/>
-    <file name="1971_intel 4004.jpg" crc="4160449280" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1973_micral n.jpg" crc="4255462306" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1989_www.png" crc="399409734" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1991_webcam.jpg" crc="233741420" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_hitachi buisness microscope.jpg" crc="3994313313" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1889_office boy235x213.jpg" crc="4197947022" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1889_office boy.jpg" crc="3759527804" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1923_adding machine.jpg" crc="3842089561" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1928_the crowd.jpg" crc="459781551" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1948_cheaper by the dozen193x290.jpg" crc="43469536" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1948_cheaper by the dozen.jpg" crc="188148543" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_house of the future230x347.jpg" crc="4111760066" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_house of the future.jpg" crc="248393447" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1956_the man in the gray flannel suit.jpg" crc="3839658264" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1957_the information machine217x161.jpg" crc="210325421" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1957_the information machine.jpg" crc="13224808" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1960_the apartment.jpg" crc="280132652" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1959_the best of everything.jpg" crc="397951372" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1967_playtime.jpg" crc="490585561" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1967_walter pichler163x218.jpg" crc="278226713" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1967_walter pichler.jpg" crc="321242625" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_istogrammi254x172.jpg" crc="3974928478" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_istogrammi.jpg" crc="4159189512" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_no stop city274x225.jpg" crc="4178159778" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_no stop city.jpg" crc="3812960775" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_mobile office212x159.jpg" crc="308232482" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_mobile office.jpg" crc="112483008" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_monumento continuo188x156.jpg" crc="4086861486" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1969_monumento continuo.jpg" crc="160042110" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1980_9 to 5.jpg" crc="4244450451" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1983_the silicon valley guy handbook149x223.jpg" crc="4142363177" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1983_the silicon valley guy handbook.jpg" crc="4026119464" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_the yuppie handbook142x230.jpg" crc="3797627971" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_the yuppie handbook.jpg" crc="4221095537" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1999_office space256x165.jpg" crc="3952254006" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1999_office space.jpg" crc="173183877" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_this was corporate america242x161.jpg" crc="497738219" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1984_this was corporate america.jpg" crc="4170847151" ref="genealogie-2"/>
-    <file name="1988_working girl.jpg" crc="36633839" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2002_casual friday_maureen connor263x195.jpg" crc="474015524" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2002_casual friday_maureen connor.jpg" crc="4057528972" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2011_adam curtis.jpg" crc="4066122748" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2012_farocki.jpg" crc="4257587865" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2013_torre david311x207.jpg" crc="4132005638" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2013_torre david.jpg" crc="269928179" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_internet machine.jpg" crc="4088059764" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2014_raaf.jpg" crc="429182667" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_comfort zone243x358.jpg" crc="457261229" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_comfort zone.jpg" crc="3896505356" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1859_chair no 14-u29417-fr.jpg" crc="3831030934" ref="genealogie-2"/>
-    <file name="1851_centripetal armchair-u29417-a-fr.jpg" crc="3794258633" ref="genealogie-2"/>
-    <file name="1859_chair no 14.jpg" crc="155866178" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton c-u30548-fr.jpg" crc="4097180694" ref="genealogie-2"/>
-    <file name="1851_centripetal armchair-u30548-a-fr.jpg" crc="3829845129" ref="genealogie-2"/>
-    <file name="1874_wooton c.jpg" crc="3857650597" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1884_staffel chair.jpg" crc="358689813" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1886_receptacle for storing papers-u33076-fr.png" crc="43804758" ref="genealogie-2"/>
-    <file name="1886_receptacle for storing papers.png" crc="3969977339" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1906_larkin building a-u33167-fr.jpg" crc="250775380" ref="genealogie-2"/>
-    <file name="1906_larkin building a.jpg" crc="4289512446" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1906_larkin building b.jpg" crc="4158241438" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk b-u33338-fr.jpg" crc="308261350" ref="genealogie-2"/>
-    <file name="1915_modern efficiency desk b.jpg" crc="525339013" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk c-u33387-fr.jpg" crc="33121700" ref="genealogie-2"/>
-    <file name="1915_modern efficiency desk c.jpg" crc="4278355446" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1932_b287-u33487-fr.jpg" crc="3858620628" ref="genealogie-2"/>
-    <file name="1932_b287.jpg" crc="4147538043" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1934_suspension file-u33544-fr.jpg" crc="260234258" ref="genealogie-2"/>
-    <file name="1934_suspension file.jpg" crc="134200276" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2000_standby office.jpg" crc="4212841098" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2012_living office.jpg" crc="488114126" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2018_cove lounge chair.jpg" crc="141195659" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="2015_brody worklounge-u35319-fr.jpg" crc="4131212056" ref="genealogie-2"/>
-    <file name="2015_brody worklounge.jpg" crc="476164773" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1940_johnson wax a.jpg" crc="4189328775" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1940_johnson wax b.jpg" crc="16074073" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1945_standardization.jpg" crc="23344203" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1957_planning unit knoll.jpg" crc="4077237422" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1958_geroge nelson maa-u33975-fr.jpg" crc="443431281" ref="genealogie-2"/>
-    <file name="1958_geroge nelson maa.jpg" crc="436966309" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1964_action office a.jpg" crc="4256995644" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii a-u34124-fr.jpg" crc="3993284185" ref="genealogie-2"/>
-    <file name="1968_action office ii a.jpg" crc="295975854" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii b-u34168-fr.jpg" crc="129255052" ref="genealogie-2"/>
-    <file name="1968_action office ii b.jpg" crc="507747465" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii c.jpg" crc="390035347" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1973_series 9000.jpg" crc="532380630" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1976_ergon chair_stumpf-u34372-fr.jpg" crc="4038131224" ref="genealogie-2"/>
-    <file name="1976_ergon chair_stumpf.jpg" crc="379130858" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1980_balans variable.jpg" crc="127884866" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1985_neutral posture zero gravity chair-u34482-fr.jpg" crc="3830065363" ref="genealogie-2"/>
-    <file name="1985_neutral posture zero gravity chair-u34477-fr.jpg" crc="3830065363" ref="genealogie-2"/>
-    <file name="1994_aeron chair -u34571-fr.jpg" crc="56092160" ref="genealogie-2"/>
-    <file name="1994_aeron chair .jpg" crc="3939269656" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1995_rooms that work-u34619-fr.jpg" crc="27264961" ref="genealogie-2"/>
-    <file name="1995_rooms that work.jpg" crc="4020043894" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1964_action office b.jpg" crc="4165919986" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1915_modern efficiency desk.png" crc="148141001" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1903_library bureau.jpg" crc="3976021229" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton b.jpg" crc="4031752332" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_centripetal armchair.jpg" crc="4262711794" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1874_wooton a.jpg" crc="4063939133" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1851_centripetal armchair-u27343-fr.jpg" crc="53619064" ref="genealogie-2"/>
-    <file name="35b1f8f11652dac9.png" crc="4150844696" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="72c6692f48fab2c9.png" crc="425363551" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca6596aa60e37ffd.png" crc="386008537" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca5d2b9da6d52bb2.png" crc="4226952423" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca54c090ecc6d76b.png" crc="19748104" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca6e01b71af1d444.png" crc="387405580" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="ca766cc3d500288f.png" crc="4170488656" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_comptometer268x200.jpg" crc="4122405149" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1887_comptometer.jpg" crc="4094895982" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1919_the brass check.jpg" crc="380675252" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1943_eniac.jpg" crc="4082344292" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1937_ibm songs217x312.jpg" crc="66802275" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1937_ibm songs.jpg" crc="186825653" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1946_multiple 15-u33820-fr.jpg" crc="3977242071" ref="genealogie-2"/>
-    <file name="1946_multiple 15.jpg" crc="389423751" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_corbusier213x290.jpg" crc="428217235" seo="true" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1938_corbusier.jpg" crc="118810678" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1968_action office ii d-u34277-fr.jpg" crc="372730570" ref="genealogie-2"/>
-    <file name="1968_action office ii d.jpg" crc="518994782" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1963_xerox 813.jpg" crc="3956558888" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1989_context furniture system_steelcase.jpg" crc="4173706337" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1987_sas headquarters.jpg" crc="4058584119" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="1949_executive office group .jpg" crc="4003756810" ref="genealogie-2">
-      <caption webpage="genealogie-2" alt=""/>
-      <caption webpage="genealogie-2" alt=""/>
-    </file>
-    <file name="u136724.png" crc="3775293267" ref="workplace-2"/>
-    <file name="u136724-r.png" crc="381578767" ref="workplace-2"/>
-    <file name="00_diagrams final-02422x422.jpg" crc="15238196" seo="true" ref="workplace-2">
+    <file name="180425_plans-final-3-copie_plan-de-travail-1.svg" crc="394139050" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1_poster_.png" crc="4253478203" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie.svg" crc="525410940" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie_poster_.png" crc="3945209386" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-2.svg" crc="89009695" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 2_poster_.png" crc="4082690463" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-3.svg" crc="262819738" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 3_poster_.png" crc="4035702667" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-5.svg" crc="4281619568" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 5_poster_.png" crc="363183597" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-4.svg" crc="214453775" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 4_poster_.png" crc="410341559" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-6.svg" crc="4091520978" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 6_poster_.png" crc="530810936" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-7.svg" crc="4219740671" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 7_poster_.png" crc="391498234" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-8.svg" crc="4006347770" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 8_poster_.png" crc="232857502" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-9.svg" crc="147289247" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 9_poster_.png" crc="83429053" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-10.svg" crc="323229104" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 10_poster_.png" crc="319379808" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-11.svg" crc="3969116100" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 11_poster_.png" crc="6856682" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-12.svg" crc="346013280" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 12_poster_.png" crc="3992749437" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-13.svg" crc="274913414" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 13_poster_.png" crc="4003976327" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-14.svg" crc="4289127250" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 14_poster_.png" crc="146765567" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-15.svg" crc="4162294805" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 15_poster_.png" crc="3863786559" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-16.svg" crc="4213822580" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 16_poster_.png" crc="48442216" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-17.svg" crc="3796358269" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 17_poster_.png" crc="4184224719" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-18.svg" crc="523316690" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 18_poster_.png" crc="271981702" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-19.svg" crc="4169982235" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 19_poster_.png" crc="23925044" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-20.svg" crc="264518143" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 20_poster_.png" crc="4093438940" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-21.svg" crc="517323072" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 21_poster_.png" crc="4128451948" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-22.svg" crc="4154414998" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 22_poster_.png" crc="3966202148" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-23.svg" crc="4184293861" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 23_poster_.png" crc="4201834367" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-24.svg" crc="38349900" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 24_poster_.png" crc="4277303763" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-25.svg" crc="24985420" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 25_poster_.png" crc="502732356" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-26.svg" crc="149504180" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 26_poster_.png" crc="485343752" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-27.svg" crc="4135558945" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 27_poster_.png" crc="457007636" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-28.svg" crc="302783126" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 28_poster_.png" crc="422887743" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-29.svg" crc="158469575" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 29_poster_.png" crc="153131322" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-30.svg" crc="309691840" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 30_poster_.png" crc="371435489" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-31.svg" crc="3830804829" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 31_poster_.png" crc="153135268" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-32.svg" crc="4191079442" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 32_poster_.png" crc="99884844" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-33.svg" crc="152547759" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 33_poster_.png" crc="509060904" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-34.svg" crc="138620206" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 34_poster_.png" crc="159201270" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-35.svg" crc="3817240032" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 35_poster_.png" crc="527723178" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-36.svg" crc="114932158" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 36_poster_.png" crc="309978149" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-43.svg" crc="4060488005" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 43_poster_.png" crc="316042000" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-51.svg" crc="4191161264" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 51_poster_.png" crc="4243772053" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-44.svg" crc="260501168" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 44_poster_.png" crc="4027959227" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-50.svg" crc="3840221356" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 50_poster_.png" crc="355660679" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-37.svg" crc="3932367845" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 37_poster_.png" crc="4066805128" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-52.svg" crc="352680316" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 52_poster_.png" crc="4278896550" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-38.svg" crc="454610302" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 38_poster_.png" crc="31086368" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-40.svg" crc="3837306580" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 40_poster_.png" crc="4116103181" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-39.svg" crc="3809465359" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 39_poster_.png" crc="27636602" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-46.svg" crc="185390516" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 46_poster_.png" crc="378451106" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-45.svg" crc="3945486148" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 45_poster_.png" crc="3818013872" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-54.svg" crc="3892013895" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 54_poster_.png" crc="185707872" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-47.svg" crc="90198167" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 47_poster_.png" crc="174390983" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-48.svg" crc="488207657" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 48_poster_.png" crc="198205458" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-49.svg" crc="358563128" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 49_poster_.png" crc="3965572617" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-53.svg" crc="4179029212" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie_plan de travail 1 copie 53_poster_.png" crc="304640796" ref="70-historical-offices"/>
+    <file name="180425_plans-final-3-copie-59-copie-01.svg" crc="398736234" seo="true" ref="70-historical-offices">
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+    </file>
+    <file name="180425_plans final 3 copie-59 copie-01_poster_.png" crc="4235419382" ref="70-historical-offices"/>
+    <file name="blank.gif" crc="4208392903" ref="70-historical-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:plan-3:render-3:text-3:iot-3:plan-2:render-2:text-2:workplace-2:iot-2:workplace-1:plan-1:render-1:text-1:iot-1:workplace-4:plan-4:render-4:text-4:iot-4:workplace-5:plan-5:render-5:text-5:iot-5:workplace-6:plan-6:render-6:text-6:iot-6:workplace-7:plan-7:render-7:text-7:iot-7:workplace-8:plan-8:render-8:text-8:iot-8:workplace-9:plan-9:render-9:text-9:iot-9:workplace-10:plan-10:render-10:text-10:iot-10:workplace-11:plan-11:render-11:text-11:iot-11:workplace-12:plan-12:render-12:text-12:iot-12:publi:biblio"/>
+    <file name="b20_ember mug.png" crc="4005291158" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c02_bliwe.png" crc="258833598" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c06_smart in glass-crop-u71472.png" crc="418535740" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c09_hitachi buisness microscope.png" crc="205320896" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b19c_hololens.png" crc="460978140" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b16_ikettle smarter.png" crc="189167521" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b15_smarter coffee.png" crc="473192768" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c04_hydroventiv.png" crc="3983534458" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c10_smartkapp.png" crc="4214462601" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b19_gaze desk.png" crc="3830087985" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b16b_kgoal copie.png" crc="379803164" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b18_spire.png" crc="415589832" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c07_velux 1.png" crc="300740819" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c08_kiiroo.png" crc="404736322" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="49_surveillance netatmo.png" crc="4029122368" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="39_healthy home coach netatmo.png" crc="221375191" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="50_instaview lg-crop-u69965.png" crc="197083944" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="54_eskin.png" crc="79437513" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b14_saent.png" crc="257558816" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b12_melomind.png" crc="3977420545" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="46_fla3.png" crc="3903484150" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="52_lave linge lg.png" crc="334666272" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b09b_elvie.png" crc="4033003230" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b11_lumismart.png" crc="441261982" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b13_helixee.png" crc="3795063945" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="44_mother 2.png" crc="4047386156" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="51_air conditioner lg.png" crc="3898249301" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b08_flex fitbit.png" crc="261698416" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b07_darma.png" crc="3787931608" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="45_at200 toilet.png" crc="393291714" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="48_niwa one.png" crc="112059810" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="47_flower power 2.png" crc="253208765" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="53.png" crc="3902098114" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b09_jooxter.png" crc="3964503376" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b10_kinetic.png" crc="420186702" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="22_arlo q.png" crc="435975907" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="26c_ara copie.png" crc="3902099093" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="30_pop home switch.png" crc="3978296963" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="33_tifiz.png" crc="474252645" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="43_june oven.png" crc="4278492296" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="42_smart home lineup whirlpool.png" crc="4020642215" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="24_striimlight color .png" crc="4199436908" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="26_trackr atlas.png" crc="501504110" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="36_pluviometre_netatmo.png" crc="4245529170" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="41_verdera voice lighted mirror kohler-crop-u69267.png" crc="3898087450" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="35_station météo individuelle netatmo.png" crc="3896982687" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="26b_jacquard.png" crc="3768040981" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="28_mi robot.png" crc="4236448062" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="37_thermostat netatmo-crop-u69245.png" crc="523604071" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="40_sensate kohler-crop-u69223.png" crc="4175142434" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="23_pikit.png" crc="3828585396" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="34_welcome netatmo-crop-u69322.png" crc="474735547" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="25_niu nodon.png" crc="3764504046" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="31_parrot pot.png" crc="4018386777" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="32_prizm.png" crc="517991579" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="38_vannes netatmo.png" crc="4109225579" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="01_google home.png" crc="3858086048" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="06_amazon echo.png" crc="4104677375" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="10_the saturn.png" crc="437026634" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="14_symphony.png" crc="53036032" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="16_home alarm.png" crc="3770282899" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="19_eve door - window.png" crc="324814714" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="02_logi circle.png" crc="165889465" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="09_philips hue.png" crc="254369306" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="15_bolt lockitron.png" crc="129351111" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="17_eve energy.png" crc="426868604" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="21_edwin.png" crc="387821305" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="04_hydrao loop.png" crc="443503930" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="08_garageio.png" crc="4155647296" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="13_hue bridge 2.png" crc="3950203449" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="18_eve thermo.png" crc="3826932721" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="05_izy.png" crc="234145277" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="12_nest cam.png" crc="164332677" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="07_keecker.png" crc="3847120006" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="11_nuki smart lock.png" crc="365888024" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="29_ibaby air.png" crc="4202125860" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="20_dash button.png" crc="9430234" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="01_google home199x245.png" crc="4145345051" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="04_hydrao loop199x185.png" crc="3847320764" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="06_amazon echo190x191.png" crc="3929531626" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="09_philips hue199x199.png" crc="4130091321" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="11_nuki smart lock199x199.png" crc="100255868" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="16_home alarm199x172.png" crc="209471720" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="22_arlo q199x199.png" crc="4293770403" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="25_niu nodon-crop-u32044.png" crc="3853454195" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="26b_jacquard199x212.png" crc="250778600" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="31_parrot pot199x199.png" crc="3936699746" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="34_welcome netatmo199x249.png" crc="124866728" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="37_thermostat netatmo199x175.png" crc="479616729" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="40_sensate kohler199x150.png" crc="3831765233" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="41_verdera voice lighted mirror kohler199x199.png" crc="223723518" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="49_surveillance netatmo164x164.png" crc="157143618" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="50_instaview lg.png" crc="4031405246" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b08_flex fitbit178x178.png" crc="4219753677" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="b15_smarter coffee177x177.png" crc="4128224660" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c06_smart in glass.png" crc="240788243" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="c10_smartkapp184x167.png" crc="57938201" seo="true" ref="100-iot">
+      <caption webpage="100-iot" alt=""/>
+    </file>
+    <file name="180731_matrice_plan-de-travail-1.svg" crc="8504554" seo="true" ref="abstract">
+      <caption webpage="abstract" alt=""/>
+      <caption webpage="abstract" alt=""/>
+    </file>
+    <file name="180731_matrice_plan de travail 1_poster_.png" crc="409709716" ref="abstract"/>
+    <file name="00_180611_couvertures livrets print final.jpg" crc="509640503" seo="true" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="00_180611_couvertures livrets print final2.jpg" crc="3852638041" seo="true" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="00_180611_couvertures livrets print final3.jpg" crc="3912957081" seo="true" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="00_180611_couvertures livrets print final4.jpg" crc="3837343431" seo="true" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="00_180611_couvertures livrets print final5.jpg" crc="4086217868" seo="true" ref="downloads">
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+    </file>
+    <file name="03.jpg" crc="485076" seo="true" ref="worplace-3">
+      <caption webpage="worplace-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+    </file>
+    <file name="03_alexa339x339.jpg" crc="415850414" seo="true" ref="worplace-3">
+      <caption webpage="worplace-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+    </file>
+    <file name="03_alexa.png" crc="283775330" seo="true" ref="worplace-3:iot-3">
+      <caption webpage="iot-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+      <caption webpage="worplace-3" alt=""/>
+    </file>
+    <file name="03791x792.jpg" crc="3802810453" seo="true" ref="worplace-3">
+      <caption webpage="worplace-3" alt=""/>
+    </file>
+    <file name="180719_12-diagrams-web-copie_plan-de-travail-1.svg" crc="4073610992" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie_plan de travail 1_poster_.png" crc="168571860" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-05.svg" crc="3882477559" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-05_poster_.png" crc="4106684911" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-09.svg" crc="3822648408" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-09_poster_.png" crc="4215023314" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-02.svg" crc="332549668" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-02_poster_.png" crc="85073747" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-06.svg" crc="4269383238" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-06_poster_.png" crc="4045209854" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-10.svg" crc="4108264918" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-10_poster_.png" crc="3882420948" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-03.svg" crc="183838440" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-03_poster_.png" crc="178843248" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-07.svg" crc="3868031979" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-07_poster_.png" crc="293482351" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-11.svg" crc="3975985210" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-11_poster_.png" crc="3822952235" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-04.svg" crc="4130926133" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-04_poster_.png" crc="4014421329" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-08.svg" crc="284607078" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-08_poster_.png" crc="362599461" ref="12-ideal-offices"/>
+    <file name="180719_12-diagrams-web-copie-12.svg" crc="4274390176" seo="true" ref="12-ideal-offices">
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+      <caption webpage="12-ideal-offices" alt=""/>
+    </file>
+    <file name="180719_12 diagrams web copie-12_poster_.png" crc="3838639818" ref="12-ideal-offices"/>
+    <file name="03_alexa-palladio_plan-de-travail-1.svg" crc="424049870" seo="true" ref="plan-3">
+      <caption webpage="plan-3" alt=""/>
+      <caption webpage="plan-3" alt=""/>
+      <caption webpage="plan-3" alt=""/>
+    </file>
+    <file name="03_alexa palladio_plan de travail 1_poster_.png" crc="4022544382" ref="plan-3"/>
+    <file name="03_alexa.jpg" crc="48125039" seo="true" ref="render-3">
+      <caption webpage="render-3" alt=""/>
+    </file>
+    <file name="03_alexa594x594.jpg" crc="4232538614" seo="true" ref="render-3">
+      <caption webpage="render-3" alt=""/>
+    </file>
+    <file name="03_alexa443x443.jpg" crc="128618751" seo="true" ref="render-3">
+      <caption webpage="render-3" alt=""/>
+    </file>
+    <file name="03_alexa242x242.png" crc="3955443383" seo="true" ref="iot-3">
+      <caption webpage="iot-3" alt=""/>
+    </file>
+    <file name="03_alexa194x194.png" crc="4140053298" seo="true" ref="iot-3">
+      <caption webpage="iot-3" alt=""/>
+    </file>
+    <file name="02_corridor_plan-de-travail-1.svg" crc="4102789206" seo="true" ref="plan-2">
+      <caption webpage="plan-2" alt=""/>
+      <caption webpage="plan-2" alt=""/>
+      <caption webpage="plan-2" alt=""/>
+    </file>
+    <file name="02_corridor_plan de travail 1_poster_.png" crc="223141190" ref="plan-2"/>
+    <file name="02_corridoor.jpg" crc="139104912" seo="true" ref="render-2">
+      <caption webpage="render-2" alt=""/>
+    </file>
+    <file name="02_corridoor594x594.jpg" crc="161095187" seo="true" ref="render-2">
+      <caption webpage="render-2" alt=""/>
+    </file>
+    <file name="02_corridoor443x443.jpg" crc="322031955" seo="true" ref="render-2">
+      <caption webpage="render-2" alt=""/>
+    </file>
+    <file name="02.jpg" crc="38008432" seo="true" ref="workplace-2">
       <caption webpage="workplace-2" alt=""/>
     </file>
-    <file name="u136911.png" crc="3775293267" ref="workplace-3"/>
-    <file name="u136911-r.png" crc="381578767" ref="workplace-3"/>
-    <file name="00_diagrams final-03422x422.jpg" crc="3839800401" seo="true" ref="workplace-3">
-      <caption webpage="workplace-3" alt=""/>
+    <file name="02_corridoor339x339.jpg" crc="84766303" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+      <caption webpage="workplace-2" alt=""/>
+      <caption webpage="workplace-2" alt=""/>
     </file>
-    <file name="u137010.png" crc="3775293267" ref="workplace-4"/>
-    <file name="u137010-r.png" crc="381578767" ref="workplace-4"/>
-    <file name="00_diagrams final-04422x422.jpg" crc="3980602967" seo="true" ref="workplace-4">
+    <file name="02_foam287x249.png" crc="68943903" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="02-crop-u79261.jpg" crc="3891146262" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="02_foam285x247.png" crc="327741921" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="02791x791.jpg" crc="492130877" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="02_foam285x246.png" crc="327741921" seo="true" ref="workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+    </file>
+    <file name="02_foam.png" crc="386323686" seo="true" ref="iot-2">
+      <caption webpage="iot-2" alt=""/>
+    </file>
+    <file name="02_foam276x238.png" crc="87704766" seo="true" ref="iot-2">
+      <caption webpage="iot-2" alt=""/>
+    </file>
+    <file name="02_foam234x202.png" crc="3817171719" seo="true" ref="iot-2">
+      <caption webpage="iot-2" alt=""/>
+    </file>
+    <file name="01.jpg" crc="3984447661" seo="true" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01_fitness_manager339x339.jpg" crc="185583722" seo="true" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01_flex fitbit260x260.png" crc="4132574918" seo="true" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01_flex fitbit.png" crc="4287993912" seo="true" ref="workplace-1:iot-1">
+      <caption webpage="iot-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01791x791.jpg" crc="4167655627" seo="true" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01_flex fitbit264x264.png" crc="95428707" seo="true" ref="workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+    </file>
+    <file name="01_fitness_plan-de-travail-1.svg" crc="4100573529" seo="true" ref="plan-1">
+      <caption webpage="plan-1" alt=""/>
+      <caption webpage="plan-1" alt=""/>
+      <caption webpage="plan-1" alt=""/>
+    </file>
+    <file name="01_fitness_plan de travail 1_poster_.png" crc="29813525" ref="plan-1"/>
+    <file name="01_fitness_manager.jpg" crc="533776925" seo="true" ref="render-1">
+      <caption webpage="render-1" alt=""/>
+    </file>
+    <file name="01_fitness_manager594x594.jpg" crc="400943043" seo="true" ref="render-1">
+      <caption webpage="render-1" alt=""/>
+    </file>
+    <file name="01_fitness_manager443x443.jpg" crc="3871776646" seo="true" ref="render-1">
+      <caption webpage="render-1" alt=""/>
+    </file>
+    <file name="01_flex fitbit258x258.png" crc="237023061" seo="true" ref="iot-1">
+      <caption webpage="iot-1" alt=""/>
+    </file>
+    <file name="01_flex fitbit199x199.png" crc="4169779615" seo="true" ref="iot-1">
+      <caption webpage="iot-1" alt=""/>
+    </file>
+    <file name="04.jpg" crc="156191433" seo="true" ref="workplace-4">
+      <caption webpage="workplace-4" alt=""/>
       <caption webpage="workplace-4" alt=""/>
     </file>
-    <file name="u137093.png" crc="3775293267" ref="workplace-5"/>
-    <file name="u137093-r.png" crc="381578767" ref="workplace-5"/>
-    <file name="00_diagrams final-05.jpg" crc="181694273" seo="true" ref="workplace-5">
+    <file name="04_toilettes339x339.jpg" crc="4112655281" seo="true" ref="workplace-4">
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+    </file>
+    <file name="04_msics.png" crc="76194590" seo="true" ref="workplace-4:iot-4">
+      <caption webpage="iot-4" alt=""/>
+      <caption webpage="iot-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+    </file>
+    <file name="04_msics231x231.png" crc="4215658153" seo="true" ref="workplace-4">
+      <caption webpage="workplace-4" alt=""/>
+    </file>
+    <file name="04792x792.jpg" crc="4044408685" seo="true" ref="workplace-4">
+      <caption webpage="workplace-4" alt=""/>
+    </file>
+    <file name="04_toilette_plan-de-travail-1.svg" crc="11563066" seo="true" ref="plan-4">
+      <caption webpage="plan-4" alt=""/>
+      <caption webpage="plan-4" alt=""/>
+      <caption webpage="plan-4" alt=""/>
+    </file>
+    <file name="04_toilette_plan de travail 1_poster_.png" crc="136479226" ref="plan-4"/>
+    <file name="04_toilettes.jpg" crc="3878896947" seo="true" ref="render-4">
+      <caption webpage="render-4" alt=""/>
+    </file>
+    <file name="04_toilettes594x594.jpg" crc="3943710684" seo="true" ref="render-4">
+      <caption webpage="render-4" alt=""/>
+    </file>
+    <file name="04_toilettes443x443.jpg" crc="86107464" seo="true" ref="render-4">
+      <caption webpage="render-4" alt=""/>
+    </file>
+    <file name="04_msics198x198.png" crc="4071501207" seo="true" ref="iot-4">
+      <caption webpage="iot-4" alt=""/>
+    </file>
+    <file name="05.jpg" crc="235574928" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
       <caption webpage="workplace-5" alt=""/>
     </file>
-    <file name="u137136.png" crc="3775293267" ref="workplace-6"/>
-    <file name="u137136-r.png" crc="381578767" ref="workplace-6"/>
-    <file name="00_diagrams final-06.jpg" crc="4173712562" seo="true" ref="workplace-6">
+    <file name="05_souvenirs339x339.jpg" crc="3799783208" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+      <caption webpage="workplace-5" alt=""/>
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="05_philips270x270.png" crc="3939055196" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="05_philips272x272.png" crc="234948262" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="05791x791.jpg" crc="3928614972" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="05_philips273x273.png" crc="350042104" seo="true" ref="workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+    </file>
+    <file name="05_souvenirs_plan-de-travail-1.svg" crc="3843168778" seo="true" ref="plan-5">
+      <caption webpage="plan-5" alt=""/>
+      <caption webpage="plan-5" alt=""/>
+      <caption webpage="plan-5" alt=""/>
+    </file>
+    <file name="05_souvenirs_plan de travail 1_poster_.png" crc="4037228144" ref="plan-5"/>
+    <file name="05_souvenirs.jpg" crc="4253513929" seo="true" ref="render-5">
+      <caption webpage="render-5" alt=""/>
+    </file>
+    <file name="05_souvenirs594x594.jpg" crc="387913825" seo="true" ref="render-5">
+      <caption webpage="render-5" alt=""/>
+    </file>
+    <file name="05_souvenirs443x443.jpg" crc="3789962727" seo="true" ref="render-5">
+      <caption webpage="render-5" alt=""/>
+    </file>
+    <file name="05_philips.png" crc="384280575" seo="true" ref="iot-5">
+      <caption webpage="iot-5" alt=""/>
+    </file>
+    <file name="05_philips288x288.png" crc="37622975" seo="true" ref="iot-5">
+      <caption webpage="iot-5" alt=""/>
+    </file>
+    <file name="05_philips236x236.png" crc="73018289" seo="true" ref="iot-5">
+      <caption webpage="iot-5" alt=""/>
+    </file>
+    <file name="06_pleine-conscience-01.svg" crc="23043672" seo="true" ref="workplace-6:plan-6">
+      <caption webpage="plan-6" alt=""/>
+      <caption webpage="plan-6" alt=""/>
+      <caption webpage="plan-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
       <caption webpage="workplace-6" alt=""/>
     </file>
-    <file name="u137268.png" crc="3775293267" ref="workplace-7"/>
-    <file name="u137268-r.png" crc="381578767" ref="workplace-7"/>
-    <file name="00_diagrams final-07.jpg" crc="3970577492" seo="true" ref="workplace-7">
+    <file name="06_pleine conscience-01_poster_.png" crc="4157639765" ref="workplace-6"/>
+    <file name="06_pleine_conscience339x339.jpg" crc="280448973" seo="true" ref="workplace-6">
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+    </file>
+    <file name="06_melomind.png" crc="255047158" seo="true" ref="workplace-6:iot-6">
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="iot-6" alt=""/>
+    </file>
+    <file name="06_pleine_conscience.jpg" crc="306420688" seo="true" ref="render-6">
+      <caption webpage="render-6" alt=""/>
+    </file>
+    <file name="06_pleine_conscience594x594.jpg" crc="4233664204" seo="true" ref="render-6">
+      <caption webpage="render-6" alt=""/>
+    </file>
+    <file name="06_pleine_conscience443x443.jpg" crc="4266813491" seo="true" ref="render-6">
+      <caption webpage="render-6" alt=""/>
+    </file>
+    <file name="06_melomind263x250.png" crc="4280232414" seo="true" ref="iot-6">
+      <caption webpage="iot-6" alt=""/>
+    </file>
+    <file name="06_melomind233x222.png" crc="284310479" seo="true" ref="iot-6">
+      <caption webpage="iot-6" alt=""/>
+    </file>
+    <file name="07.jpg" crc="3820366450" seo="true" ref="workplace-7">
+      <caption webpage="workplace-7" alt=""/>
       <caption webpage="workplace-7" alt=""/>
     </file>
-    <file name="u137398.png" crc="3775293267" ref="workplace-8"/>
-    <file name="u137398-r.png" crc="381578767" ref="workplace-8"/>
-    <file name="00_diagrams final-08.jpg" crc="4084170895" seo="true" ref="workplace-8">
+    <file name="07_token339x339.jpg" crc="26523215" seo="true" ref="workplace-7">
+      <caption webpage="workplace-7" alt=""/>
+      <caption webpage="workplace-7" alt=""/>
+      <caption webpage="workplace-7" alt=""/>
+    </file>
+    <file name="07_tokenarchy.png" crc="3927701008" seo="true" ref="workplace-7:iot-7">
+      <caption webpage="iot-7" alt=""/>
+      <caption webpage="workplace-7" alt=""/>
+      <caption webpage="workplace-7" alt=""/>
+      <caption webpage="workplace-7" alt=""/>
+    </file>
+    <file name="07791x791.jpg" crc="4198301534" seo="true" ref="workplace-7">
+      <caption webpage="workplace-7" alt=""/>
+    </file>
+    <file name="07_token_plan-de-travail-1.svg" crc="3768871642" seo="true" ref="plan-7">
+      <caption webpage="plan-7" alt=""/>
+      <caption webpage="plan-7" alt=""/>
+      <caption webpage="plan-7" alt=""/>
+    </file>
+    <file name="07_token_plan de travail 1_poster_.png" crc="3829496342" ref="plan-7"/>
+    <file name="07_token.jpg" crc="74705341" seo="true" ref="render-7">
+      <caption webpage="render-7" alt=""/>
+    </file>
+    <file name="07_token594x595.jpg" crc="294580992" seo="true" ref="render-7">
+      <caption webpage="render-7" alt=""/>
+    </file>
+    <file name="07_token443x443.jpg" crc="442620455" seo="true" ref="render-7">
+      <caption webpage="render-7" alt=""/>
+    </file>
+    <file name="07_tokenarchy288x288.png" crc="303905468" seo="true" ref="iot-7">
+      <caption webpage="iot-7" alt=""/>
+    </file>
+    <file name="07_tokenarchy236x236.png" crc="4028416327" seo="true" ref="iot-7">
+      <caption webpage="iot-7" alt=""/>
+    </file>
+    <file name="08.jpg" crc="433007938" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
       <caption webpage="workplace-8" alt=""/>
     </file>
-    <file name="u137435.png" crc="3775293267" ref="workplace-9"/>
-    <file name="u137435-r.png" crc="381578767" ref="workplace-9"/>
-    <file name="00_diagrams final-09.jpg" crc="10123459" seo="true" ref="workplace-9">
+    <file name="08_publicspace339x339.jpg" crc="3770449497" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="08_hololens313x124.png" crc="4266726649" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="08_hololens288x114.png" crc="459161292" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="08791x792.jpg" crc="487816217" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="08_hololens290x115.png" crc="527371084" seo="true" ref="workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+    </file>
+    <file name="08_space4free_plan-de-travail-1.svg" crc="4203931759" seo="true" ref="plan-8">
+      <caption webpage="plan-8" alt=""/>
+      <caption webpage="plan-8" alt=""/>
+      <caption webpage="plan-8" alt=""/>
+    </file>
+    <file name="08_space4free_plan de travail 1_poster_.png" crc="4053874389" ref="plan-8"/>
+    <file name="08_publicspace.jpg" crc="396082784" seo="true" ref="render-8">
+      <caption webpage="render-8" alt=""/>
+    </file>
+    <file name="08_publicspace594x594.jpg" crc="195948945" seo="true" ref="render-8">
+      <caption webpage="render-8" alt=""/>
+    </file>
+    <file name="08_publicspace443x443.jpg" crc="4001875250" seo="true" ref="render-8">
+      <caption webpage="render-8" alt=""/>
+    </file>
+    <file name="08_hololens334x133.png" crc="331572946" seo="true" ref="iot-8">
+      <caption webpage="iot-8" alt=""/>
+    </file>
+    <file name="08_hololens243x97.png" crc="81486355" seo="true" ref="iot-8">
+      <caption webpage="iot-8" alt=""/>
+    </file>
+    <file name="08_hololens208x83.png" crc="435178936" seo="true" ref="iot-8">
+      <caption webpage="iot-8" alt=""/>
+    </file>
+    <file name="09.jpg" crc="496258715" seo="true" ref="workplace-9">
+      <caption webpage="workplace-9" alt=""/>
       <caption webpage="workplace-9" alt=""/>
     </file>
-    <file name="u137539.png" crc="3775293267" ref="workplace-10"/>
-    <file name="u137539-r.png" crc="381578767" ref="workplace-10"/>
-    <file name="00_diagrams final-10.jpg" crc="4116337885" seo="true" ref="workplace-10">
+    <file name="09_aboutblankspace339x339.jpg" crc="180589966" seo="true" ref="workplace-9">
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+    </file>
+    <file name="09_aboutblank.png" crc="503290348" seo="true" ref="workplace-9:iot-9">
+      <caption webpage="iot-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+    </file>
+    <file name="09791x792.jpg" crc="339953356" seo="true" ref="workplace-9">
+      <caption webpage="workplace-9" alt=""/>
+    </file>
+    <file name="09_about-blank_plan-de-travail-1.svg" crc="4042412569" seo="true" ref="plan-9">
+      <caption webpage="plan-9" alt=""/>
+      <caption webpage="plan-9" alt=""/>
+      <caption webpage="plan-9" alt=""/>
+    </file>
+    <file name="09_about blank_plan de travail 1_poster_.png" crc="4187485256" ref="plan-9"/>
+    <file name="09_aboutblankspace.jpg" crc="4219286400" seo="true" ref="render-9">
+      <caption webpage="render-9" alt=""/>
+    </file>
+    <file name="09_aboutblankspace594x594.jpg" crc="3954749680" seo="true" ref="render-9">
+      <caption webpage="render-9" alt=""/>
+    </file>
+    <file name="09_aboutblankspace443x443.jpg" crc="4059316937" seo="true" ref="render-9">
+      <caption webpage="render-9" alt=""/>
+    </file>
+    <file name="09_aboutblank254x232.png" crc="3858064616" seo="true" ref="iot-9">
+      <caption webpage="iot-9" alt=""/>
+    </file>
+    <file name="09_aboutblank208x190.png" crc="4147086155" seo="true" ref="iot-9">
+      <caption webpage="iot-9" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4148981251" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
       <caption webpage="workplace-10" alt=""/>
     </file>
-    <file name="u137644.png" crc="3775293267" ref="workplace-11"/>
-    <file name="u137644-r.png" crc="381578767" ref="workplace-11"/>
-    <file name="00_diagrams final-11.jpg" crc="3848175621" seo="true" ref="workplace-11">
+    <file name="10_selfedu339x339.jpg" crc="22551602" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="10_mother169x247.png" crc="3869178612" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="10_mother167x245.png" crc="3884597470" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="10791x791.jpg" crc="4073427251" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="10_mother181x266.png" crc="4069088257" seo="true" ref="workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+    </file>
+    <file name="10_self-edu_plan-de-travail-1.svg" crc="3818356261" seo="true" ref="plan-10">
+      <caption webpage="plan-10" alt=""/>
+      <caption webpage="plan-10" alt=""/>
+      <caption webpage="plan-10" alt=""/>
+    </file>
+    <file name="10_self edu_plan de travail 1_poster_.png" crc="3874864253" ref="plan-10"/>
+    <file name="10_selfedu.jpg" crc="4267021282" seo="true" ref="render-10">
+      <caption webpage="render-10" alt=""/>
+    </file>
+    <file name="10_selfedu594x594.jpg" crc="73399035" seo="true" ref="render-10">
+      <caption webpage="render-10" alt=""/>
+    </file>
+    <file name="10_selfedu443x443.jpg" crc="4136447644" seo="true" ref="render-10">
+      <caption webpage="render-10" alt=""/>
+    </file>
+    <file name="10_mother.png" crc="373553475" seo="true" ref="iot-10">
+      <caption webpage="iot-10" alt=""/>
+    </file>
+    <file name="10_mother197x289.png" crc="181296909" seo="true" ref="iot-10">
+      <caption webpage="iot-10" alt=""/>
+    </file>
+    <file name="10_mother162x237.png" crc="480963873" seo="true" ref="iot-10">
+      <caption webpage="iot-10" alt=""/>
+    </file>
+    <file name="11.jpg" crc="424966206" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
       <caption webpage="workplace-11" alt=""/>
     </file>
-    <file name="u137748.png" crc="3775293267" ref="workplace-12"/>
-    <file name="u137748-r.png" crc="381578767" ref="workplace-12"/>
-    <file name="00_diagrams final-12.jpg" crc="412815233" seo="true" ref="workplace-12">
+    <file name="11_home339x339.jpg" crc="3999090466" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron255x268.png" crc="434219768" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron225x236.png" crc="441427376" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="11791x791.jpg" crc="499212116" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron254x267.png" crc="365499744" seo="true" ref="workplace-11">
+      <caption webpage="workplace-11" alt=""/>
+    </file>
+    <file name="11_home_plan-de-travail-1.svg" crc="250008124" seo="true" ref="plan-11">
+      <caption webpage="plan-11" alt=""/>
+      <caption webpage="plan-11" alt=""/>
+      <caption webpage="plan-11" alt=""/>
+    </file>
+    <file name="11_home_plan de travail 1_poster_.png" crc="4252416089" ref="plan-11"/>
+    <file name="11_home.jpg" crc="61408161" seo="true" ref="render-11">
+      <caption webpage="render-11" alt=""/>
+    </file>
+    <file name="11_home594x594.jpg" crc="3889789995" seo="true" ref="render-11">
+      <caption webpage="render-11" alt=""/>
+    </file>
+    <file name="11_home443x443.jpg" crc="248269474" seo="true" ref="render-11">
+      <caption webpage="render-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron.png" crc="4294346324" seo="true" ref="iot-11">
+      <caption webpage="iot-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron262x276.png" crc="109517781" seo="true" ref="iot-11">
+      <caption webpage="iot-11" alt=""/>
+    </file>
+    <file name="11_bolt lockitron210x221.png" crc="277057006" seo="true" ref="iot-11">
+      <caption webpage="iot-11" alt=""/>
+    </file>
+    <file name="12.jpg" crc="475169316" seo="true" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
       <caption webpage="workplace-12" alt=""/>
     </file>
+    <file name="12_zht339x339.jpg" crc="4036663187" seo="true" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="12_hitachi buisness.png" crc="3994134071" seo="true" ref="workplace-12:iot-12">
+      <caption webpage="iot-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="12_hitachi buisness354x229.png" crc="280038835" seo="true" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="12791x791.jpg" crc="296309270" seo="true" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="12_hitachi buisness-crop-u56038.png" crc="63093333" seo="true" ref="workplace-12">
+      <caption webpage="workplace-12" alt=""/>
+    </file>
+    <file name="12_zht_plan-de-travail-1.svg" crc="4175854160" seo="true" ref="plan-12">
+      <caption webpage="plan-12" alt=""/>
+      <caption webpage="plan-12" alt=""/>
+      <caption webpage="plan-12" alt=""/>
+    </file>
+    <file name="12_zht_plan de travail 1_poster_.png" crc="166614223" ref="plan-12"/>
+    <file name="12_zht.jpg" crc="229668880" seo="true" ref="render-12">
+      <caption webpage="render-12" alt=""/>
+    </file>
+    <file name="12_zht594x594.jpg" crc="69948110" seo="true" ref="render-12">
+      <caption webpage="render-12" alt=""/>
+    </file>
+    <file name="12_zht443x443.jpg" crc="3921296127" seo="true" ref="render-12">
+      <caption webpage="render-12" alt=""/>
+    </file>
+    <file name="12_hitachi buisness289x186.png" crc="3921832696" seo="true" ref="iot-12">
+      <caption webpage="iot-12" alt=""/>
+    </file>
+    <file name="12_hitachi buisness236x152.png" crc="151337124" seo="true" ref="iot-12">
+      <caption webpage="iot-12" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="198145226" seo="true" mt="1530274904916" redirect="true"/>
-  <file name="twelve-ideal-offices.html" crc="184819418" seo="true" mt="1529103730118" redirect="true"/>
-  <file name="workplace-1.html" crc="4210245131" seo="true" mt="1529103723170" redirect="true"/>
-  <file name="genealogie-2.html" crc="246587476" seo="true" mt="1527456650133" redirect="true"/>
-  <file name="workplace-2.html" crc="354788455" seo="true" mt="1529103723171" redirect="true"/>
-  <file name="workplace-3.html" crc="224281074" seo="true" mt="1529103723172" redirect="true"/>
-  <file name="workplace-4.html" crc="338748407" seo="true" mt="1529103723173" redirect="true"/>
-  <file name="workplace-5.html" crc="174670966" seo="true" mt="1529103723174" redirect="true"/>
-  <file name="workplace-6.html" crc="3867426735" seo="true" mt="1529103723175" redirect="true"/>
-  <file name="workplace-7.html" crc="3871221543" seo="true" mt="1529103723176" redirect="true"/>
-  <file name="workplace-8.html" crc="468040525" seo="true" mt="1529103723177" redirect="true"/>
-  <file name="workplace-9.html" crc="83131640" seo="true" mt="1529103723179" redirect="true"/>
-  <file name="workplace-10.html" crc="3941960278" seo="true" mt="1529103723180" redirect="true"/>
-  <file name="workplace-11.html" crc="454132923" seo="true" mt="1529103723181" redirect="true"/>
-  <file name="workplace-12.html" crc="142510666" seo="true" mt="1529103723183" redirect="true"/>
-  <file name="telechargement.html" crc="384333819" seo="true" mt="1530275112681" redirect="true"/>
+  <file name="index.html" crc="4286482776" seo="true" mt="1533555561863" redirect="true"/>
+  <file name="70-historical-offices.html" crc="381931408" seo="true" mt="1533494001980" redirect="true"/>
+  <file name="100-iot.html" crc="4105359160" seo="true" mt="1533484956147" redirect="true"/>
+  <file name="abstract.html" crc="47632738" seo="true" mt="1533551964539" redirect="true"/>
+  <file name="about.html" crc="176500758" seo="true" mt="1533552200735" redirect="true"/>
+  <file name="downloads.html" crc="29669349" seo="true" mt="1533494006705" redirect="true"/>
+  <file name="worplace-3.html" crc="290296267" seo="true" mt="1533494001983" redirect="true"/>
+  <file name="12-ideal-offices.html" crc="4265017683" seo="true" mt="1533494001983" redirect="true"/>
+  <file name="plan-3.html" crc="3839727081" seo="true" mt="1533494001984" redirect="true"/>
+  <file name="render-3.html" crc="4220573965" seo="true" mt="1533494001985" redirect="true"/>
+  <file name="text-3.html" crc="3810217975" seo="true" mt="1533326788180" redirect="true"/>
+  <file name="iot-3.html" crc="377987168" seo="true" mt="1533480627928" redirect="true"/>
+  <file name="plan-2.html" crc="3975414500" seo="true" mt="1533494001985" redirect="true"/>
+  <file name="render-2.html" crc="4285413834" seo="true" mt="1533494001986" redirect="true"/>
+  <file name="text-2.html" crc="3957584982" seo="true" mt="1533326788181" redirect="true"/>
+  <file name="workplace-2.html" crc="93348242" seo="true" mt="1533552523503" redirect="true"/>
+  <file name="iot-2.html" crc="277286593" seo="true" mt="1533480627929" redirect="true"/>
+  <file name="workplace-1.html" crc="321600614" seo="true" mt="1533552928235" redirect="true"/>
+  <file name="plan-1.html" crc="312287402" seo="true" mt="1533494001988" redirect="true"/>
+  <file name="render-1.html" crc="4197171703" seo="true" mt="1533494001989" redirect="true"/>
+  <file name="text-1.html" crc="4285120683" seo="true" mt="1533326788181" redirect="true"/>
+  <file name="iot-1.html" crc="283168752" seo="true" mt="1533480627930" redirect="true"/>
+  <file name="workplace-4.html" crc="96596320" seo="true" mt="1533494001990" redirect="true"/>
+  <file name="plan-4.html" crc="3937695198" seo="true" mt="1533494001990" redirect="true"/>
+  <file name="render-4.html" crc="4283755519" seo="true" mt="1533494001991" redirect="true"/>
+  <file name="text-4.html" crc="21937399" seo="true" mt="1533326788182" redirect="true"/>
+  <file name="iot-4.html" crc="407582090" seo="true" mt="1533480627932" redirect="true"/>
+  <file name="workplace-5.html" crc="3957800608" seo="true" mt="1533552936192" redirect="true"/>
+  <file name="plan-5.html" crc="19553520" seo="true" mt="1533494001993" redirect="true"/>
+  <file name="render-5.html" crc="4291840642" seo="true" mt="1533494001993" redirect="true"/>
+  <file name="text-5.html" crc="4142677174" seo="true" mt="1533326788183" redirect="true"/>
+  <file name="iot-5.html" crc="44337858" seo="true" mt="1533480627934" redirect="true"/>
+  <file name="workplace-6.html" crc="4270811547" seo="true" mt="1533494001994" redirect="true"/>
+  <file name="plan-6.html" crc="3882749213" seo="true" mt="1533494001995" redirect="true"/>
+  <file name="render-6.html" crc="4064016064" seo="true" mt="1533494001996" redirect="true"/>
+  <file name="text-6.html" crc="130633260" seo="true" mt="1533326788184" redirect="true"/>
+  <file name="iot-6.html" crc="4008215149" seo="true" mt="1533480627935" redirect="true"/>
+  <file name="workplace-7.html" crc="106393130" seo="true" mt="1533494001997" redirect="true"/>
+  <file name="plan-7.html" crc="405367245" seo="true" mt="1533494001997" redirect="true"/>
+  <file name="render-7.html" crc="18926936" seo="true" mt="1533494001998" redirect="true"/>
+  <file name="text-7.html" crc="3889756084" seo="true" mt="1533326788185" redirect="true"/>
+  <file name="iot-7.html" crc="186657694" seo="true" mt="1533480627936" redirect="true"/>
+  <file name="workplace-8.html" crc="3860595730" seo="true" mt="1533494001999" redirect="true"/>
+  <file name="plan-8.html" crc="3879356001" seo="true" mt="1533494002000" redirect="true"/>
+  <file name="render-8.html" crc="113234486" seo="true" mt="1533494002001" redirect="true"/>
+  <file name="text-8.html" crc="180206707" seo="true" mt="1533326788186" redirect="true"/>
+  <file name="iot-8.html" crc="239417453" seo="true" mt="1533480627937" redirect="true"/>
+  <file name="workplace-9.html" crc="3851727244" seo="true" mt="1533494002001" redirect="true"/>
+  <file name="plan-9.html" crc="452995736" seo="true" mt="1533494002002" redirect="true"/>
+  <file name="render-9.html" crc="3837322046" seo="true" mt="1533494002003" redirect="true"/>
+  <file name="text-9.html" crc="4270482650" seo="true" mt="1533326788186" redirect="true"/>
+  <file name="iot-9.html" crc="182105923" seo="true" mt="1533480627938" redirect="true"/>
+  <file name="workplace-10.html" crc="16930615" seo="true" mt="1533494002004" redirect="true"/>
+  <file name="plan-10.html" crc="3903820495" seo="true" mt="1533494002004" redirect="true"/>
+  <file name="render-10.html" crc="428014904" seo="true" mt="1533494002005" redirect="true"/>
+  <file name="text-10.html" crc="3957571296" seo="true" mt="1533326788187" redirect="true"/>
+  <file name="iot-10.html" crc="4261840866" seo="true" mt="1533480627939" redirect="true"/>
+  <file name="workplace-11.html" crc="4002433948" seo="true" mt="1533494002005" redirect="true"/>
+  <file name="plan-11.html" crc="3826090972" seo="true" mt="1533494002006" redirect="true"/>
+  <file name="render-11.html" crc="4121953670" seo="true" mt="1533494002007" redirect="true"/>
+  <file name="text-11.html" crc="4012660626" seo="true" mt="1533326788188" redirect="true"/>
+  <file name="iot-11.html" crc="444216678" seo="true" mt="1533480627940" redirect="true"/>
+  <file name="workplace-12.html" crc="3856168145" seo="true" mt="1533553018453" redirect="true"/>
+  <file name="plan-12.html" crc="3909633233" seo="true" mt="1533494002008" redirect="true"/>
+  <file name="render-12.html" crc="512278773" seo="true" mt="1533494002009" redirect="true"/>
+  <file name="text-12.html" crc="308370439" seo="true" mt="1533326788190" redirect="true"/>
+  <file name="iot-12.html" crc="259789470" seo="true" mt="1533480627941" redirect="true"/>
+  <file name="publi.html" crc="4031559969" seo="true" mt="1533555620288" redirect="true"/>
+  <file name="biblio.html" crc="261698656" seo="true" mt="1533551992599" redirect="true"/>
 </manifest>
