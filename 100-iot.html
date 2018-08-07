@@ -7,20 +7,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","tablet/100-iot.html","phone/100-iot.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "jquery.scrolleffects.js", "100-iot.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.museresponsive.js", "jquery.scrolleffects.js", "100-iot.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://hyperwwwork.life/phone/100-iot.html"/>
+  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://hyperwwwork.life/tablet/100-iot.html"/>
   <title>100 IoT</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=499533841"/>
-  <link rel="stylesheet" type="text/css" href="css/100-iot.css?crc=132510590" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=64334674"/>
+  <link rel="stylesheet" type="text/css" href="css/100-iot.css?crc=4206943202" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_100-iot.css?crc=4113401018" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_100-iot.css?crc=294870746" id="nomq_pagesheet"/>
   <![endif]-->
     <!--/*
 
@@ -39,7 +46,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <img class="position_content temp_no_img_src" id="u71362_img" data-orig-src="images/c02_bliwe.png?crc=258833598" alt="" width="252" height="184" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u71472"><!-- image -->
-      <img class="block temp_no_img_src" id="u71472_img" data-orig-src="images/c06_smart%20in%20glass-crop-u71472.png?crc=418535740" alt="" width="176" height="176" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u71472_img" data-orig-src="images/c06_smart%20in%20glass-crop-u71472.png?crc=3885861291" alt="" width="176" height="176" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u71340"><!-- image -->
       <img class="block temp_no_img_src" id="u71340_img" data-orig-src="images/c09_hitachi%20buisness%20microscope.png?crc=205320896" alt="" width="192" height="124" src="images/blank.gif?crc=4208392903"/>
@@ -179,7 +186,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <img class="position_content temp_no_img_src" id="u70009_img" data-orig-src="images/39_healthy%20home%20coach%20netatmo.png?crc=221375191" alt="" width="252" height="252" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u69965"><!-- image -->
-      <img class="block temp_no_img_src" id="u69965_img" data-orig-src="images/50_instaview%20lg-crop-u69965.png?crc=197083944" alt="" width="176" height="165" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u69965_img" data-orig-src="images/50_instaview%20lg-crop-u69965.png?crc=308363779" alt="" width="176" height="165" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u69932"><!-- image -->
       <img class="block temp_no_img_src" id="u69932_img" data-orig-src="images/54_eskin.png?crc=79437513" alt="" width="119" height="162" src="images/blank.gif?crc=4208392903"/>
@@ -422,7 +429,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <img class="block temp_no_img_src" id="u69289_img" data-orig-src="images/28_mi%20robot.png?crc=4236448062" alt="" width="175" height="175" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u69245"><!-- image -->
-      <img class="block temp_no_img_src" id="u69245_img" data-orig-src="images/37_thermostat%20netatmo-crop-u69245.png?crc=523604071" alt="" width="250" height="250" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u69245_img" data-orig-src="images/37_thermostat%20netatmo-crop-u69245.png?crc=292361704" alt="" width="250" height="250" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clip_frame mse_pre_init" id="u69223"><!-- image -->
       <img class="block temp_no_img_src" id="u69223_img" data-orig-src="images/40_sensate%20kohler-crop-u69223.png?crc=4175142434" alt="" width="250" height="250" src="images/blank.gif?crc=4208392903"/>
@@ -913,7 +920,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="LEGENDE-PLAN-CENTRE clearfix colelem placeholder" data-placeholder-for="u34440-12_content"><!-- placeholder node --></span>
      <div class="clip_frame colelem" id="u32044"><!-- image -->
-      <img class="block temp_no_img_src" id="u32044_img" data-orig-src="images/25_niu%20nodon-crop-u32044.png?crc=3853454195" alt="" width="97" height="103" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u32044_img" data-orig-src="images/25_niu%20nodon-crop-u32044.png?crc=3796310138" alt="" width="97" height="103" src="images/blank.gif?crc=4208392903"/>
      </div>
      <span class="LEGENDE-PLAN-CENTRE clearfix colelem placeholder" data-placeholder-for="u34446-12_content"><!-- placeholder node --></span>
      <div class="clip_frame colelem" id="u32051"><!-- image -->
@@ -1128,7 +1135,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="LEGENDE-PLAN-CENTRE clearfix colelem placeholder" data-placeholder-for="u39119-12_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71500-4_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="21292" data-content-above-spacer="21292" data-content-below-spacer="0"></div>
+    <div class="verticalspacer" data-offset-top="21342" data-content-above-spacer="21342" data-content-below-spacer="0"></div>
    </div>
   </div>
   <!-- Other scripts -->
@@ -1149,160 +1156,160 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u71351').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5755.35]},{"speed":[0,2],"in":[5755.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71362').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,6017.35]},{"speed":[0,2],"in":[6017.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71472').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,6141.35]},{"speed":[0,3.5],"in":[6141.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71340').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,7167.25]},{"speed":[0,2],"in":[7167.25,Infinity]}], $(this)); /* scroll effect */
-$('#u71417').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5715.35]},{"speed":[0,3],"in":[5715.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71439').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,6242.35]},{"speed":[0,1.5],"in":[6242.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71373').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,5996.35]},{"speed":[0,2.5],"in":[5996.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71406').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,6388.35]},{"speed":[0,3],"in":[6388.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71285').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6664.35]},{"speed":[0,2.5],"in":[6664.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71450').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,5876.35]},{"speed":[0,3.3],"in":[5876.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71263').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,6645.35]},{"speed":[0,3.3],"in":[6645.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71461').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,6086.35]},{"speed":[0,2.5],"in":[6086.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71395').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6393.35]},{"speed":[0,1.2],"in":[6393.35,Infinity]}], $(this)); /* scroll effect */
-$('#u71318').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6745.35]},{"speed":[0,4],"in":[6745.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34722-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,5996.35]},{"speed":[0,2.5],"in":[5996.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34728-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,6242.35]},{"speed":[0,1.5],"in":[6242.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34734-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,6645.35]},{"speed":[0,3.3],"in":[6645.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34740-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,6086.35]},{"speed":[0,2.5],"in":[6086.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34746-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,5876.35]},{"speed":[0,3.3],"in":[5876.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34764-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5715.35]},{"speed":[0,3],"in":[5715.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34770-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5755.35]},{"speed":[0,2],"in":[5755.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34776-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,6017.35]},{"speed":[0,2],"in":[6017.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34782-12').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,6388.35]},{"speed":[0,3],"in":[6388.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34788-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,6141.35]},{"speed":[0,3.5],"in":[6141.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34794-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6393.35]},{"speed":[0,1.2],"in":[6393.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34800-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6745.35]},{"speed":[0,4],"in":[6745.35,Infinity]}], $(this)); /* scroll effect */
-$('#u34806-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,7167.25]},{"speed":[0,2],"in":[7167.25,Infinity]}], $(this)); /* scroll effect */
-$('#u39119-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,6664.35]},{"speed":[0,2.5],"in":[6664.35,Infinity]}], $(this)); /* scroll effect */
-$('#u70042').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3987.05]},{"speed":[0,2],"in":[3987.05,Infinity]}], $(this)); /* scroll effect */
-$('#u70009').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,4179.05]},{"speed":[0,2],"in":[4179.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69965').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,4173.05]},{"speed":[0,3.5],"in":[4173.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69932').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5099.05]},{"speed":[0,2],"in":[5099.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69854').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,5334.05]},{"speed":[0,3],"in":[5334.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69954').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5492.1]},{"speed":[0,2],"in":[5492.1,Infinity]}], $(this)); /* scroll effect */
-$('#u70064').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3947.05]},{"speed":[0,3],"in":[3947.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69998').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,4474.05]},{"speed":[0,1.5],"in":[4474.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69987').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5283.05]},{"speed":[0,3],"in":[5283.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69877').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,4942.05]},{"speed":[0,2],"in":[4942.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69866').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5491.05]},{"speed":[0,3],"in":[5491.05,Infinity]}], $(this)); /* scroll effect */
-$('#u70053').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4138.05]},{"speed":[0,2.5],"in":[4138.05,Infinity]}], $(this)); /* scroll effect */
-$('#u70020').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,4400.05]},{"speed":[0,3],"in":[4400.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69910').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4696.05]},{"speed":[0,2.5],"in":[4696.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69888').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,5062.05]},{"speed":[0,4],"in":[5062.05,Infinity]}], $(this)); /* scroll effect */
-$('#u70075').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,4068.05]},{"speed":[0,3.3],"in":[4068.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69943').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,4607.05]},{"speed":[0,3.3],"in":[4607.05,Infinity]}], $(this)); /* scroll effect */
-$('#u70031').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,4318.05]},{"speed":[0,2.5],"in":[4318.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69976').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4425.05]},{"speed":[0,1.2],"in":[4425.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69921').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4777.05]},{"speed":[0,4],"in":[4777.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69899').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,5383.05]},{"speed":[0,4],"in":[5383.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34530-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,4179.05]},{"speed":[0,2],"in":[4179.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34566-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4138.05]},{"speed":[0,2.5],"in":[4138.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34572-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,4068.05]},{"speed":[0,3.3],"in":[4068.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34578-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3947.05]},{"speed":[0,3],"in":[3947.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34584-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,4318.05]},{"speed":[0,2.5],"in":[4318.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34590-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,4607.05]},{"speed":[0,3.3],"in":[4607.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34602-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3987.05]},{"speed":[0,2],"in":[3987.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34614-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,4173.05]},{"speed":[0,3.5],"in":[4173.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34620-12').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,4400.05]},{"speed":[0,3],"in":[4400.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34632-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,4474.05]},{"speed":[0,1.5],"in":[4474.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34638-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4425.05]},{"speed":[0,1.2],"in":[4425.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34644-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5099.05]},{"speed":[0,2],"in":[5099.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34656-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,5062.05]},{"speed":[0,4],"in":[5062.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34662-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4696.05]},{"speed":[0,2.5],"in":[4696.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34668-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,4777.05]},{"speed":[0,4],"in":[4777.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34674-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5283.05]},{"speed":[0,3],"in":[5283.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34686-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,5383.05]},{"speed":[0,4],"in":[5383.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34692-12').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,4942.05]},{"speed":[0,2],"in":[4942.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34704-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,5492.1]},{"speed":[0,2],"in":[5492.1,Infinity]}], $(this)); /* scroll effect */
-$('#u34716-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,5334.05]},{"speed":[0,3],"in":[5334.05,Infinity]}], $(this)); /* scroll effect */
-$('#u34710-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,5491.05]},{"speed":[0,3],"in":[5491.05,Infinity]}], $(this)); /* scroll effect */
-$('#u69410').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2099.9]},{"speed":[0,2],"in":[2099.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69388').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2211.9]},{"speed":[0,2],"in":[2211.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69355').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2485.9]},{"speed":[0,3.5],"in":[2485.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69311').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3371.9]},{"speed":[0,2],"in":[3371.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69211').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,3636.9]},{"speed":[0,3],"in":[3636.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69278').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3668.9]},{"speed":[0,2],"in":[3668.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69432').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,2059.9]},{"speed":[0,3],"in":[2059.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69366').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,2586.9]},{"speed":[0,1.5],"in":[2586.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69344').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3485.9]},{"speed":[0,3],"in":[3485.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69267').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,3314.9]},{"speed":[0,2],"in":[3314.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69256').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3783.9]},{"speed":[0,3],"in":[3783.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69399').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2370.9]},{"speed":[0,2.5],"in":[2370.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69289').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,2732.9]},{"speed":[0,3],"in":[2732.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69245').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2970.9]},{"speed":[0,2.5],"in":[2970.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69223').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,3264.9]},{"speed":[0,4],"in":[3264.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69421').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,2220.9]},{"speed":[0,3.3],"in":[2220.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69322').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,2879.9]},{"speed":[0,3.3],"in":[2879.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69377').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,2470.9]},{"speed":[0,2.5],"in":[2470.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69333').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2542.9]},{"speed":[0,1.2],"in":[2542.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69300').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2969.9]},{"speed":[0,4],"in":[2969.9,Infinity]}], $(this)); /* scroll effect */
-$('#u69234').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,3505.9]},{"speed":[0,4],"in":[3505.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34428-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2099.9]},{"speed":[0,2],"in":[2099.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34434-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,2220.9]},{"speed":[0,3.3],"in":[2220.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34440-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,2059.9]},{"speed":[0,3],"in":[2059.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34446-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,2470.9]},{"speed":[0,2.5],"in":[2470.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34452-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,2586.9]},{"speed":[0,1.5],"in":[2586.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34458-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2370.9]},{"speed":[0,2.5],"in":[2370.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34464-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2211.9]},{"speed":[0,2],"in":[2211.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34470-12').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,2732.9]},{"speed":[0,3],"in":[2732.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34476-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,2485.9]},{"speed":[0,3.5],"in":[2485.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34482-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2542.9]},{"speed":[0,1.2],"in":[2542.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34488-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2969.9]},{"speed":[0,4],"in":[2969.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34494-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3371.9]},{"speed":[0,2],"in":[3371.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34500-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,2879.9]},{"speed":[0,3.3],"in":[2879.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34506-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3783.9]},{"speed":[0,3],"in":[3783.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34512-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,3485.9]},{"speed":[0,3],"in":[3485.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34518-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,2970.9]},{"speed":[0,2.5],"in":[2970.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34524-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,3505.9]},{"speed":[0,4],"in":[3505.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34536-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,3264.9]},{"speed":[0,4],"in":[3264.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34542-12').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,3314.9]},{"speed":[0,2],"in":[3314.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34548-8').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,3668.9]},{"speed":[0,2],"in":[3668.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34560-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,3636.9]},{"speed":[0,3],"in":[3636.9,Infinity]}], $(this)); /* scroll effect */
-$('#u31842').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,-28.8]},{"speed":[0,2],"in":[-28.8,Infinity]}], $(this)); /* scroll effect */
-$('#u31871').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,83]},{"speed":[0,2],"in":[83,Infinity]}], $(this)); /* scroll effect */
-$('#u31899').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,387]},{"speed":[0,3.5],"in":[387,Infinity]}], $(this)); /* scroll effect */
-$('#u31967').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1353]},{"speed":[0,3],"in":[1353,Infinity]}], $(this)); /* scroll effect */
-$('#u31981').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,1667.75]},{"speed":[0,3],"in":[1667.75,Infinity]}], $(this)); /* scroll effect */
-$('#u32002').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1720]},{"speed":[0,2],"in":[1720,Infinity]}], $(this)); /* scroll effect */
-$('#u31850').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,-68.4]},{"speed":[0,3],"in":[-68.4,Infinity]}], $(this)); /* scroll effect */
-$('#u31892').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,408]},{"speed":[0,1.5],"in":[408,Infinity]}], $(this)); /* scroll effect */
-$('#u31974').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,1467]},{"speed":[0,3],"in":[1467,Infinity]}], $(this)); /* scroll effect */
-$('#u31988').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,1276]},{"speed":[0,2],"in":[1276,Infinity]}], $(this)); /* scroll effect */
-$('#u32016').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,1805]},{"speed":[0,3],"in":[1805,Infinity]}], $(this)); /* scroll effect */
-$('#u31857').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,242]},{"speed":[0,2.5],"in":[242,Infinity]}], $(this)); /* scroll effect */
-$('#u31885').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,604]},{"speed":[0,3],"in":[604,Infinity]}], $(this)); /* scroll effect */
-$('#u31952').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,952.55]},{"speed":[0,2.5],"in":[952.55,Infinity]}], $(this)); /* scroll effect */
-$('#u31995').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,1246.4]},{"speed":[0,4],"in":[1246.4,Infinity]}], $(this)); /* scroll effect */
-$('#u31864').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,92.05]},{"speed":[0,3.3],"in":[92.05,Infinity]}], $(this)); /* scroll effect */
-$('#u31913').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,821]},{"speed":[0,3.3],"in":[821,Infinity]}], $(this)); /* scroll effect */
-$('#u31878').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,342]},{"speed":[0,2.5],"in":[342,Infinity]}], $(this)); /* scroll effect */
-$('#u31906').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,534]},{"speed":[0,1.2],"in":[534,Infinity]}], $(this)); /* scroll effect */
-$('#u31960').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,1031]},{"speed":[0,4],"in":[1031,Infinity]}], $(this)); /* scroll effect */
-$('#u32009').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,1567]},{"speed":[0,4],"in":[1567,Infinity]}], $(this)); /* scroll effect */
-$('#u34301-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,-29]},{"speed":[0,2],"in":[-29,Infinity]}], $(this)); /* scroll effect */
-$('#u34309-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,-68.4]},{"speed":[0,3],"in":[-68.4,Infinity]}], $(this)); /* scroll effect */
-$('#u34317-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,242]},{"speed":[0,2.5],"in":[242,Infinity]}], $(this)); /* scroll effect */
-$('#u34320-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,91.9]},{"speed":[0,3.3],"in":[91.9,Infinity]}], $(this)); /* scroll effect */
-$('#u34326-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,83]},{"speed":[0,2],"in":[83,Infinity]}], $(this)); /* scroll effect */
-$('#u34332-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,342]},{"speed":[0,2.5],"in":[342,Infinity]}], $(this)); /* scroll effect */
-$('#u34338-12').registerPositionScrollEffect([{"speed":[0,5],"in":[-Infinity,604]},{"speed":[0,3],"in":[604,Infinity]}], $(this)); /* scroll effect */
-$('#u34344-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,408]},{"speed":[0,1.5],"in":[408,Infinity]}], $(this)); /* scroll effect */
-$('#u34350-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,356]},{"speed":[0,3.5],"in":[356,Infinity]}], $(this)); /* scroll effect */
-$('#u34356-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,534]},{"speed":[0,1.2],"in":[534,Infinity]}], $(this)); /* scroll effect */
-$('#u34362-12').registerPositionScrollEffect([{"speed":[0,3.3],"in":[-Infinity,821]},{"speed":[0,3.3],"in":[821,Infinity]}], $(this)); /* scroll effect */
-$('#u34368-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,952.55]},{"speed":[0,2.5],"in":[952.55,Infinity]}], $(this)); /* scroll effect */
-$('#u34374-12').registerPositionScrollEffect([{"speed":[0,4],"in":[-Infinity,1031]},{"speed":[0,4],"in":[1031,Infinity]}], $(this)); /* scroll effect */
-$('#u34380-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1353]},{"speed":[0,3],"in":[1353,Infinity]}], $(this)); /* scroll effect */
-$('#u34386-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,1467]},{"speed":[0,3],"in":[1467,Infinity]}], $(this)); /* scroll effect */
-$('#u34392-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,1667.75]},{"speed":[0,3],"in":[1667.75,Infinity]}], $(this)); /* scroll effect */
-$('#u34398-12').registerPositionScrollEffect([{"speed":[0,3.5],"in":[-Infinity,1276]},{"speed":[0,2],"in":[1276,Infinity]}], $(this)); /* scroll effect */
-$('#u34404-12').registerPositionScrollEffect([{"speed":[0,2],"in":[-Infinity,1246.4]},{"speed":[0,4],"in":[1246.4,Infinity]}], $(this)); /* scroll effect */
-$('#u34410-12').registerPositionScrollEffect([{"speed":[0,1.5],"in":[-Infinity,1720]},{"speed":[0,2],"in":[1720,Infinity]}], $(this)); /* scroll effect */
-$('#u34416-12').registerPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,1567]},{"speed":[0,4],"in":[1567,Infinity]}], $(this)); /* scroll effect */
-$('#u34422-12').registerPositionScrollEffect([{"speed":[0,2.5],"in":[-Infinity,1805]},{"speed":[0,3],"in":[1805,Infinity]}], $(this)); /* scroll effect */
+$('#u71351').registerPositionScrollEffect([{"in":[-Infinity,5755.35],"speed":[0,1.5]},{"in":[5755.35,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u71362').registerPositionScrollEffect([{"in":[-Infinity,6017.35],"speed":[0,1.5]},{"in":[6017.35,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u71472').registerPositionScrollEffect([{"in":[-Infinity,6141.35],"speed":[0,1.5]},{"in":[6141.35,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u71340').registerPositionScrollEffect([{"in":[-Infinity,7167.25],"speed":[0,1.5]},{"in":[7167.25,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u71417').registerPositionScrollEffect([{"in":[-Infinity,5715.35],"speed":[0,2.5]},{"in":[5715.35,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u71439').registerPositionScrollEffect([{"in":[-Infinity,6242.35],"speed":[0,2.5]},{"in":[6242.35,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u71373').registerPositionScrollEffect([{"in":[-Infinity,5996.35],"speed":[0,4]},{"in":[5996.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u71406').registerPositionScrollEffect([{"in":[-Infinity,6388.35],"speed":[0,5]},{"in":[6388.35,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u71285').registerPositionScrollEffect([{"in":[-Infinity,6664.35],"speed":[0,4]},{"in":[6664.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u71450').registerPositionScrollEffect([{"in":[-Infinity,5876.35],"speed":[0,3.3]},{"in":[5876.35,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u71263').registerPositionScrollEffect([{"in":[-Infinity,6645.35],"speed":[0,3.3]},{"in":[6645.35,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u71461').registerPositionScrollEffect([{"in":[-Infinity,6086.35],"speed":[0,3]},{"in":[6086.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u71395').registerPositionScrollEffect([{"in":[-Infinity,6393.35],"speed":[0,4]},{"in":[6393.35,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u71318').registerPositionScrollEffect([{"in":[-Infinity,6745.35],"speed":[0,4]},{"in":[6745.35,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34722-12').registerPositionScrollEffect([{"in":[-Infinity,5996.35],"speed":[0,4]},{"in":[5996.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34728-12').registerPositionScrollEffect([{"in":[-Infinity,6242.35],"speed":[0,2.5]},{"in":[6242.35,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u34734-12').registerPositionScrollEffect([{"in":[-Infinity,6645.35],"speed":[0,3.3]},{"in":[6645.35,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34740-12').registerPositionScrollEffect([{"in":[-Infinity,6086.35],"speed":[0,3]},{"in":[6086.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34746-12').registerPositionScrollEffect([{"in":[-Infinity,5876.35],"speed":[0,3.3]},{"in":[5876.35,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34764-12').registerPositionScrollEffect([{"in":[-Infinity,5715.35],"speed":[0,2.5]},{"in":[5715.35,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34770-12').registerPositionScrollEffect([{"in":[-Infinity,5755.35],"speed":[0,1.5]},{"in":[5755.35,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34776-12').registerPositionScrollEffect([{"in":[-Infinity,6017.35],"speed":[0,1.5]},{"in":[6017.35,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34782-12').registerPositionScrollEffect([{"in":[-Infinity,6388.35],"speed":[0,5]},{"in":[6388.35,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34788-12').registerPositionScrollEffect([{"in":[-Infinity,6141.35],"speed":[0,1.5]},{"in":[6141.35,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u34794-12').registerPositionScrollEffect([{"in":[-Infinity,6393.35],"speed":[0,4]},{"in":[6393.35,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u34800-12').registerPositionScrollEffect([{"in":[-Infinity,6745.35],"speed":[0,4]},{"in":[6745.35,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34806-12').registerPositionScrollEffect([{"in":[-Infinity,7167.25],"speed":[0,1.5]},{"in":[7167.25,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u39119-12').registerPositionScrollEffect([{"in":[-Infinity,6664.35],"speed":[0,4]},{"in":[6664.35,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u70042').registerPositionScrollEffect([{"in":[-Infinity,3987.05],"speed":[0,1.5]},{"in":[3987.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u70009').registerPositionScrollEffect([{"in":[-Infinity,4179.05],"speed":[0,1.5]},{"in":[4179.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69965').registerPositionScrollEffect([{"in":[-Infinity,4173.05],"speed":[0,1.5]},{"in":[4173.05,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u69932').registerPositionScrollEffect([{"in":[-Infinity,5099.05],"speed":[0,1.5]},{"in":[5099.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69854').registerPositionScrollEffect([{"in":[-Infinity,5334.05],"speed":[0,2]},{"in":[5334.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69954').registerPositionScrollEffect([{"in":[-Infinity,5492.1],"speed":[0,1.5]},{"in":[5492.1,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u70064').registerPositionScrollEffect([{"in":[-Infinity,3947.05],"speed":[0,2.5]},{"in":[3947.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69998').registerPositionScrollEffect([{"in":[-Infinity,4474.05],"speed":[0,2.5]},{"in":[4474.05,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u69987').registerPositionScrollEffect([{"in":[-Infinity,5283.05],"speed":[0,2.5]},{"in":[5283.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69877').registerPositionScrollEffect([{"in":[-Infinity,4942.05],"speed":[0,3.5]},{"in":[4942.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69866').registerPositionScrollEffect([{"in":[-Infinity,5491.05],"speed":[0,2.5]},{"in":[5491.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u70053').registerPositionScrollEffect([{"in":[-Infinity,4138.05],"speed":[0,4]},{"in":[4138.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u70020').registerPositionScrollEffect([{"in":[-Infinity,4400.05],"speed":[0,5]},{"in":[4400.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69910').registerPositionScrollEffect([{"in":[-Infinity,4696.05],"speed":[0,4]},{"in":[4696.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u69888').registerPositionScrollEffect([{"in":[-Infinity,5062.05],"speed":[0,2]},{"in":[5062.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u70075').registerPositionScrollEffect([{"in":[-Infinity,4068.05],"speed":[0,3.3]},{"in":[4068.05,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u69943').registerPositionScrollEffect([{"in":[-Infinity,4607.05],"speed":[0,3.3]},{"in":[4607.05,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u70031').registerPositionScrollEffect([{"in":[-Infinity,4318.05],"speed":[0,3]},{"in":[4318.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u69976').registerPositionScrollEffect([{"in":[-Infinity,4425.05],"speed":[0,4]},{"in":[4425.05,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u69921').registerPositionScrollEffect([{"in":[-Infinity,4777.05],"speed":[0,4]},{"in":[4777.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u69899').registerPositionScrollEffect([{"in":[-Infinity,5383.05],"speed":[0,3]},{"in":[5383.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34530-12').registerPositionScrollEffect([{"in":[-Infinity,4179.05],"speed":[0,1.5]},{"in":[4179.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34566-12').registerPositionScrollEffect([{"in":[-Infinity,4138.05],"speed":[0,4]},{"in":[4138.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34572-12').registerPositionScrollEffect([{"in":[-Infinity,4068.05],"speed":[0,3.3]},{"in":[4068.05,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34578-12').registerPositionScrollEffect([{"in":[-Infinity,3947.05],"speed":[0,2.5]},{"in":[3947.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34584-12').registerPositionScrollEffect([{"in":[-Infinity,4318.05],"speed":[0,3]},{"in":[4318.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34590-12').registerPositionScrollEffect([{"in":[-Infinity,4607.05],"speed":[0,3.3]},{"in":[4607.05,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34602-12').registerPositionScrollEffect([{"in":[-Infinity,3987.05],"speed":[0,1.5]},{"in":[3987.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34614-12').registerPositionScrollEffect([{"in":[-Infinity,4173.05],"speed":[0,1.5]},{"in":[4173.05,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u34620-12').registerPositionScrollEffect([{"in":[-Infinity,4400.05],"speed":[0,5]},{"in":[4400.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34632-12').registerPositionScrollEffect([{"in":[-Infinity,4474.05],"speed":[0,2.5]},{"in":[4474.05,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u34638-12').registerPositionScrollEffect([{"in":[-Infinity,4425.05],"speed":[0,4]},{"in":[4425.05,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u34644-12').registerPositionScrollEffect([{"in":[-Infinity,5099.05],"speed":[0,1.5]},{"in":[5099.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34656-12').registerPositionScrollEffect([{"in":[-Infinity,5062.05],"speed":[0,2]},{"in":[5062.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34662-12').registerPositionScrollEffect([{"in":[-Infinity,4696.05],"speed":[0,4]},{"in":[4696.05,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34668-12').registerPositionScrollEffect([{"in":[-Infinity,4777.05],"speed":[0,4]},{"in":[4777.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34674-12').registerPositionScrollEffect([{"in":[-Infinity,5283.05],"speed":[0,2.5]},{"in":[5283.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34686-12').registerPositionScrollEffect([{"in":[-Infinity,5383.05],"speed":[0,3]},{"in":[5383.05,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34692-12').registerPositionScrollEffect([{"in":[-Infinity,4942.05],"speed":[0,3.5]},{"in":[4942.05,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34704-12').registerPositionScrollEffect([{"in":[-Infinity,5492.1],"speed":[0,1.5]},{"in":[5492.1,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34716-12').registerPositionScrollEffect([{"in":[-Infinity,5334.05],"speed":[0,2]},{"in":[5334.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34710-12').registerPositionScrollEffect([{"in":[-Infinity,5491.05],"speed":[0,2.5]},{"in":[5491.05,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69410').registerPositionScrollEffect([{"in":[-Infinity,2099.9],"speed":[0,1.5]},{"in":[2099.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69388').registerPositionScrollEffect([{"in":[-Infinity,2211.9],"speed":[0,1.5]},{"in":[2211.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69355').registerPositionScrollEffect([{"in":[-Infinity,2485.9],"speed":[0,1.5]},{"in":[2485.9,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u69311').registerPositionScrollEffect([{"in":[-Infinity,3371.9],"speed":[0,1.5]},{"in":[3371.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69211').registerPositionScrollEffect([{"in":[-Infinity,3636.9],"speed":[0,2]},{"in":[3636.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69278').registerPositionScrollEffect([{"in":[-Infinity,3668.9],"speed":[0,1.5]},{"in":[3668.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69432').registerPositionScrollEffect([{"in":[-Infinity,2059.9],"speed":[0,2.5]},{"in":[2059.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69366').registerPositionScrollEffect([{"in":[-Infinity,2586.9],"speed":[0,2.5]},{"in":[2586.9,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u69344').registerPositionScrollEffect([{"in":[-Infinity,3485.9],"speed":[0,2.5]},{"in":[3485.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69267').registerPositionScrollEffect([{"in":[-Infinity,3314.9],"speed":[0,3.5]},{"in":[3314.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u69256').registerPositionScrollEffect([{"in":[-Infinity,3783.9],"speed":[0,2.5]},{"in":[3783.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69399').registerPositionScrollEffect([{"in":[-Infinity,2370.9],"speed":[0,4]},{"in":[2370.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u69289').registerPositionScrollEffect([{"in":[-Infinity,2732.9],"speed":[0,5]},{"in":[2732.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u69245').registerPositionScrollEffect([{"in":[-Infinity,2970.9],"speed":[0,4]},{"in":[2970.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u69223').registerPositionScrollEffect([{"in":[-Infinity,3264.9],"speed":[0,2]},{"in":[3264.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u69421').registerPositionScrollEffect([{"in":[-Infinity,2220.9],"speed":[0,3.3]},{"in":[2220.9,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u69322').registerPositionScrollEffect([{"in":[-Infinity,2879.9],"speed":[0,3.3]},{"in":[2879.9,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u69377').registerPositionScrollEffect([{"in":[-Infinity,2470.9],"speed":[0,3]},{"in":[2470.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u69333').registerPositionScrollEffect([{"in":[-Infinity,2542.9],"speed":[0,4]},{"in":[2542.9,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u69300').registerPositionScrollEffect([{"in":[-Infinity,2969.9],"speed":[0,4]},{"in":[2969.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u69234').registerPositionScrollEffect([{"in":[-Infinity,3505.9],"speed":[0,3]},{"in":[3505.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34428-12').registerPositionScrollEffect([{"in":[-Infinity,2099.9],"speed":[0,1.5]},{"in":[2099.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34434-12').registerPositionScrollEffect([{"in":[-Infinity,2220.9],"speed":[0,3.3]},{"in":[2220.9,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34440-12').registerPositionScrollEffect([{"in":[-Infinity,2059.9],"speed":[0,2.5]},{"in":[2059.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34446-12').registerPositionScrollEffect([{"in":[-Infinity,2470.9],"speed":[0,3]},{"in":[2470.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34452-12').registerPositionScrollEffect([{"in":[-Infinity,2586.9],"speed":[0,2.5]},{"in":[2586.9,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u34458-12').registerPositionScrollEffect([{"in":[-Infinity,2370.9],"speed":[0,4]},{"in":[2370.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34464-12').registerPositionScrollEffect([{"in":[-Infinity,2211.9],"speed":[0,1.5]},{"in":[2211.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34470-12').registerPositionScrollEffect([{"in":[-Infinity,2732.9],"speed":[0,5]},{"in":[2732.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34476-12').registerPositionScrollEffect([{"in":[-Infinity,2485.9],"speed":[0,1.5]},{"in":[2485.9,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u34482-12').registerPositionScrollEffect([{"in":[-Infinity,2542.9],"speed":[0,4]},{"in":[2542.9,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u34488-12').registerPositionScrollEffect([{"in":[-Infinity,2969.9],"speed":[0,4]},{"in":[2969.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34494-12').registerPositionScrollEffect([{"in":[-Infinity,3371.9],"speed":[0,1.5]},{"in":[3371.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34500-12').registerPositionScrollEffect([{"in":[-Infinity,2879.9],"speed":[0,3.3]},{"in":[2879.9,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34506-12').registerPositionScrollEffect([{"in":[-Infinity,3783.9],"speed":[0,2.5]},{"in":[3783.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34512-12').registerPositionScrollEffect([{"in":[-Infinity,3485.9],"speed":[0,2.5]},{"in":[3485.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34518-12').registerPositionScrollEffect([{"in":[-Infinity,2970.9],"speed":[0,4]},{"in":[2970.9,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34524-12').registerPositionScrollEffect([{"in":[-Infinity,3505.9],"speed":[0,3]},{"in":[3505.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34536-12').registerPositionScrollEffect([{"in":[-Infinity,3264.9],"speed":[0,2]},{"in":[3264.9,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34542-12').registerPositionScrollEffect([{"in":[-Infinity,3314.9],"speed":[0,3.5]},{"in":[3314.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34548-8').registerPositionScrollEffect([{"in":[-Infinity,3668.9],"speed":[0,1.5]},{"in":[3668.9,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34560-12').registerPositionScrollEffect([{"in":[-Infinity,3636.9],"speed":[0,2]},{"in":[3636.9,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31842').registerPositionScrollEffect([{"in":[-Infinity,-28.8],"speed":[0,1.5]},{"in":[-28.8,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u31871').registerPositionScrollEffect([{"in":[-Infinity,83],"speed":[0,1.5]},{"in":[83,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u31899').registerPositionScrollEffect([{"in":[-Infinity,387],"speed":[0,1.5]},{"in":[387,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u31967').registerPositionScrollEffect([{"in":[-Infinity,1353],"speed":[0,1.5]},{"in":[1353,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31981').registerPositionScrollEffect([{"in":[-Infinity,1667.75],"speed":[0,2]},{"in":[1667.75,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u32002').registerPositionScrollEffect([{"in":[-Infinity,1720],"speed":[0,1.5]},{"in":[1720,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u31850').registerPositionScrollEffect([{"in":[-Infinity,-68.4],"speed":[0,2.5]},{"in":[-68.4,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31892').registerPositionScrollEffect([{"in":[-Infinity,408],"speed":[0,2.5]},{"in":[408,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u31974').registerPositionScrollEffect([{"in":[-Infinity,1467],"speed":[0,2.5]},{"in":[1467,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31988').registerPositionScrollEffect([{"in":[-Infinity,1276],"speed":[0,3.5]},{"in":[1276,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u32016').registerPositionScrollEffect([{"in":[-Infinity,1805],"speed":[0,2.5]},{"in":[1805,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31857').registerPositionScrollEffect([{"in":[-Infinity,242],"speed":[0,4]},{"in":[242,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u31885').registerPositionScrollEffect([{"in":[-Infinity,604],"speed":[0,5]},{"in":[604,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u31952').registerPositionScrollEffect([{"in":[-Infinity,952.55],"speed":[0,4]},{"in":[952.55,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u31995').registerPositionScrollEffect([{"in":[-Infinity,1246.4],"speed":[0,2]},{"in":[1246.4,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u31864').registerPositionScrollEffect([{"in":[-Infinity,92.05],"speed":[0,3.3]},{"in":[92.05,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u31913').registerPositionScrollEffect([{"in":[-Infinity,821],"speed":[0,3.3]},{"in":[821,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u31878').registerPositionScrollEffect([{"in":[-Infinity,342],"speed":[0,3]},{"in":[342,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u31906').registerPositionScrollEffect([{"in":[-Infinity,534],"speed":[0,4]},{"in":[534,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u31960').registerPositionScrollEffect([{"in":[-Infinity,1031],"speed":[0,4]},{"in":[1031,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u32009').registerPositionScrollEffect([{"in":[-Infinity,1567],"speed":[0,3]},{"in":[1567,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34301-12').registerPositionScrollEffect([{"in":[-Infinity,-29],"speed":[0,1.5]},{"in":[-29,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34309-12').registerPositionScrollEffect([{"in":[-Infinity,-68.4],"speed":[0,2.5]},{"in":[-68.4,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34317-12').registerPositionScrollEffect([{"in":[-Infinity,242],"speed":[0,4]},{"in":[242,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34320-12').registerPositionScrollEffect([{"in":[-Infinity,91.9],"speed":[0,3.3]},{"in":[91.9,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34326-12').registerPositionScrollEffect([{"in":[-Infinity,83],"speed":[0,1.5]},{"in":[83,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34332-12').registerPositionScrollEffect([{"in":[-Infinity,342],"speed":[0,3]},{"in":[342,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34338-12').registerPositionScrollEffect([{"in":[-Infinity,604],"speed":[0,5]},{"in":[604,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34344-12').registerPositionScrollEffect([{"in":[-Infinity,408],"speed":[0,2.5]},{"in":[408,Infinity],"speed":[0,1.5]}], $(this)); /* scroll effect */
+$('#u34350-12').registerPositionScrollEffect([{"in":[-Infinity,356],"speed":[0,1.5]},{"in":[356,Infinity],"speed":[0,3.5]}], $(this)); /* scroll effect */
+$('#u34356-12').registerPositionScrollEffect([{"in":[-Infinity,534],"speed":[0,4]},{"in":[534,Infinity],"speed":[0,1.2]}], $(this)); /* scroll effect */
+$('#u34362-12').registerPositionScrollEffect([{"in":[-Infinity,821],"speed":[0,3.3]},{"in":[821,Infinity],"speed":[0,3.3]}], $(this)); /* scroll effect */
+$('#u34368-12').registerPositionScrollEffect([{"in":[-Infinity,952.55],"speed":[0,4]},{"in":[952.55,Infinity],"speed":[0,2.5]}], $(this)); /* scroll effect */
+$('#u34374-12').registerPositionScrollEffect([{"in":[-Infinity,1031],"speed":[0,4]},{"in":[1031,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34380-12').registerPositionScrollEffect([{"in":[-Infinity,1353],"speed":[0,1.5]},{"in":[1353,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34386-12').registerPositionScrollEffect([{"in":[-Infinity,1467],"speed":[0,2.5]},{"in":[1467,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34392-12').registerPositionScrollEffect([{"in":[-Infinity,1667.75],"speed":[0,2]},{"in":[1667.75,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
+$('#u34398-12').registerPositionScrollEffect([{"in":[-Infinity,1276],"speed":[0,3.5]},{"in":[1276,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34404-12').registerPositionScrollEffect([{"in":[-Infinity,1246.4],"speed":[0,2]},{"in":[1246.4,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34410-12').registerPositionScrollEffect([{"in":[-Infinity,1720],"speed":[0,1.5]},{"in":[1720,Infinity],"speed":[0,2]}], $(this)); /* scroll effect */
+$('#u34416-12').registerPositionScrollEffect([{"in":[-Infinity,1567],"speed":[0,3]},{"in":[1567,Infinity],"speed":[0,4]}], $(this)); /* scroll effect */
+$('#u34422-12').registerPositionScrollEffect([{"in":[-Infinity,1805],"speed":[0,2.5]},{"in":[1805,Infinity],"speed":[0,3]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
