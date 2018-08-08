@@ -18,8 +18,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>WORKPLACE 4</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=64334674"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-gabarit.css?crc=4266700710"/>
-  <link rel="stylesheet" type="text/css" href="css/workplace-4.css?crc=3934235886" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-gabarit.css?crc=4264144921"/>
+  <link rel="stylesheet" type="text/css" href="css/workplace-4.css?crc=4069076480" id="pagesheet"/>
     <!--/*
 
 */
@@ -29,21 +29,33 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu123221-6"><!-- column -->
-    <div class="clearfix colelem" id="u123221-6" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content -->
-     <p>mens sana in</p>
-     <p>corpore sano</p>
+    <div class="browser_width colelem" id="u123221-6-bw">
+     <div class="clearfix" id="u123221-6" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p>mens sana in</p>
+      <p>corpore sano</p>
+     </div>
     </div>
-    <div class="clearfix colelem" id="u123222-5" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content -->
-     <p id="u123222-2">visibilité x intimité</p>
-     <p id="u123222-3">&nbsp;</p>
+    <div class="browser_width colelem" id="u123222-5-bw">
+     <div class="clearfix" id="u123222-5" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+      <p id="u123222-2">visibilité x intimité</p>
+      <p id="u123222-3">&nbsp;</p>
+     </div>
     </div>
-    <a class="nonblock nontext TITRE1 clearfix colelem" id="u122829-4" href="plan-4.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content --><p class="TITRE" id="u122829-2">PLAN</p></a>
-    <a class="nonblock nontext TITRE1 clearfix colelem" id="u122830-4" href="render-4.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content --><p class="TITRE" id="u122830-2">RENDER</p></a>
-    <a class="nonblock nontext TITRE1 clearfix colelem" id="u122832-4" href="text-4.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content --><p class="TITRE" id="u122832-2">TEXT (fr)</p></a>
-    <a class="nonblock nontext TITRE1 clearfix colelem" id="u122831-4" href="iot-4.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu123221-6"><!-- content --><p class="TITRE" id="u122831-2">IoT</p></a>
+    <div class="browser_width colelem" id="u122829-4-bw">
+     <a class="nonblock nontext TITRE1 clearfix" id="u122829-4" href="plan-4.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="TITRE" id="u122829-2">PLAN</p></a>
+    </div>
+    <div class="browser_width colelem" id="u122830-4-bw">
+     <a class="nonblock nontext TITRE1 clearfix" id="u122830-4" href="render-4.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="TITRE" id="u122830-2">RENDER</p></a>
+    </div>
+    <div class="browser_width colelem" id="u122832-4-bw">
+     <a class="nonblock nontext TITRE1 clearfix" id="u122832-4" href="text-4.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="TITRE" id="u122832-2">TEXT (fr)</p></a>
+    </div>
+    <div class="browser_width colelem" id="u122831-4-bw">
+     <a class="nonblock nontext TITRE1 clearfix" id="u122831-4" href="iot-4.html" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="TITRE" id="u122831-2">IoT</p></a>
+    </div>
    </div>
    <div class="verticalspacer" data-offset-top="384" data-content-above-spacer="384" data-content-below-spacer="42" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
-   <a class="nonblock nontext clearfix grpelem" id="u122525-4" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p>@home</p></a>
+   <a class="nonblock nontext clearfix grpelem" id="u122525-4" href="12-ideal-offices.html" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --><p>12 IDEAL OFFICES</p></a>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -60,6 +72,8 @@ var muse_init=function(){require.config({baseUrl:"../"});require(["jquery","muse
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

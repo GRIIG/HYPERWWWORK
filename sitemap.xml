@@ -2,84 +2,385 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hyperwwwork.life/index.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/index.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-6.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-6.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-6.html"/>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/06_melomind.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06791x791.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/tribal%20gif.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/plan-6.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://hyperwwwork.life/phone/iot-8.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-6.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06319x319.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/publi.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <loc>http://hyperwwwork.life/phone/plan-9.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/publi.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/publi.html"/>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/iot-12.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://hyperwwwork.life/phone/render-9.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-12.html"/>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/publications.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/publications.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/publications.html"/>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/tablet/70-historical-offices.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/70-historical-offices.html"/>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-1.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-1.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-1.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-1.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-2.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-2.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-2.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-2.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-3.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-3.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-3.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-3.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-4.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-4.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-4.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-4.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-5.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-5.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-5.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-5.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-7.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-7.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-7.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-7.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-8.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-8.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-8.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-12.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-12.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-12.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-12.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/12_zht.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness289x186.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness236x152.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness-crop-u56038.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/biblio.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <loc>http://hyperwwwork.life/bibliography.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/biblio.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/biblio.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/bibliography.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/bibliography.html"/>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/70-historical-offices.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <loc>http://hyperwwwork.life/phone/text-9.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/70-historical-offices.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/70-historical-offices.html"/>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-9.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-10.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-10.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-10.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-10.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-11.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-11.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-11.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/iot-11.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/plan-12.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/render-12.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/phone/text-12.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-10.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-10.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-10.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/10_selfedu.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/10_mother.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/10.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/workplace-11.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-11.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-11.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/11_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/11_bolt%20lockitron.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/11.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/70-historial-offices.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/180425_plans-final-3-copie_plan-de-travail-1.svg</image:loc>
     </image:image>
@@ -245,7 +546,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/100-iot.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/100-iot.html"/>
@@ -488,7 +789,7 @@
       <image:loc>http://hyperwwwork.life/images/11_nuki%20smart%20lock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/25_niu%20nodon-crop-u32044.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/25_niu%20nodon-crop-u153791.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/31_parrot%20pot199x199.png</image:loc>
@@ -499,18 +800,15 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/abstract.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/abstract.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/abstract.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/180731_matrice_plan-de-travail-1.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/about.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/about.html"/>
@@ -518,7 +816,7 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/downloads.html</loc>
-    <lastmod>2018-08-06</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/downloads.html"/>
@@ -526,24 +824,24 @@
   </url>
   <url>
     <loc>http://hyperwwwork.life/worplace-3.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/worplace-3.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/worplace-3.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/03_alexa.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/03_alexa.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/03.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03791x791.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/12-ideal-offices.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/12-ideal-offices.html"/>
@@ -586,211 +884,55 @@
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/plan-3.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-3.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-3.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-3.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03_alexa.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03_alexa594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03_alexa443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-3.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-3.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-3.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-3.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03_alexa.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/03_alexa242x242.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-2.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-2.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-2.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-2.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_corridoor.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_corridoor594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_corridoor443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-2.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-2.html"/>
-  </url>
-  <url>
     <loc>http://hyperwwwork.life/workplace-2.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-2.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-2.html"/>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/02.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/02_corridoor.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_foam287x249.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02-crop-u79261.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_foam285x247.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/02791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-2.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-2.html"/>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/02_foam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/02_foam276x238.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/02-crop-u79261.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-1.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-1.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-1.html"/>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/01.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01_flex%20fitbit260x260.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01_flex%20fitbit.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-1.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-1.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01425x425.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-1.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-1.html"/>
-    <image:image>
       <image:loc>http://hyperwwwork.life/images/01_fitness_manager.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/01_fitness_manager594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/01_fitness_manager443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-1.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-1.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-1.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-1.html"/>
-    <image:image>
       <image:loc>http://hyperwwwork.life/images/01_flex%20fitbit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/01_flex%20fitbit258x258.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/01771x771.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-4.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-4.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-4.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/04_toilettes.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/04_msics.png</image:loc>
     </image:image>
@@ -798,587 +940,111 @@
       <image:loc>http://hyperwwwork.life/images/04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/04_msics231x231.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04792x792.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-4.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-4.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-4.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-4.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04_toilettes.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04_toilettes594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04_toilettes443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-4.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-4.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-4.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-4.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/04_msics.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/04769x769.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-5.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-5.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-5.html"/>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05_philips270x270.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05_philips272x272.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-5.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-5.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-5.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-5.html"/>
-    <image:image>
       <image:loc>http://hyperwwwork.life/images/05_souvenirs.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05_souvenirs594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/05_souvenirs443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-5.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-5.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-5.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-5.html"/>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/05_philips.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/05_philips288x288.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/05761x761.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/render-9.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://hyperwwwork.life/workplace-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-9.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09_aboutblankspace.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09_aboutblankspace594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09_aboutblankspace443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-9.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-9.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-6.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-6.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-6.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-6.html"/>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/06_pleine_conscience.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/06_pleine_conscience594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/06_pleine_conscience443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-6.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-6.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-6.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-6.html"/>
-    <image:image>
       <image:loc>http://hyperwwwork.life/images/06_melomind.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/06_melomind263x250.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/06.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-7.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-7.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-7.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/07_token.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/07_tokenarchy.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/07.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-7.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-7.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-7.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-7.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07_token.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07_token594x595.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07_token443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-7.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-7.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-7.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-7.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07_tokenarchy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/07_tokenarchy288x288.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-8.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-8.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-8.html"/>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/08.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_hololens313x124.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_hololens288x114.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-8.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-8.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-8.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-8.html"/>
-    <image:image>
       <image:loc>http://hyperwwwork.life/images/08_publicspace.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_publicspace594x594.jpg</image:loc>
+      <image:loc>http://hyperwwwork.life/images/08_hololens.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_publicspace443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-8.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-8.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-8.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-8.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_hololens334x133.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/08_hololens243x97.png</image:loc>
+      <image:loc>http://hyperwwwork.life/images/08.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/workplace-9.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-9.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-9.html"/>
+    <image:image>
+      <image:loc>http://hyperwwwork.life/images/09_aboutblankspace.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/09_aboutblank.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://hyperwwwork.life/images/09.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09791x791.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/render-12.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_%C3%A9cosyst%C3%A8me-des-espaces-de-travail.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-12.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_zht.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_zht594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_zht443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-12.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-12.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-9.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-9.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-9.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-9.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09_aboutblank.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/09_aboutblank254x232.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-10.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-10.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-10.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_mother169x247.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_mother167x245.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-10.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-10.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-10.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-10.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_selfedu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_selfedu594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_selfedu443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-10.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-10.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-10.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-10.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_mother.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/10_mother197x289.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-11.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-11.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-11.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_bolt%20lockitron255x268.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_bolt%20lockitron225x236.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11791x791.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-11.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-11.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11319x319.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/render-11.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/render-11.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_home594x594.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_home443x443.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/text-11.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/text-11.html"/>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/iot-11.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/iot-11.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_bolt%20lockitron.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/11_bolt%20lockitron262x276.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/workplace-12.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/workplace-12.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://hyperwwwork.life/tablet/workplace-12.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness354x229.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12791x791.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12_hitachi%20buisness-crop-u56038.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/plan-12.html</loc>
-    <lastmod>2018-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hyperwwwork.life/phone/plan-12.html"/>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12588x588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12426x426.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://hyperwwwork.life/images/12319x319.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://hyperwwwork.life/assets/hyperwwwork_%C3%A9tat-du-travail-en-france-2017.pdf</loc>
+    <lastmod>2018-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://hyperwwwork.life/assets/hyperwwwork_g%C3%A9n%C3%A9alogie-des-espaces-de-travail.pdf</loc>
     <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1390,19 +1056,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://hyperwwwork.life/assets/hyperwwwork_%C3%A9cosyst%C3%A8me-des-espaces-de-travail.pdf</loc>
-    <lastmod>2018-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://hyperwwwork.life/assets/hyperwwwork_internet-des-objets.pdf</loc>
-    <lastmod>2018-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://hyperwwwork.life/assets/hyperwwwork_g%C3%A9n%C3%A9alogie-des-espaces-de-travail.pdf</loc>
     <lastmod>2018-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
