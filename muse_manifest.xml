@@ -1,43 +1,43 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1533832244869">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1533895346843">
   <folder name="css">
     <file name="site_global.css" crc="64334674"/>
-    <file name="workplace-4.css" crc="332091947" ref="workplace-4"/>
-    <file name="nomq_workplace-4.css" crc="4073075897" ref="workplace-4"/>
-    <file name="workplace-5.css" crc="4244699712" ref="workplace-5"/>
-    <file name="nomq_workplace-5.css" crc="4036708831" ref="workplace-5"/>
-    <file name="workplace-7.css" crc="276296364" ref="workplace-7"/>
-    <file name="nomq_workplace-7.css" crc="4196824696" ref="workplace-7"/>
-    <file name="workplace-6.css" crc="4148555190" ref="workplace-6"/>
-    <file name="nomq_workplace-6.css" crc="4015473125" ref="workplace-6"/>
-    <file name="workplace-8.css" crc="454824447" ref="workplace-8"/>
-    <file name="nomq_workplace-8.css" crc="397513904" ref="workplace-8"/>
-    <file name="workplace-9.css" crc="4163256569" ref="workplace-9"/>
-    <file name="nomq_workplace-9.css" crc="4134370901" ref="workplace-9"/>
-    <file name="workplace-10.css" crc="3918979375" ref="workplace-10"/>
-    <file name="nomq_workplace-10.css" crc="3965012285" ref="workplace-10"/>
-    <file name="workplace-11.css" crc="483255754" ref="workplace-11"/>
-    <file name="nomq_workplace-11.css" crc="193349321" ref="workplace-11"/>
-    <file name="workplace-12.css" crc="4006899770" ref="workplace-12"/>
-    <file name="nomq_workplace-12.css" crc="3935609392" ref="workplace-12"/>
-    <file name="publications.css" crc="394697351" ref="publications"/>
-    <file name="70-historial-offices.css" crc="446704862" ref="70-historial-offices"/>
-    <file name="bibliography.css" crc="143757077" ref="bibliography"/>
-    <file name="nomq_bibliography.css" crc="64280762" ref="bibliography"/>
-    <file name="100-iot.css" crc="231076905" ref="100-iot"/>
+    <file name="100-iot.css" crc="3982839796" ref="100-iot"/>
     <file name="nomq_100-iot.css" crc="301219414" ref="100-iot"/>
-    <file name="abstract.css" crc="3995249698" ref="abstract"/>
-    <file name="about.css" crc="4104644110" ref="about"/>
-    <file name="downloads.css" crc="4274319634" ref="downloads"/>
-    <file name="nomq_downloads.css" crc="4143279659" ref="downloads"/>
+    <file name="abstract.css" crc="460646513" ref="abstract"/>
+    <file name="about.css" crc="513157165" ref="about"/>
     <file name="index.css" crc="3775727655" ref="index"/>
-    <file name="worplace-3.css" crc="3845837640" ref="worplace-3"/>
-    <file name="nomq_worplace-3.css" crc="466749244" ref="worplace-3"/>
-    <file name="workplace-2.css" crc="4079587014" ref="workplace-2"/>
-    <file name="nomq_workplace-2.css" crc="3982039562" ref="workplace-2"/>
-    <file name="12-ideal-offices.css" crc="3984761924" ref="12-ideal-offices"/>
+    <file name="downloads.css" crc="4048759265" ref="downloads"/>
+    <file name="nomq_downloads.css" crc="4143279659" ref="downloads"/>
+    <file name="worplace-3.css" crc="524562231" ref="worplace-3"/>
+    <file name="nomq_worplace-3.css" crc="3833812362" ref="worplace-3"/>
+    <file name="workplace-2.css" crc="290140395" ref="workplace-2"/>
+    <file name="nomq_workplace-2.css" crc="4076353228" ref="workplace-2"/>
+    <file name="12-ideal-offices.css" crc="4224398700" ref="12-ideal-offices"/>
     <file name="nomq_12-ideal-offices.css" crc="422787204" ref="12-ideal-offices"/>
-    <file name="workplace-1.css" crc="103969277" ref="workplace-1"/>
-    <file name="nomq_workplace-1.css" crc="347917248" ref="workplace-1"/>
+    <file name="workplace-4.css" crc="3785186156" ref="workplace-4"/>
+    <file name="nomq_workplace-4.css" crc="3859493623" ref="workplace-4"/>
+    <file name="workplace-1.css" crc="323259478" ref="workplace-1"/>
+    <file name="nomq_workplace-1.css" crc="4197226045" ref="workplace-1"/>
+    <file name="workplace-5.css" crc="3874657577" ref="workplace-5"/>
+    <file name="nomq_workplace-5.css" crc="373409810" ref="workplace-5"/>
+    <file name="workplace-6.css" crc="4147902192" ref="workplace-6"/>
+    <file name="nomq_workplace-6.css" crc="3784298883" ref="workplace-6"/>
+    <file name="workplace-7.css" crc="4179771407" ref="workplace-7"/>
+    <file name="nomq_workplace-7.css" crc="4018770024" ref="workplace-7"/>
+    <file name="workplace-8.css" crc="3991773673" ref="workplace-8"/>
+    <file name="nomq_workplace-8.css" crc="389767791" ref="workplace-8"/>
+    <file name="workplace-9.css" crc="333604985" ref="workplace-9"/>
+    <file name="nomq_workplace-9.css" crc="416200543" ref="workplace-9"/>
+    <file name="workplace-10.css" crc="253947834" ref="workplace-10"/>
+    <file name="nomq_workplace-10.css" crc="3826919046" ref="workplace-10"/>
+    <file name="workplace-11.css" crc="183560548" ref="workplace-11"/>
+    <file name="nomq_workplace-11.css" crc="63514994" ref="workplace-11"/>
+    <file name="workplace-12.css" crc="216335120" ref="workplace-12"/>
+    <file name="nomq_workplace-12.css" crc="161947169" ref="workplace-12"/>
+    <file name="publications.css" crc="17501173" ref="publications"/>
+    <file name="bibliography.css" crc="4199857574" ref="bibliography"/>
+    <file name="nomq_bibliography.css" crc="64280762" ref="bibliography"/>
+    <file name="70-historial-offices.css" crc="33391349" ref="70-historial-offices"/>
   </folder>
   <folder name="fonts">
     <file name="monarch.woff" crc="125157947"/>
@@ -55,12 +55,12 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="museutils.js" crc="3803043152" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="require.js" crc="4157109226" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="webpro.js" crc="242022427" ref="phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="tablet>index:tablet>abstract:tablet>12-ideal-offices:100-iot:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:bibliography"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="tablet>index:tablet>12-ideal-offices:100-iot:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:bibliography"/>
     <file name="musewpslideshow.js" crc="457073769" ref="tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
     <file name="touchswipe.js" crc="4066113679" ref="tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
@@ -74,327 +74,327 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="180425_plans-final-3-copie_plan-de-travail-1.svg" crc="394139050" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1_poster_.png" crc="264827080" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie.svg" crc="525410940" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie_poster_.png" crc="3945209386" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-2.svg" crc="89009695" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 2_poster_.png" crc="4082690463" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-3.svg" crc="262819738" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 3_poster_.png" crc="4035702667" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-5.svg" crc="4281619568" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 5_poster_.png" crc="363183597" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-4.svg" crc="214453775" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 4_poster_.png" crc="413784671" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-6.svg" crc="4091520978" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 6_poster_.png" crc="530810936" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-7.svg" crc="4219740671" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 7_poster_.png" crc="391498234" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-8.svg" crc="4006347770" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 8_poster_.png" crc="232857502" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-9.svg" crc="147289247" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 9_poster_.png" crc="225706243" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-10.svg" crc="323229104" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 10_poster_.png" crc="319379808" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-11.svg" crc="3969116100" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 11_poster_.png" crc="3791904481" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-12.svg" crc="346013280" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 12_poster_.png" crc="3992749437" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-13.svg" crc="274913414" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 13_poster_.png" crc="4003976327" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-14.svg" crc="4289127250" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 14_poster_.png" crc="146765567" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-15.svg" crc="4162294805" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 15_poster_.png" crc="288849640" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-16.svg" crc="4213822580" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 16_poster_.png" crc="3794846726" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-17.svg" crc="3796358269" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 17_poster_.png" crc="4184224719" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-18.svg" crc="523316690" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 18_poster_.png" crc="271981702" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-19.svg" crc="4169982235" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 19_poster_.png" crc="3782947692" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-20.svg" crc="264518143" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 20_poster_.png" crc="4093438940" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-21.svg" crc="517323072" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 21_poster_.png" crc="4128451948" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-22.svg" crc="4154414998" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 22_poster_.png" crc="3966202148" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-23.svg" crc="4184293861" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 23_poster_.png" crc="4201834367" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-24.svg" crc="38349900" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 24_poster_.png" crc="4277303763" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-25.svg" crc="24985420" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 25_poster_.png" crc="502732356" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-26.svg" crc="149504180" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 26_poster_.png" crc="485343752" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-27.svg" crc="4135558945" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 27_poster_.png" crc="3952952188" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-28.svg" crc="302783126" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 28_poster_.png" crc="233685132" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-29.svg" crc="158469575" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 29_poster_.png" crc="153131322" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-30.svg" crc="309691840" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 30_poster_.png" crc="371435489" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-31.svg" crc="3830804829" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 31_poster_.png" crc="153135268" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-32.svg" crc="4191079442" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 32_poster_.png" crc="99884844" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-33.svg" crc="152547759" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 33_poster_.png" crc="509060904" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-34.svg" crc="138620206" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 34_poster_.png" crc="3980682997" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-35.svg" crc="3817240032" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 35_poster_.png" crc="527723178" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-36.svg" crc="114932158" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 36_poster_.png" crc="309978149" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-43.svg" crc="4060488005" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 43_poster_.png" crc="173785691" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-51.svg" crc="4191161264" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 51_poster_.png" crc="110921904" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-44.svg" crc="260501168" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 44_poster_.png" crc="3826434305" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-50.svg" crc="3840221356" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 50_poster_.png" crc="222674702" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-37.svg" crc="3932367845" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 37_poster_.png" crc="157109913" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-52.svg" crc="352680316" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 52_poster_.png" crc="4278896550" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-38.svg" crc="454610302" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 38_poster_.png" crc="40263117" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-40.svg" crc="3837306580" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 40_poster_.png" crc="368651612" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-39.svg" crc="3809465359" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 39_poster_.png" crc="27636602" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-46.svg" crc="185390516" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 46_poster_.png" crc="378451106" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-45.svg" crc="3945486148" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 45_poster_.png" crc="394894184" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-54.svg" crc="3892013895" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 54_poster_.png" crc="197167041" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-47.svg" crc="90198167" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 47_poster_.png" crc="174390983" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-48.svg" crc="488207657" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 48_poster_.png" crc="198205458" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-49.svg" crc="358563128" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 49_poster_.png" crc="3846896954" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie_plan-de-travail-1-copie-53.svg" crc="4179029212" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie_plan de travail 1 copie 53_poster_.png" crc="304640796" ref="phone>70-historical-offices"/>
     <file name="180425_plans-final-3-copie-59-copie-01.svg" crc="398736234" seo="true" ref="phone>70-historical-offices:tablet>70-historical-offices:70-historial-offices">
-      <caption webpage="70-historical-offices" alt=""/>
-      <caption webpage="70-historical-offices" alt=""/>
       <caption webpage="70-historial-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
+      <caption webpage="70-historical-offices" alt=""/>
     </file>
     <file name="180425_plans final 3 copie-59 copie-01_poster_.png" crc="4235419382" ref="phone>70-historical-offices"/>
     <file name="01_google home199x245.png" crc="4145345051" seo="true" ref="phone>100-iot">
@@ -868,11 +868,9 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie_plan de travail 1_poster_.png" crc="168571860" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-02.svg" crc="332549668" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
-      <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
@@ -886,11 +884,9 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-03_poster_.png" crc="178843248" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-04.svg" crc="4130926133" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
-      <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
@@ -904,11 +900,9 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-05_poster_.png" crc="4106684911" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-06.svg" crc="4269383238" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
-      <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
@@ -922,11 +916,9 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-07_poster_.png" crc="293482351" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-08.svg" crc="284607078" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
-      <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
@@ -940,11 +932,9 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-09_poster_.png" crc="4215023314" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-10.svg" crc="4108264918" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
-      <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
@@ -958,7 +948,6 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-11_poster_.png" crc="3822952235" ref="phone>12-ideal-offices"/>
     <file name="180719_12-diagrams-web-copie-12.svg" crc="4274390176" seo="true" ref="phone>12-ideal-offices:tablet>12-ideal-offices:12-ideal-offices">
@@ -967,23 +956,22 @@
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
       <caption webpage="12-ideal-offices" alt=""/>
-      <caption webpage="12-ideal-offices" alt=""/>
     </file>
     <file name="180719_12 diagrams web copie-12_poster_.png" crc="3838639818" ref="phone>12-ideal-offices"/>
     <file name="01_fitness_plan-de-travail-1.svg" crc="3907406441" seo="true" ref="phone>plan-1:tablet>workplace-1:workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
       <caption webpage="plan-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
     </file>
     <file name="01_fitness_plan de travail 1_poster_.png" crc="3865783696" ref="phone>plan-1"/>
     <file name="01_fitness_manager.jpg" crc="185583722" seo="true" ref="phone>render-1:tablet>workplace-1:workplace-1">
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
+      <caption webpage="workplace-1" alt=""/>
       <caption webpage="render-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
-      <caption webpage="workplace-1" alt=""/>
     </file>
     <file name="01_flex fitbit199x199.png" crc="3921908892" seo="true" ref="phone>iot-1">
       <caption webpage="iot-1" alt=""/>
@@ -1004,11 +992,11 @@
       <caption webpage="workplace-2" alt=""/>
     </file>
     <file name="02_foam.png" crc="68943903" seo="true" ref="phone>iot-2:tablet>workplace-2:workplace-2">
+      <caption webpage="workplace-2" alt=""/>
+      <caption webpage="workplace-2" alt=""/>
+      <caption webpage="workplace-2" alt=""/>
+      <caption webpage="workplace-2" alt=""/>
       <caption webpage="iot-2" alt=""/>
-      <caption webpage="workplace-2" alt=""/>
-      <caption webpage="workplace-2" alt=""/>
-      <caption webpage="workplace-2" alt=""/>
-      <caption webpage="workplace-2" alt=""/>
     </file>
     <file name="03_alexa-palladio_plan-de-travail-1.svg" crc="292201278" seo="true" ref="phone>plan-3:tablet>worplace-3:worplace-3">
       <caption webpage="worplace-3" alt=""/>
@@ -1044,11 +1032,11 @@
       <caption webpage="render-4" alt=""/>
     </file>
     <file name="04_msics.png" crc="182416798" seo="true" ref="phone>iot-4:tablet>workplace-4:workplace-4">
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
+      <caption webpage="workplace-4" alt=""/>
       <caption webpage="iot-4" alt=""/>
-      <caption webpage="workplace-4" alt=""/>
-      <caption webpage="workplace-4" alt=""/>
-      <caption webpage="workplace-4" alt=""/>
-      <caption webpage="workplace-4" alt=""/>
     </file>
     <file name="05_souvenirs_plan-de-travail-1.svg" crc="4279983713" seo="true" ref="phone>plan-5:tablet>workplace-5:workplace-5">
       <caption webpage="plan-5" alt=""/>
@@ -1059,11 +1047,11 @@
     </file>
     <file name="05_souvenirs_plan de travail 1_poster_.png" crc="410575642" ref="phone>plan-5"/>
     <file name="05_souvenirs.jpg" crc="3799783208" seo="true" ref="phone>render-5:tablet>workplace-5:workplace-5">
+      <caption webpage="workplace-5" alt=""/>
+      <caption webpage="workplace-5" alt=""/>
+      <caption webpage="workplace-5" alt=""/>
+      <caption webpage="workplace-5" alt=""/>
       <caption webpage="render-5" alt=""/>
-      <caption webpage="workplace-5" alt=""/>
-      <caption webpage="workplace-5" alt=""/>
-      <caption webpage="workplace-5" alt=""/>
-      <caption webpage="workplace-5" alt=""/>
     </file>
     <file name="05_philips.png" crc="350042104" seo="true" ref="phone>iot-5:tablet>workplace-5:workplace-5">
       <caption webpage="iot-5" alt=""/>
@@ -1081,11 +1069,11 @@
     </file>
     <file name="06_pleine conscience-01_poster_.png" crc="401643653" ref="phone>plan-6"/>
     <file name="06_pleine_conscience.jpg" crc="280448973" seo="true" ref="phone>render-6:tablet>workplace-6:workplace-6">
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
+      <caption webpage="workplace-6" alt=""/>
       <caption webpage="render-6" alt=""/>
-      <caption webpage="workplace-6" alt=""/>
-      <caption webpage="workplace-6" alt=""/>
-      <caption webpage="workplace-6" alt=""/>
-      <caption webpage="workplace-6" alt=""/>
     </file>
     <file name="06_melomind.png" crc="260423636" seo="true" ref="phone>iot-6:tablet>workplace-6:workplace-6">
       <caption webpage="workplace-6" alt=""/>
@@ -1117,19 +1105,19 @@
       <caption webpage="workplace-7" alt=""/>
     </file>
     <file name="08_space4free_plan-de-travail-1.svg" crc="3993992561" seo="true" ref="phone>plan-8:tablet>workplace-8:workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
       <caption webpage="plan-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
     </file>
     <file name="08_space4free_plan de travail 1_poster_.png" crc="4228647865" ref="phone>plan-8"/>
     <file name="08_publicspace.jpg" crc="3770449497" seo="true" ref="phone>render-8:tablet>workplace-8:workplace-8">
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
+      <caption webpage="workplace-8" alt=""/>
       <caption webpage="render-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
-      <caption webpage="workplace-8" alt=""/>
     </file>
     <file name="08_hololens.png" crc="4266726649" seo="true" ref="phone>iot-8:tablet>workplace-8:workplace-8">
       <caption webpage="iot-8" alt=""/>
@@ -1147,43 +1135,43 @@
     </file>
     <file name="09_about blank_plan de travail 1_poster_.png" crc="4057431404" ref="phone>plan-9"/>
     <file name="09_aboutblankspace.jpg" crc="180589966" seo="true" ref="phone>render-9:tablet>workplace-9:workplace-9">
-      <caption webpage="workplace-9" alt=""/>
-      <caption webpage="workplace-9" alt=""/>
-      <caption webpage="workplace-9" alt=""/>
-      <caption webpage="workplace-9" alt=""/>
       <caption webpage="render-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
+      <caption webpage="workplace-9" alt=""/>
     </file>
     <file name="09_aboutblank208x190.png" crc="3849944769" seo="true" ref="phone>iot-9">
       <caption webpage="iot-9" alt=""/>
     </file>
     <file name="10_self-edu_plan-de-travail-1.svg" crc="355283036" seo="true" ref="phone>plan-10:tablet>workplace-10:workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
       <caption webpage="plan-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
     </file>
     <file name="10_self edu_plan de travail 1_poster_.png" crc="3949594430" ref="phone>plan-10"/>
     <file name="10_selfedu.jpg" crc="22551602" seo="true" ref="phone>render-10:tablet>workplace-10:workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
       <caption webpage="render-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
     </file>
     <file name="10_mother.png" crc="4069088257" seo="true" ref="phone>iot-10:tablet>workplace-10:workplace-10">
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
+      <caption webpage="workplace-10" alt=""/>
       <caption webpage="iot-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
-      <caption webpage="workplace-10" alt=""/>
     </file>
     <file name="11_home_plan-de-travail-1.svg" crc="335038845" seo="true" ref="phone>plan-11:tablet>workplace-11:workplace-11">
-      <caption webpage="workplace-11" alt=""/>
-      <caption webpage="workplace-11" alt=""/>
-      <caption webpage="workplace-11" alt=""/>
-      <caption webpage="workplace-11" alt=""/>
       <caption webpage="plan-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
+      <caption webpage="workplace-11" alt=""/>
     </file>
     <file name="11_home_plan de travail 1_poster_.png" crc="3838480349" ref="phone>plan-11"/>
     <file name="11_home.jpg" crc="3999090466" seo="true" ref="phone>render-11:tablet>workplace-11:workplace-11">
@@ -1209,11 +1197,11 @@
     </file>
     <file name="12_zht_plan de travail 1_poster_.png" crc="479008135" ref="phone>plan-12"/>
     <file name="12_zht.jpg" crc="4036663187" seo="true" ref="phone>render-12:tablet>workplace-12:workplace-12">
-      <caption webpage="workplace-12" alt=""/>
-      <caption webpage="workplace-12" alt=""/>
-      <caption webpage="workplace-12" alt=""/>
-      <caption webpage="workplace-12" alt=""/>
       <caption webpage="render-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
+      <caption webpage="workplace-12" alt=""/>
     </file>
     <file name="12_hitachi buisness.png" crc="260311984" seo="true" ref="phone>iot-12:tablet>workplace-12:workplace-12">
       <caption webpage="iot-12" alt=""/>
@@ -1221,7 +1209,7 @@
       <caption webpage="workplace-12" alt=""/>
       <caption webpage="workplace-12" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>abstract:tablet>12-ideal-offices:100-iot:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:bibliography"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>12-ideal-offices:100-iot:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:bibliography"/>
     <file name="25_niu nodon-crop-u114786.png" crc="3796310138" seo="true" ref="tablet>100-iot">
       <caption webpage="100-iot" alt=""/>
     </file>
@@ -1327,262 +1315,261 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_ab.css" crc="3980163541" ref="tablet>workplace-2:tablet>workplace-10:tablet>workplace-4:tablet>workplace-6:tablet>workplace-5:tablet>workplace-1:tablet>worplace-3:tablet>workplace-11:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-12"/>
-      <file name="nomq_preview_master_ab.css" crc="3824530138" ref="tablet>workplace-2:tablet>workplace-10:tablet>workplace-4:tablet>workplace-6:tablet>workplace-5:tablet>workplace-1:tablet>worplace-3:tablet>workplace-11:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-12"/>
-      <file name="master_a-gabarit.css" crc="280629437" ref="tablet>70-historical-offices:tablet>12-ideal-offices:tablet>publications:tablet>100-iot:tablet>about:tablet>abstract:tablet>downloads:tablet>bibliography"/>
-      <file name="nomq_preview_master_a-gabarit.css" crc="28799171" ref="tablet>70-historical-offices:tablet>12-ideal-offices:tablet>publications:tablet>100-iot:tablet>about:tablet>abstract:tablet>downloads:tablet>bibliography"/>
-      <file name="workplace-2.css" crc="4084400552" ref="tablet>workplace-2"/>
-      <file name="70-historical-offices.css" crc="3990895954" ref="tablet>70-historical-offices"/>
-      <file name="workplace-10.css" crc="264218955" ref="tablet>workplace-10"/>
-      <file name="workplace-4.css" crc="4174970425" ref="tablet>workplace-4"/>
-      <file name="workplace-6.css" crc="383614239" ref="tablet>workplace-6"/>
-      <file name="12-ideal-offices.css" crc="3793827790" ref="tablet>12-ideal-offices"/>
-      <file name="nomq_12-ideal-offices.css" crc="4223593115" ref="tablet>12-ideal-offices"/>
-      <file name="publications.css" crc="453413054" ref="tablet>publications"/>
-      <file name="100-iot.css" crc="44123498" ref="tablet>100-iot"/>
-      <file name="about.css" crc="503669396" ref="tablet>about"/>
-      <file name="abstract.css" crc="399257443" ref="tablet>abstract"/>
-      <file name="nomq_abstract.css" crc="3961520764" ref="tablet>abstract"/>
-      <file name="downloads.css" crc="355576706" ref="tablet>downloads"/>
-      <file name="bibliography.css" crc="4011142801" ref="tablet>bibliography"/>
-      <file name="workplace-5.css" crc="196517183" ref="tablet>workplace-5"/>
-      <file name="workplace-1.css" crc="421006811" ref="tablet>workplace-1"/>
-      <file name="worplace-3.css" crc="267521196" ref="tablet>worplace-3"/>
-      <file name="workplace-11.css" crc="3840348584" ref="tablet>workplace-11"/>
-      <file name="workplace-7.css" crc="376903782" ref="tablet>workplace-7"/>
-      <file name="workplace-8.css" crc="4166638535" ref="tablet>workplace-8"/>
-      <file name="workplace-9.css" crc="4243481806" ref="tablet>workplace-9"/>
-      <file name="workplace-12.css" crc="349304649" ref="tablet>workplace-12"/>
+      <file name="master_a-gabarit.css" crc="117296035" ref="tablet>12-ideal-offices:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>bibliography:tablet>about:tablet>downloads:tablet>publications"/>
+      <file name="nomq_preview_master_a-gabarit.css" crc="24964515" ref="tablet>12-ideal-offices:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>bibliography:tablet>about:tablet>downloads:tablet>publications"/>
+      <file name="master_ab.css" crc="4102785690" ref="tablet>workplace-12:tablet>workplace-11:tablet>workplace-5:tablet>workplace-4:tablet>worplace-3:tablet>workplace-6:tablet>workplace-8:tablet>workplace-9:tablet>workplace-2:tablet>workplace-1:tablet>workplace-7:tablet>workplace-10"/>
+      <file name="nomq_preview_master_ab.css" crc="3824530138" ref="tablet>workplace-12:tablet>workplace-11:tablet>workplace-5:tablet>workplace-4:tablet>worplace-3:tablet>workplace-6:tablet>workplace-8:tablet>workplace-9:tablet>workplace-2:tablet>workplace-1:tablet>workplace-7:tablet>workplace-10"/>
+      <file name="workplace-12.css" crc="297278812" ref="tablet>workplace-12"/>
       <file name="nomq_workplace-12.css" crc="3824530138" ref="tablet>workplace-12"/>
-      <file name="index.css" crc="494878487" ref="tablet>index"/>
+      <file name="workplace-11.css" crc="324784627" ref="tablet>workplace-11"/>
+      <file name="workplace-5.css" crc="448053433" ref="tablet>workplace-5"/>
+      <file name="workplace-4.css" crc="3906272863" ref="tablet>workplace-4"/>
+      <file name="worplace-3.css" crc="153047771" ref="tablet>worplace-3"/>
+      <file name="workplace-6.css" crc="203270233" ref="tablet>workplace-6"/>
+      <file name="workplace-8.css" crc="4001288709" ref="tablet>workplace-8"/>
+      <file name="12-ideal-offices.css" crc="466811160" ref="tablet>12-ideal-offices"/>
+      <file name="nomq_12-ideal-offices.css" crc="4101515084" ref="tablet>12-ideal-offices"/>
+      <file name="workplace-9.css" crc="4276170880" ref="tablet>workplace-9"/>
+      <file name="workplace-2.css" crc="3954990660" ref="tablet>workplace-2"/>
+      <file name="workplace-1.css" crc="509934387" ref="tablet>workplace-1"/>
+      <file name="workplace-7.css" crc="453129675" ref="tablet>workplace-7"/>
+      <file name="abstract.css" crc="201653849" ref="tablet>abstract"/>
+      <file name="index.css" crc="3912841301" ref="tablet>index"/>
       <file name="nomq_index.css" crc="4142178957" ref="tablet>index"/>
+      <file name="workplace-10.css" crc="528409415" ref="tablet>workplace-10"/>
+      <file name="70-historical-offices.css" crc="3964097561" ref="tablet>70-historical-offices"/>
+      <file name="100-iot.css" crc="3775128690" ref="tablet>100-iot"/>
+      <file name="bibliography.css" crc="356060807" ref="tablet>bibliography"/>
+      <file name="about.css" crc="3788457030" ref="tablet>about"/>
+      <file name="downloads.css" crc="526994666" ref="tablet>downloads"/>
+      <file name="publications.css" crc="4210533595" ref="tablet>publications"/>
     </folder>
-    <file name="index.html" crc="518322485" seo="true" mt="1533820529087" redirect="true"/>
-    <file name="abstract.html" crc="4032279910" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="70-historical-offices.html" crc="102367268" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="100-iot.html" crc="4135791064" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="downloads.html" crc="487628695" seo="true" mt="1533828691771" redirect="true"/>
-    <file name="publications.html" crc="3775698751" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="about.html" crc="84274887" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="bibliography.html" crc="4236452550" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="12-ideal-offices.html" crc="4118709891" seo="true" mt="1533817348863" redirect="true"/>
-    <file name="workplace-1.html" crc="3977563725" seo="true" mt="1533831526766" redirect="true"/>
-    <file name="workplace-2.html" crc="214862855" seo="true" mt="1533831551012" redirect="true"/>
-    <file name="worplace-3.html" crc="3835677887" seo="true" mt="1533831570849" redirect="true"/>
-    <file name="workplace-4.html" crc="12219083" seo="true" mt="1533831595707" redirect="true"/>
-    <file name="workplace-5.html" crc="4205826764" seo="true" mt="1533831614190" redirect="true"/>
-    <file name="workplace-6.html" crc="206367337" seo="true" mt="1533831634260" redirect="true"/>
-    <file name="workplace-7.html" crc="4265086602" seo="true" mt="1533831655474" redirect="true"/>
-    <file name="workplace-8.html" crc="4164618046" seo="true" mt="1533831677724" redirect="true"/>
-    <file name="workplace-9.html" crc="4248399014" seo="true" mt="1533831708216" redirect="true"/>
-    <file name="workplace-10.html" crc="4215176499" seo="true" mt="1533831731747" redirect="true"/>
-    <file name="workplace-11.html" crc="104229918" seo="true" mt="1533831751016" redirect="true"/>
-    <file name="workplace-12.html" crc="4192429436" seo="true" mt="1533831783252" redirect="true"/>
+    <file name="index.html" crc="4285878046" seo="true" mt="1533844832630" redirect="true"/>
+    <file name="abstract.html" crc="4268760436" seo="true" mt="1533845257681" redirect="true"/>
+    <file name="70-historical-offices.html" crc="3922867445" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="100-iot.html" crc="4278206444" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="downloads.html" crc="70135194" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="publications.html" crc="405412672" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="about.html" crc="4002559873" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="bibliography.html" crc="150509212" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="12-ideal-offices.html" crc="4162836176" seo="true" mt="1533845104826" redirect="true"/>
+    <file name="workplace-1.html" crc="3997893159" seo="true" mt="1533845154163" redirect="true"/>
+    <file name="workplace-2.html" crc="458042130" seo="true" mt="1533845154164" redirect="true"/>
+    <file name="worplace-3.html" crc="4219224906" seo="true" mt="1533845154165" redirect="true"/>
+    <file name="workplace-4.html" crc="216255593" seo="true" mt="1533845154166" redirect="true"/>
+    <file name="workplace-5.html" crc="3934618843" seo="true" mt="1533845154167" redirect="true"/>
+    <file name="workplace-6.html" crc="80572730" seo="true" mt="1533845154168" redirect="true"/>
+    <file name="workplace-7.html" crc="407844034" seo="true" mt="1533845154169" redirect="true"/>
+    <file name="workplace-8.html" crc="3913599365" seo="true" mt="1533845154170" redirect="true"/>
+    <file name="workplace-9.html" crc="159634813" seo="true" mt="1533845154171" redirect="true"/>
+    <file name="workplace-10.html" crc="4146451187" seo="true" mt="1533845154171" redirect="true"/>
+    <file name="workplace-11.html" crc="4038109321" seo="true" mt="1533845154172" redirect="true"/>
+    <file name="workplace-12.html" crc="9263827" seo="true" mt="1533845154174" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_12.css" crc="3896327693" ref="phone>plan-12:phone>render-12:phone>text-12:phone>iot-12"/>
-      <file name="nomq_preview_master_12.css" crc="3824530138" ref="phone>plan-12:phone>render-12:phone>text-12:phone>iot-12"/>
-      <file name="master_1.css" crc="4238095674" ref="phone>render-1:phone>plan-1:phone>text-1:phone>iot-1"/>
-      <file name="nomq_preview_master_1.css" crc="3824530138" ref="phone>render-1:phone>plan-1:phone>text-1:phone>iot-1"/>
-      <file name="master_a-gabarit.css" crc="3116332" ref="phone>12-ideal-offices:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>about:phone>downloads:phone>publications:phone>bibliography"/>
-      <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="phone>12-ideal-offices:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>about:phone>downloads:phone>publications:phone>bibliography"/>
-      <file name="master_6.css" crc="4006478712" ref="phone>iot-6:phone>plan-6:phone>text-6:phone>render-6"/>
-      <file name="nomq_preview_master_6.css" crc="3824530138" ref="phone>iot-6:phone>plan-6:phone>text-6:phone>render-6"/>
-      <file name="master_5.css" crc="4073725242" ref="phone>text-5:phone>render-5:phone>plan-5:phone>iot-5"/>
-      <file name="nomq_preview_master_5.css" crc="3824530138" ref="phone>text-5:phone>render-5:phone>plan-5:phone>iot-5"/>
-      <file name="master_8.css" crc="311104922" ref="phone>plan-8:phone>text-8:phone>render-8:phone>iot-8"/>
-      <file name="nomq_preview_master_8.css" crc="3824530138" ref="phone>plan-8:phone>text-8:phone>render-8:phone>iot-8"/>
-      <file name="master_7.css" crc="500410770" ref="phone>plan-7:phone>render-7:phone>text-7:phone>iot-7"/>
-      <file name="nomq_preview_master_7.css" crc="3824530138" ref="phone>plan-7:phone>render-7:phone>text-7:phone>iot-7"/>
-      <file name="master_3.css" crc="3771283029" ref="phone>plan-3:phone>text-3:phone>iot-3:phone>render-3"/>
-      <file name="nomq_preview_master_3.css" crc="3824530138" ref="phone>plan-3:phone>text-3:phone>iot-3:phone>render-3"/>
-      <file name="master_b-gabarit.css" crc="4119448835" ref="phone>workplace-10:phone>workplace-11:phone>workplace-12:phone>workplace-2:phone>workplace-1:phone>worplace-3:phone>workplace-4:phone>workplace-7:phone>workplace-5:phone>workplace-8:phone>workplace-6:phone>workplace-9"/>
-      <file name="nomq_preview_master_b-gabarit.css" crc="3824530138" ref="phone>workplace-10:phone>workplace-11:phone>workplace-12:phone>workplace-2:phone>workplace-1:phone>worplace-3:phone>workplace-4:phone>workplace-7:phone>workplace-5:phone>workplace-8:phone>workplace-6:phone>workplace-9"/>
-      <file name="master_4.css" crc="172915372" ref="phone>plan-4:phone>render-4:phone>text-4:phone>iot-4"/>
+      <file name="master_a-gabarit.css" crc="4117407452" ref="phone>12-ideal-offices:phone>70-historical-offices:phone>abstract:phone>100-iot:phone>downloads:phone>about:phone>bibliography:phone>publications"/>
+      <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="phone>12-ideal-offices:phone>70-historical-offices:phone>abstract:phone>100-iot:phone>downloads:phone>about:phone>bibliography:phone>publications"/>
+      <file name="master_7.css" crc="453056495" ref="phone>plan-7:phone>render-7:phone>iot-7:phone>text-7"/>
+      <file name="nomq_preview_master_7.css" crc="3824530138" ref="phone>plan-7:phone>render-7:phone>iot-7:phone>text-7"/>
+      <file name="master_b-gabarit.css" crc="4061116716" ref="phone>workplace-2:phone>workplace-8:phone>workplace-9:phone>workplace-10:phone>workplace-11:phone>workplace-12:phone>worplace-3:phone>workplace-1:phone>workplace-4:phone>workplace-5:phone>workplace-6:phone>workplace-7"/>
+      <file name="nomq_preview_master_b-gabarit.css" crc="3824530138" ref="phone>workplace-2:phone>workplace-8:phone>workplace-9:phone>workplace-10:phone>workplace-11:phone>workplace-12:phone>worplace-3:phone>workplace-1:phone>workplace-4:phone>workplace-5:phone>workplace-6:phone>workplace-7"/>
+      <file name="master_10.css" crc="4090546714" ref="phone>plan-10:phone>text-10:phone>render-10:phone>iot-10"/>
+      <file name="nomq_preview_master_10.css" crc="3824530138" ref="phone>plan-10:phone>text-10:phone>render-10:phone>iot-10"/>
+      <file name="master_8.css" crc="341421031" ref="phone>plan-8:phone>render-8:phone>iot-8:phone>text-8"/>
+      <file name="nomq_preview_master_8.css" crc="3824530138" ref="phone>plan-8:phone>render-8:phone>iot-8:phone>text-8"/>
+      <file name="master_11.css" crc="3918423887" ref="phone>plan-11:phone>render-11:phone>text-11:phone>iot-11"/>
+      <file name="nomq_preview_master_11.css" crc="3824530138" ref="phone>plan-11:phone>render-11:phone>text-11:phone>iot-11"/>
+      <file name="master_3.css" crc="3860564008" ref="phone>plan-3:phone>render-3:phone>text-3:phone>iot-3"/>
+      <file name="nomq_preview_master_3.css" crc="3824530138" ref="phone>plan-3:phone>render-3:phone>text-3:phone>iot-3"/>
+      <file name="master_6.css" crc="3894197509" ref="phone>text-6:phone>render-6:phone>plan-6:phone>iot-6"/>
+      <file name="nomq_preview_master_6.css" crc="3824530138" ref="phone>text-6:phone>render-6:phone>plan-6:phone>iot-6"/>
+      <file name="master_2.css" crc="258850114" ref="phone>render-2:phone>plan-2:phone>iot-2:phone>text-2"/>
+      <file name="nomq_preview_master_2.css" crc="3824530138" ref="phone>render-2:phone>plan-2:phone>iot-2:phone>text-2"/>
+      <file name="master_4.css" crc="211600593" ref="phone>plan-4:phone>render-4:phone>text-4:phone>iot-4"/>
       <file name="nomq_preview_master_4.css" crc="3824530138" ref="phone>plan-4:phone>render-4:phone>text-4:phone>iot-4"/>
-      <file name="master_9.css" crc="115747283" ref="phone>plan-9:phone>render-9:phone>text-9:phone>iot-9"/>
+      <file name="master_5.css" crc="4093813575" ref="phone>plan-5:phone>text-5:phone>render-5:phone>iot-5"/>
+      <file name="nomq_preview_master_5.css" crc="3824530138" ref="phone>plan-5:phone>text-5:phone>render-5:phone>iot-5"/>
+      <file name="master_9.css" crc="3446702" ref="phone>plan-9:phone>render-9:phone>text-9:phone>iot-9"/>
       <file name="nomq_preview_master_9.css" crc="3824530138" ref="phone>plan-9:phone>render-9:phone>text-9:phone>iot-9"/>
-      <file name="master_10.css" crc="4110578791" ref="phone>render-10:phone>plan-10:phone>text-10:phone>iot-10"/>
-      <file name="nomq_preview_master_10.css" crc="3824530138" ref="phone>render-10:phone>plan-10:phone>text-10:phone>iot-10"/>
-      <file name="master_11.css" crc="4015839538" ref="phone>plan-11:phone>render-11:phone>iot-11:phone>text-11"/>
-      <file name="nomq_preview_master_11.css" crc="3824530138" ref="phone>plan-11:phone>render-11:phone>iot-11:phone>text-11"/>
-      <file name="master_2.css" crc="163513151" ref="phone>plan-2:phone>render-2:phone>text-2:phone>iot-2"/>
-      <file name="nomq_preview_master_2.css" crc="3824530138" ref="phone>plan-2:phone>render-2:phone>text-2:phone>iot-2"/>
+      <file name="master_12.css" crc="4008673392" ref="phone>plan-12:phone>render-12:phone>text-12:phone>iot-12"/>
+      <file name="nomq_preview_master_12.css" crc="3824530138" ref="phone>plan-12:phone>render-12:phone>text-12:phone>iot-12"/>
+      <file name="master_1.css" crc="4199451463" ref="phone>render-1:phone>text-1:phone>iot-1:phone>plan-1"/>
+      <file name="nomq_preview_master_1.css" crc="3824530138" ref="phone>render-1:phone>text-1:phone>iot-1:phone>plan-1"/>
       <file name="render-1.css" crc="371808753" ref="phone>render-1"/>
-      <file name="plan-1.css" crc="3896468620" ref="phone>plan-1"/>
       <file name="text-1.css" crc="244439370" ref="phone>text-1"/>
-      <file name="plan-9.css" crc="475752548" ref="phone>plan-9"/>
-      <file name="12-ideal-offices.css" crc="501559308" ref="phone>12-ideal-offices"/>
+      <file name="plan-7.css" crc="3976089287" ref="phone>plan-7"/>
+      <file name="workplace-2.css" crc="85791920" ref="phone>workplace-2"/>
+      <file name="text-6.css" crc="47774163" ref="phone>text-6"/>
+      <file name="render-7.css" crc="466519528" ref="phone>render-7"/>
+      <file name="iot-7.css" crc="340749821" ref="phone>iot-7"/>
+      <file name="nomq_iot-7.css" crc="3824530138" ref="phone>iot-7"/>
+      <file name="render-2.css" crc="463447176" ref="phone>render-2"/>
+      <file name="iot-1.css" crc="15223949" ref="phone>iot-1"/>
+      <file name="nomq_iot-1.css" crc="3824530138" ref="phone>iot-1"/>
+      <file name="12-ideal-offices.css" crc="4085160791" ref="phone>12-ideal-offices"/>
       <file name="nomq_12-ideal-offices.css" crc="3824530138" ref="phone>12-ideal-offices"/>
+      <file name="plan-8.css" crc="3934439948" ref="phone>plan-8"/>
+      <file name="text-7.css" crc="49859745" ref="phone>text-7"/>
+      <file name="workplace-8.css" crc="4291070326" ref="phone>workplace-8"/>
+      <file name="render-8.css" crc="3922500812" ref="phone>render-8"/>
+      <file name="plan-2.css" crc="4155496883" ref="phone>plan-2"/>
+      <file name="iot-8.css" crc="222010133" ref="phone>iot-8"/>
+      <file name="nomq_iot-8.css" crc="3824530138" ref="phone>iot-8"/>
+      <file name="text-8.css" crc="408719104" ref="phone>text-8"/>
+      <file name="workplace-9.css" crc="4242112377" ref="phone>workplace-9"/>
+      <file name="plan-9.css" crc="475752548" ref="phone>plan-9"/>
       <file name="render-9.css" crc="509214645" ref="phone>render-9"/>
       <file name="text-9.css" crc="3778970882" ref="phone>text-9"/>
-      <file name="iot-9.css" crc="4086117613" ref="phone>iot-9"/>
+      <file name="iot-9.css" crc="3871791553" ref="phone>iot-9"/>
       <file name="nomq_iot-9.css" crc="3824530138" ref="phone>iot-9"/>
-      <file name="workplace-10.css" crc="3822971321" ref="phone>workplace-10"/>
-      <file name="render-10.css" crc="3874349265" ref="phone>render-10"/>
       <file name="plan-10.css" crc="176762425" ref="phone>plan-10"/>
+      <file name="workplace-10.css" crc="4252414510" ref="phone>workplace-10"/>
       <file name="text-10.css" crc="332982807" ref="phone>text-10"/>
-      <file name="iot-10.css" crc="529561228" ref="phone>iot-10"/>
+      <file name="render-10.css" crc="3874349265" ref="phone>render-10"/>
+      <file name="iot-10.css" crc="160559813" ref="phone>iot-10"/>
       <file name="nomq_iot-10.css" crc="3824530138" ref="phone>iot-10"/>
-      <file name="workplace-11.css" crc="274620379" ref="phone>workplace-11"/>
+      <file name="workplace-11.css" crc="250938444" ref="phone>workplace-11"/>
       <file name="plan-11.css" crc="143450790" ref="phone>plan-11"/>
       <file name="render-11.css" crc="4217097912" ref="phone>render-11"/>
-      <file name="iot-11.css" crc="4273016650" ref="phone>iot-11"/>
-      <file name="nomq_iot-11.css" crc="3824530138" ref="phone>iot-11"/>
-      <file name="workplace-12.css" crc="4279586488" ref="phone>workplace-12"/>
-      <file name="plan-12.css" crc="19764984" ref="phone>plan-12"/>
       <file name="text-11.css" crc="99692056" ref="phone>text-11"/>
+      <file name="iot-11.css" crc="1226035" ref="phone>iot-11"/>
+      <file name="nomq_iot-11.css" crc="3824530138" ref="phone>iot-11"/>
+      <file name="workplace-12.css" crc="3787330863" ref="phone>workplace-12"/>
+      <file name="plan-12.css" crc="19764984" ref="phone>plan-12"/>
       <file name="render-12.css" crc="3949959573" ref="phone>render-12"/>
-      <file name="iot-1.css" crc="384420036" ref="phone>iot-1"/>
-      <file name="nomq_iot-1.css" crc="3824530138" ref="phone>iot-1"/>
-      <file name="text-12.css" crc="3764104386" ref="phone>text-12"/>
-      <file name="workplace-2.css" crc="464932647" ref="phone>workplace-2"/>
-      <file name="iot-12.css" crc="447743961" ref="phone>iot-12"/>
-      <file name="nomq_iot-12.css" crc="3824530138" ref="phone>iot-12"/>
-      <file name="plan-2.css" crc="4155496883" ref="phone>plan-2"/>
-      <file name="workplace-1.css" crc="214391320" ref="phone>workplace-1"/>
-      <file name="nomq_workplace-1.css" crc="3824530138" ref="phone>workplace-1"/>
-      <file name="text-5.css" crc="4016884093" ref="phone>text-5"/>
-      <file name="render-2.css" crc="463447176" ref="phone>render-2"/>
-      <file name="text-2.css" crc="161121289" ref="phone>text-2"/>
-      <file name="abstract.css" crc="259165977" ref="phone>abstract"/>
-      <file name="index.css" crc="3939287615" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
-      <file name="iot-2.css" crc="443099015" ref="phone>iot-2"/>
+      <file name="iot-2.css" crc="208184270" ref="phone>iot-2"/>
       <file name="nomq_iot-2.css" crc="3824530138" ref="phone>iot-2"/>
-      <file name="70-historical-offices.css" crc="82910545" ref="phone>70-historical-offices"/>
-      <file name="100-iot.css" crc="34059866" ref="phone>100-iot"/>
-      <file name="worplace-3.css" crc="4024383660" ref="phone>worplace-3"/>
+      <file name="text-12.css" crc="3764104386" ref="phone>text-12"/>
+      <file name="worplace-3.css" crc="4022865769" ref="phone>worplace-3"/>
+      <file name="iot-12.css" crc="212960144" ref="phone>iot-12"/>
+      <file name="nomq_iot-12.css" crc="3824530138" ref="phone>iot-12"/>
       <file name="plan-3.css" crc="431517111" ref="phone>plan-3"/>
-      <file name="text-3.css" crc="463857491" ref="phone>text-3"/>
-      <file name="about.css" crc="4147877213" ref="phone>about"/>
-      <file name="downloads.css" crc="3858797237" ref="phone>downloads"/>
-      <file name="publications.css" crc="194924651" ref="phone>publications"/>
-      <file name="iot-3.css" crc="201842358" ref="phone>iot-3"/>
-      <file name="nomq_iot-3.css" crc="3824530138" ref="phone>iot-3"/>
-      <file name="plan-4.css" crc="4051826136" ref="phone>plan-4"/>
-      <file name="workplace-4.css" crc="3962220683" ref="phone>workplace-4"/>
-      <file name="render-4.css" crc="4040631738" ref="phone>render-4"/>
-      <file name="bibliography.css" crc="215555894" ref="phone>bibliography"/>
-      <file name="text-4.css" crc="411962070" ref="phone>text-4"/>
-      <file name="plan-7.css" crc="3976089287" ref="phone>plan-7"/>
-      <file name="iot-6.css" crc="145949518" ref="phone>iot-6"/>
-      <file name="nomq_iot-6.css" crc="3824530138" ref="phone>iot-6"/>
-      <file name="workplace-7.css" crc="4169850986" ref="phone>workplace-7"/>
-      <file name="workplace-5.css" crc="4251138464" ref="phone>workplace-5"/>
-      <file name="render-5.css" crc="3906541636" ref="phone>render-5"/>
-      <file name="iot-4.css" crc="374809521" ref="phone>iot-4"/>
-      <file name="nomq_iot-4.css" crc="3824530138" ref="phone>iot-4"/>
-      <file name="plan-5.css" crc="3846397524" ref="phone>plan-5"/>
-      <file name="render-7.css" crc="466519528" ref="phone>render-7"/>
-      <file name="workplace-8.css" crc="3782202081" ref="phone>workplace-8"/>
-      <file name="text-7.css" crc="49859745" ref="phone>text-7"/>
-      <file name="workplace-6.css" crc="107733746" ref="phone>workplace-6"/>
-      <file name="iot-5.css" crc="528848859" ref="phone>iot-5"/>
-      <file name="nomq_iot-5.css" crc="3824530138" ref="phone>iot-5"/>
-      <file name="plan-6.css" crc="3895958442" ref="phone>plan-6"/>
-      <file name="iot-7.css" crc="3884581783" ref="phone>iot-7"/>
-      <file name="nomq_iot-7.css" crc="3824530138" ref="phone>iot-7"/>
-      <file name="plan-8.css" crc="3934439948" ref="phone>plan-8"/>
-      <file name="text-8.css" crc="408719104" ref="phone>text-8"/>
+      <file name="workplace-1.css" crc="309068175" ref="phone>workplace-1"/>
+      <file name="nomq_workplace-1.css" crc="3824530138" ref="phone>workplace-1"/>
       <file name="render-3.css" crc="4096716111" ref="phone>render-3"/>
-      <file name="render-8.css" crc="3922500812" ref="phone>render-8"/>
-      <file name="text-6.css" crc="47774163" ref="phone>text-6"/>
+      <file name="text-3.css" crc="463857491" ref="phone>text-3"/>
+      <file name="iot-3.css" crc="436624127" ref="phone>iot-3"/>
+      <file name="nomq_iot-3.css" crc="3824530138" ref="phone>iot-3"/>
+      <file name="workplace-4.css" crc="10870791" ref="phone>workplace-4"/>
+      <file name="plan-4.css" crc="4051826136" ref="phone>plan-4"/>
+      <file name="render-4.css" crc="4040631738" ref="phone>render-4"/>
+      <file name="text-2.css" crc="161121289" ref="phone>text-2"/>
+      <file name="text-4.css" crc="411962070" ref="phone>text-4"/>
+      <file name="70-historical-offices.css" crc="3877543847" ref="phone>70-historical-offices"/>
+      <file name="index.css" crc="3883940388" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="abstract.css" crc="192091239" ref="phone>abstract"/>
+      <file name="iot-4.css" crc="5679096" ref="phone>iot-4"/>
+      <file name="nomq_iot-4.css" crc="3824530138" ref="phone>iot-4"/>
+      <file name="100-iot.css" crc="4215161568" ref="phone>100-iot"/>
+      <file name="workplace-5.css" crc="173089102" ref="phone>workplace-5"/>
+      <file name="plan-5.css" crc="3846397524" ref="phone>plan-5"/>
+      <file name="text-5.css" crc="4016884093" ref="phone>text-5"/>
+      <file name="downloads.css" crc="336096525" ref="phone>downloads"/>
+      <file name="about.css" crc="4093600132" ref="phone>about"/>
+      <file name="bibliography.css" crc="3936983128" ref="phone>bibliography"/>
+      <file name="render-5.css" crc="3906541636" ref="phone>render-5"/>
+      <file name="iot-5.css" crc="159650706" ref="phone>iot-5"/>
+      <file name="nomq_iot-5.css" crc="3824530138" ref="phone>iot-5"/>
+      <file name="publications.css" crc="3975260437" ref="phone>publications"/>
+      <file name="workplace-6.css" crc="415283557" ref="phone>workplace-6"/>
       <file name="render-6.css" crc="4178654833" ref="phone>render-6"/>
-      <file name="iot-8.css" crc="488423986" ref="phone>iot-8"/>
-      <file name="nomq_iot-8.css" crc="3824530138" ref="phone>iot-8"/>
-      <file name="workplace-9.css" crc="274083829" ref="phone>workplace-9"/>
+      <file name="plan-6.css" crc="3895958442" ref="phone>plan-6"/>
+      <file name="iot-6.css" crc="515016455" ref="phone>iot-6"/>
+      <file name="nomq_iot-6.css" crc="3824530138" ref="phone>iot-6"/>
+      <file name="plan-1.css" crc="3896468620" ref="phone>plan-1"/>
+      <file name="workplace-7.css" crc="3860970493" ref="phone>workplace-7"/>
     </folder>
-    <file name="index.html" crc="3955222211" seo="true" mt="1533821645648" redirect="true"/>
-    <file name="abstract.html" crc="427080610" seo="true" mt="1533816893218" redirect="true"/>
-    <file name="70-historical-offices.html" crc="449447722" seo="true" mt="1533816596826" redirect="true"/>
-    <file name="100-iot.html" crc="3840830942" seo="true" mt="1533816603181" redirect="true"/>
-    <file name="downloads.html" crc="4035155585" seo="true" mt="1533828691773" redirect="true"/>
-    <file name="publications.html" crc="172391806" seo="true" mt="1533816609114" redirect="true"/>
-    <file name="about.html" crc="4147554700" seo="true" mt="1533816642351" redirect="true"/>
-    <file name="bibliography.html" crc="324890301" seo="true" mt="1533816614443" redirect="true"/>
-    <file name="12-ideal-offices.html" crc="4266930427" seo="true" mt="1533816909949" redirect="true"/>
-    <file name="plan-1.html" crc="222141396" seo="true" mt="1533827822554" redirect="true"/>
-    <file name="render-1.html" crc="428376967" seo="true" mt="1533816927403" redirect="true"/>
-    <file name="text-1.html" crc="3968471152" seo="true" mt="1533816931975" redirect="true"/>
-    <file name="iot-1.html" crc="88982317" seo="true" mt="1533816936457" redirect="true"/>
-    <file name="workplace-2.html" crc="3884149646" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-2.html" crc="157106000" seo="true" mt="1533827850622" redirect="true"/>
-    <file name="render-2.html" crc="19374170" seo="true" mt="1533816947470" redirect="true"/>
-    <file name="text-2.html" crc="260271342" seo="true" mt="1533816952778" redirect="true"/>
-    <file name="iot-2.html" crc="265010379" seo="true" mt="1533816959756" redirect="true"/>
-    <file name="worplace-3.html" crc="4163513275" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-3.html" crc="238583011" seo="true" mt="1533827929354" redirect="true"/>
-    <file name="render-3.html" crc="4087783003" seo="true" mt="1533816972713" redirect="true"/>
-    <file name="text-3.html" crc="266028773" seo="true" mt="1533816977339" redirect="true"/>
-    <file name="iot-3.html" crc="36614420" seo="true" mt="1533816981217" redirect="true"/>
-    <file name="workplace-4.html" crc="3785842696" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-4.html" crc="269941418" seo="true" mt="1533827978067" redirect="true"/>
-    <file name="render-4.html" crc="201503193" seo="true" mt="1533816988482" redirect="true"/>
-    <file name="text-4.html" crc="234607920" seo="true" mt="1533816992378" redirect="true"/>
-    <file name="iot-4.html" crc="4192205683" seo="true" mt="1533816996786" redirect="true"/>
-    <file name="workplace-5.html" crc="3999157281" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-5.html" crc="117996979" seo="true" mt="1533827994089" redirect="true"/>
-    <file name="render-5.html" crc="474017116" seo="true" mt="1533817004332" redirect="true"/>
-    <file name="text-5.html" crc="3996201219" seo="true" mt="1533817008368" redirect="true"/>
-    <file name="iot-5.html" crc="3854323422" seo="true" mt="1533817012374" redirect="true"/>
-    <file name="workplace-6.html" crc="131573958" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-6.html" crc="83790976" seo="true" mt="1533829739854" redirect="true"/>
-    <file name="render-6.html" crc="3901011912" seo="true" mt="1533817020748" redirect="true"/>
-    <file name="text-6.html" crc="377306732" seo="true" mt="1533817024656" redirect="true"/>
-    <file name="iot-6.html" crc="4144183292" seo="true" mt="1533817028989" redirect="true"/>
-    <file name="workplace-7.html" crc="185356639" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-7.html" crc="4106033807" seo="true" mt="1533828028020" redirect="true"/>
-    <file name="render-7.html" crc="4192368843" seo="true" mt="1533817041509" redirect="true"/>
-    <file name="text-7.html" crc="105202114" seo="true" mt="1533817045757" redirect="true"/>
-    <file name="iot-7.html" crc="3992644776" seo="true" mt="1533817050123" redirect="true"/>
-    <file name="workplace-8.html" crc="3833877396" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-8.html" crc="4238992803" seo="true" mt="1533828075737" redirect="true"/>
-    <file name="render-8.html" crc="3785168888" seo="true" mt="1533817054866" redirect="true"/>
-    <file name="text-8.html" crc="3781224184" seo="true" mt="1533817059046" redirect="true"/>
-    <file name="iot-8.html" crc="4168405009" seo="true" mt="1533817063191" redirect="true"/>
-    <file name="workplace-9.html" crc="3769477552" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-9.html" crc="345284386" seo="true" mt="1533828134303" redirect="true"/>
-    <file name="render-9.html" crc="3804942574" seo="true" mt="1533817069633" redirect="true"/>
-    <file name="text-9.html" crc="3899813565" seo="true" mt="1533817073537" redirect="true"/>
-    <file name="iot-9.html" crc="3877299326" seo="true" mt="1533817077354" redirect="true"/>
-    <file name="workplace-10.html" crc="3823291250" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-10.html" crc="4127040550" seo="true" mt="1533828150883" redirect="true"/>
-    <file name="render-10.html" crc="3845632350" seo="true" mt="1533817092577" redirect="true"/>
-    <file name="text-10.html" crc="3922007243" seo="true" mt="1533817096361" redirect="true"/>
-    <file name="iot-10.html" crc="391016455" seo="true" mt="1533817100251" redirect="true"/>
-    <file name="workplace-11.html" crc="234979146" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-11.html" crc="3801286257" seo="true" mt="1533828182921" redirect="true"/>
-    <file name="render-11.html" crc="3762301946" seo="true" mt="1533817105233" redirect="true"/>
-    <file name="text-11.html" crc="145907651" seo="true" mt="1533817110287" redirect="true"/>
-    <file name="iot-11.html" crc="4145738392" seo="true" mt="1533817122150" redirect="true"/>
-    <file name="workplace-12.html" crc="56522975" seo="true" mt="1533816837466" redirect="true"/>
-    <file name="plan-12.html" crc="220287421" seo="true" mt="1533828218754" redirect="true"/>
-    <file name="render-12.html" crc="4062603900" seo="true" mt="1533817129407" redirect="true"/>
-    <file name="text-12.html" crc="348296896" seo="true" mt="1533817133461" redirect="true"/>
-    <file name="iot-12.html" crc="150818560" seo="true" mt="1533817137416" redirect="true"/>
-    <file name="workplace-1.html" crc="4001098811" seo="true" mt="1533816895880" redirect="true"/>
+    <file name="index.html" crc="492417765" seo="true" mt="1533844419455" redirect="true"/>
+    <file name="abstract.html" crc="4122661751" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="70-historical-offices.html" crc="271615533" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="100-iot.html" crc="4148157609" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="downloads.html" crc="3971776479" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="publications.html" crc="312140472" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="about.html" crc="3822973311" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="bibliography.html" crc="105699967" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="12-ideal-offices.html" crc="126905431" seo="true" mt="1533895231339" redirect="true"/>
+    <file name="plan-1.html" crc="43387172" seo="true" mt="1533827822554" redirect="true"/>
+    <file name="render-1.html" crc="365835813" seo="true" mt="1533816927403" redirect="true"/>
+    <file name="text-1.html" crc="40942013" seo="true" mt="1533816931975" redirect="true"/>
+    <file name="iot-1.html" crc="3981049335" seo="true" mt="1533816936457" redirect="true"/>
+    <file name="workplace-2.html" crc="4124064719" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-2.html" crc="156920617" seo="true" mt="1533827850622" redirect="true"/>
+    <file name="render-2.html" crc="3876296537" seo="true" mt="1533816947470" redirect="true"/>
+    <file name="text-2.html" crc="98410532" seo="true" mt="1533816952778" redirect="true"/>
+    <file name="iot-2.html" crc="305628206" seo="true" mt="1533816959756" redirect="true"/>
+    <file name="worplace-3.html" crc="3854058169" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-3.html" crc="3840591749" seo="true" mt="1533827929354" redirect="true"/>
+    <file name="render-3.html" crc="86845447" seo="true" mt="1533816972713" redirect="true"/>
+    <file name="text-3.html" crc="329710762" seo="true" mt="1533816977339" redirect="true"/>
+    <file name="iot-3.html" crc="419791110" seo="true" mt="1533816981217" redirect="true"/>
+    <file name="workplace-4.html" crc="408518033" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-4.html" crc="379968019" seo="true" mt="1533827978067" redirect="true"/>
+    <file name="render-4.html" crc="3994841530" seo="true" mt="1533816988482" redirect="true"/>
+    <file name="text-4.html" crc="4076221046" seo="true" mt="1533816992378" redirect="true"/>
+    <file name="iot-4.html" crc="3856942693" seo="true" mt="1533816996786" redirect="true"/>
+    <file name="workplace-5.html" crc="4665621" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-5.html" crc="3881807711" seo="true" mt="1533827994089" redirect="true"/>
+    <file name="render-5.html" crc="3875824617" seo="true" mt="1533817004332" redirect="true"/>
+    <file name="text-5.html" crc="3942657342" seo="true" mt="1533817008368" redirect="true"/>
+    <file name="iot-5.html" crc="4041900103" seo="true" mt="1533817012374" redirect="true"/>
+    <file name="workplace-6.html" crc="3916324773" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-6.html" crc="3879391618" seo="true" mt="1533829739854" redirect="true"/>
+    <file name="render-6.html" crc="3902254785" seo="true" mt="1533817020748" redirect="true"/>
+    <file name="text-6.html" crc="4161285804" seo="true" mt="1533817024656" redirect="true"/>
+    <file name="iot-6.html" crc="190752470" seo="true" mt="1533817028989" redirect="true"/>
+    <file name="workplace-7.html" crc="214986040" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-7.html" crc="3775461214" seo="true" mt="1533828028020" redirect="true"/>
+    <file name="render-7.html" crc="176584962" seo="true" mt="1533817041509" redirect="true"/>
+    <file name="text-7.html" crc="392999109" seo="true" mt="1533817045757" redirect="true"/>
+    <file name="iot-7.html" crc="4069406641" seo="true" mt="1533817050123" redirect="true"/>
+    <file name="workplace-8.html" crc="4209729980" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-8.html" crc="225987004" seo="true" mt="1533828075737" redirect="true"/>
+    <file name="render-8.html" crc="182870619" seo="true" mt="1533817054866" redirect="true"/>
+    <file name="text-8.html" crc="209841254" seo="true" mt="1533817059046" redirect="true"/>
+    <file name="iot-8.html" crc="152734233" seo="true" mt="1533817063191" redirect="true"/>
+    <file name="workplace-9.html" crc="374618173" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-9.html" crc="293134168" seo="true" mt="1533828134303" redirect="true"/>
+    <file name="render-9.html" crc="240861828" seo="true" mt="1533817069633" redirect="true"/>
+    <file name="text-9.html" crc="4152371193" seo="true" mt="1533817073537" redirect="true"/>
+    <file name="iot-9.html" crc="485461920" seo="true" mt="1533817077354" redirect="true"/>
+    <file name="workplace-10.html" crc="442844666" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-10.html" crc="478323825" seo="true" mt="1533828150883" redirect="true"/>
+    <file name="render-10.html" crc="4253612983" seo="true" mt="1533817092577" redirect="true"/>
+    <file name="text-10.html" crc="4102178611" seo="true" mt="1533817096361" redirect="true"/>
+    <file name="iot-10.html" crc="107206572" seo="true" mt="1533817100251" redirect="true"/>
+    <file name="workplace-11.html" crc="3831769566" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-11.html" crc="4163966368" seo="true" mt="1533828182921" redirect="true"/>
+    <file name="render-11.html" crc="322082729" seo="true" mt="1533817105233" redirect="true"/>
+    <file name="text-11.html" crc="366008609" seo="true" mt="1533817110287" redirect="true"/>
+    <file name="iot-11.html" crc="3775894650" seo="true" mt="1533817122150" redirect="true"/>
+    <file name="workplace-12.html" crc="4274918103" seo="true" mt="1533816837466" redirect="true"/>
+    <file name="plan-12.html" crc="211881035" seo="true" mt="1533828218754" redirect="true"/>
+    <file name="render-12.html" crc="4148851553" seo="true" mt="1533817129407" redirect="true"/>
+    <file name="text-12.html" crc="3926553908" seo="true" mt="1533817133461" redirect="true"/>
+    <file name="iot-12.html" crc="62385066" seo="true" mt="1533817137416" redirect="true"/>
+    <file name="workplace-1.html" crc="4200613582" seo="true" mt="1533816895880" redirect="true"/>
   </folder>
-  <file name="index.html" crc="163087146" seo="true" mt="1533829770558" redirect="true"/>
-  <file name="70-historial-offices.html" crc="170407682" seo="true" mt="1533732865361" redirect="true"/>
-  <file name="100-iot.html" crc="3899287256" seo="true" mt="1533727514548" redirect="true"/>
-  <file name="abstract.html" crc="199852058" seo="true" mt="1533727921314" redirect="true"/>
-  <file name="about.html" crc="3856753653" seo="true" mt="1533729511971" redirect="true"/>
-  <file name="downloads.html" crc="3946244291" seo="true" mt="1533828691775" redirect="true"/>
-  <file name="worplace-3.html" crc="367589048" seo="true" mt="1533832107942" redirect="true"/>
-  <file name="12-ideal-offices.html" crc="3981340750" seo="true" mt="1533728084869" redirect="true"/>
-  <file name="workplace-2.html" crc="501697037" seo="true" mt="1533831274581" redirect="true"/>
-  <file name="workplace-1.html" crc="4037158812" seo="true" mt="1533831249385" redirect="true"/>
-  <file name="workplace-4.html" crc="4070905990" seo="true" mt="1533831312360" redirect="true"/>
-  <file name="workplace-5.html" crc="4233899677" seo="true" mt="1533831339898" redirect="true"/>
-  <file name="workplace-6.html" crc="84355546" seo="true" mt="1533831357874" redirect="true"/>
-  <file name="workplace-7.html" crc="1535364" seo="true" mt="1533831378172" redirect="true"/>
-  <file name="workplace-8.html" crc="4001398704" seo="true" mt="1533831401810" redirect="true"/>
-  <file name="workplace-9.html" crc="424524177" seo="true" mt="1533831422892" redirect="true"/>
-  <file name="workplace-10.html" crc="515872419" seo="true" mt="1533831449046" redirect="true"/>
-  <file name="workplace-11.html" crc="3910800780" seo="true" mt="1533831473477" redirect="true"/>
-  <file name="workplace-12.html" crc="126121036" seo="true" mt="1533831493738" redirect="true"/>
-  <file name="publications.html" crc="4212584586" seo="true" mt="1533745587299" redirect="true"/>
-  <file name="bibliography.html" crc="91646403" seo="true" mt="1533732874925" redirect="true"/>
+  <file name="index.html" crc="516712319" seo="true" mt="1533829770558" redirect="true"/>
+  <file name="70-historial-offices.html" crc="4149426101" seo="true" mt="1533732865361" redirect="true"/>
+  <file name="100-iot.html" crc="3851941801" seo="true" mt="1533727514548" redirect="true"/>
+  <file name="abstract.html" crc="74078975" seo="true" mt="1533727921314" redirect="true"/>
+  <file name="about.html" crc="4041422725" seo="true" mt="1533729511971" redirect="true"/>
+  <file name="downloads.html" crc="3943965918" seo="true" mt="1533828691775" redirect="true"/>
+  <file name="worplace-3.html" crc="3826575256" seo="true" mt="1533832107942" redirect="true"/>
+  <file name="12-ideal-offices.html" crc="3787475178" seo="true" mt="1533728084869" redirect="true"/>
+  <file name="workplace-2.html" crc="33292748" seo="true" mt="1533831274581" redirect="true"/>
+  <file name="workplace-1.html" crc="3943783347" seo="true" mt="1533845640441" redirect="true"/>
+  <file name="workplace-4.html" crc="4291167066" seo="true" mt="1533845697340" redirect="true"/>
+  <file name="workplace-5.html" crc="3846123019" seo="true" mt="1533895132910" redirect="true"/>
+  <file name="workplace-6.html" crc="288622544" seo="true" mt="1533831357874" redirect="true"/>
+  <file name="workplace-7.html" crc="4269849298" seo="true" mt="1533831378172" redirect="true"/>
+  <file name="workplace-8.html" crc="362856326" seo="true" mt="1533831401810" redirect="true"/>
+  <file name="workplace-9.html" crc="256586476" seo="true" mt="1533831422892" redirect="true"/>
+  <file name="workplace-10.html" crc="4143988666" seo="true" mt="1533831449046" redirect="true"/>
+  <file name="workplace-11.html" crc="4198520799" seo="true" mt="1533831473477" redirect="true"/>
+  <file name="workplace-12.html" crc="3946014201" seo="true" mt="1533831493738" redirect="true"/>
+  <file name="publications.html" crc="487961705" seo="true" mt="1533745587299" redirect="true"/>
+  <file name="bibliography.html" crc="4169594449" seo="true" mt="1533732874925" redirect="true"/>
 </manifest>
