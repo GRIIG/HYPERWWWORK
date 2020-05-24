@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1590360612212">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hyperwwwork.life" resolutions="1x" timestamp="1590362509245">
   <folder name="css">
     <file name="site_global.css" crc="381951125"/>
     <file name="70-historial-offices.css" crc="4180709696" ref="70-historial-offices"/>
@@ -37,7 +37,7 @@
     <file name="nomq_workplace-10.css" crc="4092468789" ref="workplace-10"/>
     <file name="bibliography.css" crc="4004262150" ref="bibliography"/>
     <file name="nomq_bibliography.css" crc="213635678" ref="bibliography"/>
-    <file name="publications.css" crc="3808097635" ref="publications"/>
+    <file name="publications.css" crc="4077088369" ref="publications"/>
   </folder>
   <folder name="fonts">
     <file name="monarch.woff" crc="125157947"/>
@@ -54,7 +54,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="museutils.js" crc="3939489907" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
-    <file name="museconfig.js" crc="247137391" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="require.js" crc="4177726516" ref="phone>index:phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:phone>plan-1:phone>render-1:phone>text-1:phone>iot-1:phone>workplace-2:phone>plan-2:phone>render-2:phone>text-2:phone>iot-2:phone>worplace-3:phone>plan-3:phone>render-3:phone>text-3:phone>iot-3:phone>workplace-4:phone>plan-4:phone>render-4:phone>text-4:phone>iot-4:phone>workplace-5:phone>plan-5:phone>render-5:phone>text-5:phone>iot-5:phone>workplace-6:phone>plan-6:phone>render-6:phone>text-6:phone>iot-6:phone>workplace-7:phone>plan-7:phone>render-7:phone>text-7:phone>iot-7:phone>workplace-8:phone>plan-8:phone>render-8:phone>text-8:phone>iot-8:phone>workplace-9:phone>plan-9:phone>render-9:phone>text-9:phone>iot-9:phone>workplace-10:phone>plan-10:phone>render-10:phone>text-10:phone>iot-10:phone>workplace-11:phone>plan-11:phone>render-11:phone>text-11:phone>iot-11:phone>workplace-12:phone>plan-12:phone>render-12:phone>text-12:phone>iot-12:phone>workplace-1:tablet>index:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:index:70-historial-offices:100-iot:abstract:about:downloads:worplace-3:12-ideal-offices:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12:publications:bibliography"/>
     <file name="webpro.js" crc="3856315280" ref="phone>abstract:phone>70-historical-offices:phone>100-iot:phone>downloads:phone>publications:phone>about:phone>bibliography:phone>12-ideal-offices:tablet>abstract:tablet>70-historical-offices:tablet>100-iot:tablet>downloads:tablet>publications:tablet>about:tablet>bibliography:tablet>12-ideal-offices:tablet>workplace-1:tablet>workplace-2:tablet>worplace-3:tablet>workplace-4:tablet>workplace-5:tablet>workplace-6:tablet>workplace-7:tablet>workplace-8:tablet>workplace-9:tablet>workplace-10:tablet>workplace-11:tablet>workplace-12:worplace-3:workplace-2:workplace-1:workplace-4:workplace-5:workplace-6:workplace-7:workplace-8:workplace-9:workplace-10:workplace-11:workplace-12"/>
@@ -1366,27 +1366,27 @@
       <file name="workplace-9.css" crc="283658053" ref="tablet>workplace-9"/>
       <file name="workplace-11.css" crc="4052931111" ref="tablet>workplace-11"/>
     </folder>
-    <file name="index.html" crc="3964529026" seo="true" mt="1590251135365" redirect="true"/>
-    <file name="abstract.html" crc="51682338" seo="true" mt="1590352022360" redirect="true"/>
-    <file name="70-historical-offices.html" crc="430256977" seo="true" mt="1590250755350" redirect="true"/>
-    <file name="100-iot.html" crc="486838232" seo="true" mt="1590360228510" redirect="true"/>
-    <file name="downloads.html" crc="431265299" seo="true" mt="1590358223903" redirect="true"/>
-    <file name="publications.html" crc="4151385333" seo="true" mt="1590356871026" redirect="true"/>
-    <file name="about.html" crc="211770076" seo="true" mt="1590359160287" redirect="true"/>
-    <file name="bibliography.html" crc="167401371" seo="true" mt="1590357073222" redirect="true"/>
-    <file name="12-ideal-offices.html" crc="458655431" seo="true" mt="1590360559591" redirect="true"/>
-    <file name="workplace-1.html" crc="238547215" seo="true" mt="1590353737475" redirect="true"/>
-    <file name="workplace-2.html" crc="371342727" seo="true" mt="1590353746929" redirect="true"/>
-    <file name="worplace-3.html" crc="4225995093" seo="true" mt="1590353756429" redirect="true"/>
-    <file name="workplace-4.html" crc="84280451" seo="true" mt="1590353727227" redirect="true"/>
-    <file name="workplace-5.html" crc="4039008030" seo="true" mt="1590353796863" redirect="true"/>
-    <file name="workplace-6.html" crc="3910974698" seo="true" mt="1590353861005" redirect="true"/>
-    <file name="workplace-7.html" crc="96306710" seo="true" mt="1590353902974" redirect="true"/>
-    <file name="workplace-8.html" crc="3988296652" seo="true" mt="1590353948624" redirect="true"/>
-    <file name="workplace-9.html" crc="407813412" seo="true" mt="1590353990427" redirect="true"/>
-    <file name="workplace-10.html" crc="4242006064" seo="true" mt="1590354030105" redirect="true"/>
-    <file name="workplace-11.html" crc="412789878" seo="true" mt="1590354065616" redirect="true"/>
-    <file name="workplace-12.html" crc="21797033" seo="true" mt="1590354097734" redirect="true"/>
+    <file name="index.html" crc="4108473436" seo="true" mt="1590251135365" redirect="true"/>
+    <file name="abstract.html" crc="500936385" seo="true" mt="1590352022360" redirect="true"/>
+    <file name="70-historical-offices.html" crc="4140646376" seo="true" mt="1590250755350" redirect="true"/>
+    <file name="100-iot.html" crc="3970803152" seo="true" mt="1590360228510" redirect="true"/>
+    <file name="downloads.html" crc="304025329" seo="true" mt="1590358223903" redirect="true"/>
+    <file name="publications.html" crc="3768093750" seo="true" mt="1590356871026" redirect="true"/>
+    <file name="about.html" crc="332528156" seo="true" mt="1590359160287" redirect="true"/>
+    <file name="bibliography.html" crc="23874338" seo="true" mt="1590357073222" redirect="true"/>
+    <file name="12-ideal-offices.html" crc="195295788" seo="true" mt="1590360559591" redirect="true"/>
+    <file name="workplace-1.html" crc="3993620953" seo="true" mt="1590353737475" redirect="true"/>
+    <file name="workplace-2.html" crc="4252159751" seo="true" mt="1590353746929" redirect="true"/>
+    <file name="worplace-3.html" crc="4131568979" seo="true" mt="1590353756429" redirect="true"/>
+    <file name="workplace-4.html" crc="34352935" seo="true" mt="1590353727227" redirect="true"/>
+    <file name="workplace-5.html" crc="3846666373" seo="true" mt="1590353796863" redirect="true"/>
+    <file name="workplace-6.html" crc="126807139" seo="true" mt="1590353861005" redirect="true"/>
+    <file name="workplace-7.html" crc="3832148846" seo="true" mt="1590353902974" redirect="true"/>
+    <file name="workplace-8.html" crc="294112689" seo="true" mt="1590353948624" redirect="true"/>
+    <file name="workplace-9.html" crc="4037235157" seo="true" mt="1590353990427" redirect="true"/>
+    <file name="workplace-10.html" crc="228400373" seo="true" mt="1590354030105" redirect="true"/>
+    <file name="workplace-11.html" crc="3922113820" seo="true" mt="1590354065616" redirect="true"/>
+    <file name="workplace-12.html" crc="364096621" seo="true" mt="1590354097734" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -1416,7 +1416,7 @@
       <file name="nomq_preview_master_6.css" crc="3824530138" ref="phone>render-6:phone>plan-6:phone>iot-6:phone>text-6"/>
       <file name="master_11.css" crc="3772021885" ref="phone>plan-11:phone>render-11:phone>text-11:phone>iot-11"/>
       <file name="nomq_preview_master_11.css" crc="3824530138" ref="phone>plan-11:phone>render-11:phone>text-11:phone>iot-11"/>
-      <file name="text-3.css" crc="4260283967" ref="phone>text-3"/>
+      <file name="text-3.css" crc="3833157597" ref="phone>text-3"/>
       <file name="workplace-4.css" crc="334631620" ref="phone>workplace-4"/>
       <file name="iot-3.css" crc="308649600" ref="phone>iot-3"/>
       <file name="nomq_iot-3.css" crc="3824530138" ref="phone>iot-3"/>
@@ -1425,9 +1425,9 @@
       <file name="iot-4.css" crc="167526227" ref="phone>iot-4"/>
       <file name="nomq_iot-4.css" crc="3824530138" ref="phone>iot-4"/>
       <file name="workplace-11.css" crc="3875414705" ref="phone>workplace-11"/>
-      <file name="text-4.css" crc="195269652" ref="phone>text-4"/>
+      <file name="text-4.css" crc="124987888" ref="phone>text-4"/>
       <file name="plan-5.css" crc="120972300" ref="phone>plan-5"/>
-      <file name="text-5.css" crc="4042664201" ref="phone>text-5"/>
+      <file name="text-5.css" crc="294706763" ref="phone>text-5"/>
       <file name="workplace-5.css" crc="459931087" ref="phone>workplace-5"/>
       <file name="render-5.css" crc="444884226" ref="phone>render-5"/>
       <file name="workplace-6.css" crc="309280319" ref="phone>workplace-6"/>
@@ -1436,19 +1436,19 @@
       <file name="nomq_iot-5.css" crc="3824530138" ref="phone>iot-5"/>
       <file name="render-11.css" crc="462508710" ref="phone>render-11"/>
       <file name="render-6.css" crc="497808052" ref="phone>render-6"/>
-      <file name="text-11.css" crc="406286394" ref="phone>text-11"/>
+      <file name="text-11.css" crc="4269497934" ref="phone>text-11"/>
       <file name="plan-6.css" crc="4083301581" ref="phone>plan-6"/>
       <file name="iot-11.css" crc="269315410" ref="phone>iot-11"/>
       <file name="nomq_iot-11.css" crc="3824530138" ref="phone>iot-11"/>
       <file name="iot-6.css" crc="4164882761" ref="phone>iot-6"/>
       <file name="nomq_iot-6.css" crc="3824530138" ref="phone>iot-6"/>
       <file name="workplace-12.css" crc="3842104300" ref="phone>workplace-12"/>
-      <file name="text-6.css" crc="508879809" ref="phone>text-6"/>
+      <file name="text-6.css" crc="475018883" ref="phone>text-6"/>
       <file name="plan-12.css" crc="4168441437" ref="phone>plan-12"/>
       <file name="plan-7.css" crc="3976152995" ref="phone>plan-7"/>
-      <file name="text-12.css" crc="458235467" ref="phone>text-12"/>
+      <file name="text-12.css" crc="4245572710" ref="phone>text-12"/>
       <file name="workplace-7.css" crc="372733354" ref="phone>workplace-7"/>
-      <file name="index.css" crc="3916568240" ref="phone>index"/>
+      <file name="index.css" crc="396147154" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
       <file name="iot-12.css" crc="335520266" ref="phone>iot-12"/>
       <file name="nomq_iot-12.css" crc="3824530138" ref="phone>iot-12"/>
@@ -1456,28 +1456,28 @@
       <file name="workplace-1.css" crc="3966785989" ref="phone>workplace-1"/>
       <file name="nomq_workplace-1.css" crc="3824530138" ref="phone>workplace-1"/>
       <file name="render-7.css" crc="21735263" ref="phone>render-7"/>
-      <file name="text-7.css" crc="4199249955" ref="phone>text-7"/>
-      <file name="abstract.css" crc="73021392" ref="phone>abstract"/>
+      <file name="text-7.css" crc="207881207" ref="phone>text-7"/>
+      <file name="abstract.css" crc="4265964624" ref="phone>abstract"/>
       <file name="100-iot.css" crc="447428394" ref="phone>100-iot"/>
       <file name="workplace-8.css" crc="4202170741" ref="phone>workplace-8"/>
       <file name="render-8.css" crc="535760354" ref="phone>render-8"/>
       <file name="plan-8.css" crc="3815107693" ref="phone>plan-8"/>
-      <file name="publications.css" crc="32833029" ref="phone>publications"/>
+      <file name="publications.css" crc="4083081687" ref="phone>publications"/>
       <file name="iot-7.css" crc="3779236247" ref="phone>iot-7"/>
       <file name="nomq_iot-7.css" crc="3824530138" ref="phone>iot-7"/>
       <file name="downloads.css" crc="4063489226" ref="phone>downloads"/>
       <file name="iot-8.css" crc="526125541" ref="phone>iot-8"/>
       <file name="nomq_iot-8.css" crc="3824530138" ref="phone>iot-8"/>
-      <file name="bibliography.css" crc="4220590653" ref="phone>bibliography"/>
-      <file name="text-8.css" crc="254806334" ref="phone>text-8"/>
-      <file name="about.css" crc="51342127" ref="phone>about"/>
+      <file name="bibliography.css" crc="4160111350" ref="phone>bibliography"/>
+      <file name="text-8.css" crc="3823776048" ref="phone>text-8"/>
+      <file name="about.css" crc="4078186159" ref="phone>about"/>
       <file name="plan-9.css" crc="194902596" ref="phone>plan-9"/>
       <file name="plan-1.css" crc="317414673" ref="phone>plan-1"/>
       <file name="workplace-9.css" crc="336307998" ref="phone>workplace-9"/>
       <file name="render-9.css" crc="12589315" ref="phone>render-9"/>
-      <file name="text-9.css" crc="5062001" ref="phone>text-9"/>
-      <file name="text-1.css" crc="421166417" ref="phone>text-1"/>
-      <file name="12-ideal-offices.css" crc="165477797" ref="phone>12-ideal-offices"/>
+      <file name="text-9.css" crc="530501817" ref="phone>text-9"/>
+      <file name="text-1.css" crc="10052512" ref="phone>text-1"/>
+      <file name="12-ideal-offices.css" crc="515089143" ref="phone>12-ideal-offices"/>
       <file name="nomq_12-ideal-offices.css" crc="3824530138" ref="phone>12-ideal-offices"/>
       <file name="workplace-10.css" crc="4183531624" ref="phone>workplace-10"/>
       <file name="render-1.css" crc="3921143594" ref="phone>render-1"/>
@@ -1492,8 +1492,8 @@
       <file name="render-2.css" crc="430885152" ref="phone>render-2"/>
       <file name="iot-2.css" crc="253569851" ref="phone>iot-2"/>
       <file name="nomq_iot-2.css" crc="3824530138" ref="phone>iot-2"/>
-      <file name="text-2.css" crc="4138053312" ref="phone>text-2"/>
-      <file name="text-10.css" crc="4199231065" ref="phone>text-10"/>
+      <file name="text-2.css" crc="148754592" ref="phone>text-2"/>
+      <file name="text-10.css" crc="4280926734" ref="phone>text-10"/>
       <file name="plan-3.css" crc="170037899" ref="phone>plan-3"/>
       <file name="iot-10.css" crc="4181127424" ref="phone>iot-10"/>
       <file name="nomq_iot-10.css" crc="3824530138" ref="phone>iot-10"/>
@@ -1501,95 +1501,95 @@
       <file name="render-12.css" crc="3881707138" ref="phone>render-12"/>
       <file name="render-3.css" crc="188217114" ref="phone>render-3"/>
     </folder>
-    <file name="index.html" crc="260905847" seo="true" mt="1590354545799" redirect="true"/>
-    <file name="abstract.html" crc="117379996" seo="true" mt="1590357121183" redirect="true"/>
-    <file name="70-historical-offices.html" crc="4225187104" seo="true" mt="1590357121183" redirect="true"/>
-    <file name="100-iot.html" crc="65598365" seo="true" mt="1590360294573" redirect="true"/>
-    <file name="downloads.html" crc="388160336" seo="true" mt="1590358360778" redirect="true"/>
-    <file name="publications.html" crc="465560297" seo="true" mt="1590357121183" redirect="true"/>
-    <file name="about.html" crc="4239526576" seo="true" mt="1590359511196" redirect="true"/>
-    <file name="bibliography.html" crc="3782337385" seo="true" mt="1590357185498" redirect="true"/>
-    <file name="12-ideal-offices.html" crc="3901046505" seo="true" mt="1590357121183" redirect="true"/>
-    <file name="plan-1.html" crc="394841032" seo="true" mt="1590355595143" redirect="true"/>
-    <file name="render-1.html" crc="4020819180" seo="true" mt="1590355613549" redirect="true"/>
-    <file name="text-1.html" crc="3965171523" seo="true" mt="1590355629061" redirect="true"/>
-    <file name="iot-1.html" crc="500702347" seo="true" mt="1590355652145" redirect="true"/>
-    <file name="workplace-2.html" crc="3780995204" seo="true" mt="1590354686155" redirect="true"/>
-    <file name="plan-2.html" crc="36062156" seo="true" mt="1590355665989" redirect="true"/>
-    <file name="render-2.html" crc="4156264229" seo="true" mt="1590355673643" redirect="true"/>
-    <file name="text-2.html" crc="3947624848" seo="true" mt="1590355692813" redirect="true"/>
-    <file name="iot-2.html" crc="81977172" seo="true" mt="1590355704556" redirect="true"/>
-    <file name="worplace-3.html" crc="212254407" seo="true" mt="1590354708191" redirect="true"/>
-    <file name="plan-3.html" crc="193606792" seo="true" mt="1590355711319" redirect="true"/>
-    <file name="render-3.html" crc="4039000132" seo="true" mt="1590355722548" redirect="true"/>
-    <file name="text-3.html" crc="3949581662" seo="true" mt="1590355729156" redirect="true"/>
-    <file name="iot-3.html" crc="3782703748" seo="true" mt="1590355735550" redirect="true"/>
-    <file name="workplace-4.html" crc="4290026866" seo="true" mt="1590354727660" redirect="true"/>
-    <file name="plan-4.html" crc="170034901" seo="true" mt="1590355572210" redirect="true"/>
-    <file name="render-4.html" crc="4219784401" seo="true" mt="1590355749995" redirect="true"/>
-    <file name="text-4.html" crc="157220130" seo="true" mt="1590355773904" redirect="true"/>
-    <file name="iot-4.html" crc="263112413" seo="true" mt="1590355783594" redirect="true"/>
-    <file name="workplace-5.html" crc="3905764291" seo="true" mt="1590354910652" redirect="true"/>
-    <file name="plan-5.html" crc="118786644" seo="true" mt="1590355792684" redirect="true"/>
-    <file name="render-5.html" crc="455517063" seo="true" mt="1590355800126" redirect="true"/>
-    <file name="text-5.html" crc="173544901" seo="true" mt="1590355832508" redirect="true"/>
-    <file name="iot-5.html" crc="246329444" seo="true" mt="1590355841430" redirect="true"/>
-    <file name="workplace-6.html" crc="531208025" seo="true" mt="1590354926069" redirect="true"/>
-    <file name="plan-6.html" crc="320242355" seo="true" mt="1590355848839" redirect="true"/>
-    <file name="render-6.html" crc="4038750325" seo="true" mt="1590355855790" redirect="true"/>
-    <file name="text-6.html" crc="3973740568" seo="true" mt="1590355889018" redirect="true"/>
-    <file name="iot-6.html" crc="4212300480" seo="true" mt="1590355898444" redirect="true"/>
-    <file name="workplace-7.html" crc="3885964262" seo="true" mt="1590354942370" redirect="true"/>
-    <file name="plan-7.html" crc="3875086116" seo="true" mt="1590355905660" redirect="true"/>
-    <file name="render-7.html" crc="4170050027" seo="true" mt="1590355912713" redirect="true"/>
-    <file name="text-7.html" crc="140420360" seo="true" mt="1590355936678" redirect="true"/>
-    <file name="iot-7.html" crc="4212731226" seo="true" mt="1590355946102" redirect="true"/>
-    <file name="workplace-8.html" crc="475472861" seo="true" mt="1590354993070" redirect="true"/>
-    <file name="plan-8.html" crc="238846267" seo="true" mt="1590355952346" redirect="true"/>
-    <file name="render-8.html" crc="335948757" seo="true" mt="1590355959699" redirect="true"/>
-    <file name="text-8.html" crc="4104948622" seo="true" mt="1590355985454" redirect="true"/>
-    <file name="iot-8.html" crc="3805276723" seo="true" mt="1590355999650" redirect="true"/>
-    <file name="workplace-9.html" crc="4007799097" seo="true" mt="1590355156901" redirect="true"/>
-    <file name="plan-9.html" crc="3895844767" seo="true" mt="1590356009989" redirect="true"/>
-    <file name="render-9.html" crc="4264571206" seo="true" mt="1590356017392" redirect="true"/>
-    <file name="text-9.html" crc="4095855535" seo="true" mt="1590356035982" redirect="true"/>
-    <file name="iot-9.html" crc="494950657" seo="true" mt="1590356046708" redirect="true"/>
-    <file name="workplace-10.html" crc="34832602" seo="true" mt="1590355140766" redirect="true"/>
-    <file name="plan-10.html" crc="42480595" seo="true" mt="1590356060002" redirect="true"/>
-    <file name="render-10.html" crc="249715321" seo="true" mt="1590356068617" redirect="true"/>
-    <file name="text-10.html" crc="4056500186" seo="true" mt="1590356086709" redirect="true"/>
-    <file name="iot-10.html" crc="4028547598" seo="true" mt="1590356096173" redirect="true"/>
-    <file name="workplace-11.html" crc="4235431516" seo="true" mt="1590355175931" redirect="true"/>
-    <file name="plan-11.html" crc="156221889" seo="true" mt="1590356109795" redirect="true"/>
-    <file name="render-11.html" crc="158282812" seo="true" mt="1590356116448" redirect="true"/>
-    <file name="text-11.html" crc="365523880" seo="true" mt="1590356131939" redirect="true"/>
-    <file name="iot-11.html" crc="91140112" seo="true" mt="1590356142209" redirect="true"/>
-    <file name="workplace-12.html" crc="4195771246" seo="true" mt="1590354877713" redirect="true"/>
-    <file name="plan-12.html" crc="337436528" seo="true" mt="1590356149479" redirect="true"/>
-    <file name="render-12.html" crc="301716242" seo="true" mt="1590356157829" redirect="true"/>
-    <file name="text-12.html" crc="3991680408" seo="true" mt="1590356177013" redirect="true"/>
-    <file name="iot-12.html" crc="4022753559" seo="true" mt="1590356186288" redirect="true"/>
-    <file name="workplace-1.html" crc="242151092" seo="true" mt="1590354671402" redirect="true"/>
+    <file name="index.html" crc="4244456327" seo="true" mt="1590361678398" redirect="true"/>
+    <file name="abstract.html" crc="43510622" seo="true" mt="1590361969166" redirect="true"/>
+    <file name="70-historical-offices.html" crc="4029484108" seo="true" mt="1590357121183" redirect="true"/>
+    <file name="100-iot.html" crc="3959815347" seo="true" mt="1590360294573" redirect="true"/>
+    <file name="downloads.html" crc="4291070102" seo="true" mt="1590358360778" redirect="true"/>
+    <file name="publications.html" crc="3969878114" seo="true" mt="1590362292513" redirect="true"/>
+    <file name="about.html" crc="102740835" seo="true" mt="1590362406676" redirect="true"/>
+    <file name="bibliography.html" crc="3892022754" seo="true" mt="1590362312442" redirect="true"/>
+    <file name="12-ideal-offices.html" crc="334714473" seo="true" mt="1590362056066" redirect="true"/>
+    <file name="plan-1.html" crc="286276080" seo="true" mt="1590355595143" redirect="true"/>
+    <file name="render-1.html" crc="3941334334" seo="true" mt="1590355613549" redirect="true"/>
+    <file name="text-1.html" crc="490463097" seo="true" mt="1590362091770" redirect="true"/>
+    <file name="iot-1.html" crc="4241455373" seo="true" mt="1590355652145" redirect="true"/>
+    <file name="workplace-2.html" crc="428663272" seo="true" mt="1590354686155" redirect="true"/>
+    <file name="plan-2.html" crc="3999814497" seo="true" mt="1590355665989" redirect="true"/>
+    <file name="render-2.html" crc="105616497" seo="true" mt="1590355673643" redirect="true"/>
+    <file name="text-2.html" crc="187529506" seo="true" mt="1590362111132" redirect="true"/>
+    <file name="iot-2.html" crc="12225675" seo="true" mt="1590355704556" redirect="true"/>
+    <file name="worplace-3.html" crc="196348436" seo="true" mt="1590354708191" redirect="true"/>
+    <file name="plan-3.html" crc="3889199775" seo="true" mt="1590355711319" redirect="true"/>
+    <file name="render-3.html" crc="49922160" seo="true" mt="1590355722548" redirect="true"/>
+    <file name="text-3.html" crc="46599636" seo="true" mt="1590362118974" redirect="true"/>
+    <file name="iot-3.html" crc="428657658" seo="true" mt="1590355735550" redirect="true"/>
+    <file name="workplace-4.html" crc="3914096436" seo="true" mt="1590354727660" redirect="true"/>
+    <file name="plan-4.html" crc="3825991524" seo="true" mt="1590355572210" redirect="true"/>
+    <file name="render-4.html" crc="3835141431" seo="true" mt="1590355749995" redirect="true"/>
+    <file name="text-4.html" crc="4206631153" seo="true" mt="1590362129734" redirect="true"/>
+    <file name="iot-4.html" crc="450231062" seo="true" mt="1590355783594" redirect="true"/>
+    <file name="workplace-5.html" crc="188589448" seo="true" mt="1590354910652" redirect="true"/>
+    <file name="plan-5.html" crc="12155614" seo="true" mt="1590355792684" redirect="true"/>
+    <file name="render-5.html" crc="4253010841" seo="true" mt="1590355800126" redirect="true"/>
+    <file name="text-5.html" crc="336598014" seo="true" mt="1590362214506" redirect="true"/>
+    <file name="iot-5.html" crc="107606088" seo="true" mt="1590355841430" redirect="true"/>
+    <file name="workplace-6.html" crc="135314302" seo="true" mt="1590354926069" redirect="true"/>
+    <file name="plan-6.html" crc="79892237" seo="true" mt="1590355848839" redirect="true"/>
+    <file name="render-6.html" crc="220710010" seo="true" mt="1590355855790" redirect="true"/>
+    <file name="text-6.html" crc="108707256" seo="true" mt="1590362208341" redirect="true"/>
+    <file name="iot-6.html" crc="271002515" seo="true" mt="1590355898444" redirect="true"/>
+    <file name="workplace-7.html" crc="104211439" seo="true" mt="1590354942370" redirect="true"/>
+    <file name="plan-7.html" crc="257812087" seo="true" mt="1590355905660" redirect="true"/>
+    <file name="render-7.html" crc="244862368" seo="true" mt="1590355912713" redirect="true"/>
+    <file name="text-7.html" crc="382577350" seo="true" mt="1590362202630" redirect="true"/>
+    <file name="iot-7.html" crc="3976026750" seo="true" mt="1590355946102" redirect="true"/>
+    <file name="workplace-8.html" crc="449184499" seo="true" mt="1590354993070" redirect="true"/>
+    <file name="plan-8.html" crc="398274076" seo="true" mt="1590355952346" redirect="true"/>
+    <file name="render-8.html" crc="3826637769" seo="true" mt="1590355959699" redirect="true"/>
+    <file name="text-8.html" crc="363952853" seo="true" mt="1590362194987" redirect="true"/>
+    <file name="iot-8.html" crc="378164549" seo="true" mt="1590355999650" redirect="true"/>
+    <file name="workplace-9.html" crc="4199780760" seo="true" mt="1590355156901" redirect="true"/>
+    <file name="plan-9.html" crc="31473843" seo="true" mt="1590356009989" redirect="true"/>
+    <file name="render-9.html" crc="284765997" seo="true" mt="1590356017392" redirect="true"/>
+    <file name="text-9.html" crc="317780257" seo="true" mt="1590362188304" redirect="true"/>
+    <file name="iot-9.html" crc="4255271798" seo="true" mt="1590356046708" redirect="true"/>
+    <file name="workplace-10.html" crc="4273787891" seo="true" mt="1590355140766" redirect="true"/>
+    <file name="plan-10.html" crc="157348068" seo="true" mt="1590356060002" redirect="true"/>
+    <file name="render-10.html" crc="4084191355" seo="true" mt="1590356068617" redirect="true"/>
+    <file name="text-10.html" crc="3861536114" seo="true" mt="1590362180649" redirect="true"/>
+    <file name="iot-10.html" crc="418433148" seo="true" mt="1590356096173" redirect="true"/>
+    <file name="workplace-11.html" crc="26842600" seo="true" mt="1590355175931" redirect="true"/>
+    <file name="plan-11.html" crc="3872540254" seo="true" mt="1590356109795" redirect="true"/>
+    <file name="render-11.html" crc="4091471882" seo="true" mt="1590356116448" redirect="true"/>
+    <file name="text-11.html" crc="4157269636" seo="true" mt="1590362173359" redirect="true"/>
+    <file name="iot-11.html" crc="151684461" seo="true" mt="1590356142209" redirect="true"/>
+    <file name="workplace-12.html" crc="357081477" seo="true" mt="1590354877713" redirect="true"/>
+    <file name="plan-12.html" crc="78222938" seo="true" mt="1590356149479" redirect="true"/>
+    <file name="render-12.html" crc="454062370" seo="true" mt="1590356157829" redirect="true"/>
+    <file name="text-12.html" crc="4053042355" seo="true" mt="1590362167696" redirect="true"/>
+    <file name="iot-12.html" crc="310687783" seo="true" mt="1590356186288" redirect="true"/>
+    <file name="workplace-1.html" crc="3770344130" seo="true" mt="1590354671402" redirect="true"/>
   </folder>
-  <file name="index.html" crc="20323994" seo="true" mt="1590347645577" redirect="true"/>
-  <file name="70-historial-offices.html" crc="3834039838" seo="true" mt="1590356213704" redirect="true"/>
-  <file name="100-iot.html" crc="229667493" seo="true" mt="1590360380544" redirect="true"/>
-  <file name="abstract.html" crc="435933917" seo="true" mt="1590352044819" redirect="true"/>
-  <file name="about.html" crc="3845377287" seo="true" mt="1590359822780" redirect="true"/>
-  <file name="downloads.html" crc="4219268941" seo="true" mt="1590359655891" redirect="true"/>
-  <file name="worplace-3.html" crc="3776365637" seo="true" mt="1590353809528" redirect="true"/>
-  <file name="12-ideal-offices.html" crc="4117501083" seo="true" mt="1590351874902" redirect="true"/>
-  <file name="workplace-2.html" crc="173777737" seo="true" mt="1590352912351" redirect="true"/>
-  <file name="workplace-1.html" crc="4150854348" seo="true" mt="1590352885674" redirect="true"/>
-  <file name="workplace-4.html" crc="4009432511" seo="true" mt="1590353110530" redirect="true"/>
-  <file name="workplace-5.html" crc="4110164090" seo="true" mt="1590360555034" redirect="true"/>
-  <file name="workplace-6.html" crc="3825045628" seo="true" mt="1590360531493" redirect="true"/>
-  <file name="workplace-7.html" crc="412429627" seo="true" mt="1590360526902" redirect="true"/>
-  <file name="workplace-8.html" crc="3805405526" seo="true" mt="1590360505856" redirect="true"/>
-  <file name="workplace-9.html" crc="196959682" seo="true" mt="1590360504728" redirect="true"/>
-  <file name="workplace-10.html" crc="346189465" seo="true" mt="1590353508806" redirect="true"/>
-  <file name="workplace-11.html" crc="202907050" seo="true" mt="1590360497131" redirect="true"/>
-  <file name="workplace-12.html" crc="309205455" seo="true" mt="1590360557709" redirect="true"/>
-  <file name="publications.html" crc="3928096095" seo="true" mt="1590356638361" redirect="true"/>
-  <file name="bibliography.html" crc="4174541939" seo="true" mt="1590357053947" redirect="true"/>
+  <file name="index.html" crc="140752893" seo="true" mt="1590347645577" redirect="true"/>
+  <file name="70-historial-offices.html" crc="3847438356" seo="true" mt="1590356213704" redirect="true"/>
+  <file name="100-iot.html" crc="336141484" seo="true" mt="1590360380544" redirect="true"/>
+  <file name="abstract.html" crc="449031682" seo="true" mt="1590352044819" redirect="true"/>
+  <file name="about.html" crc="4013514199" seo="true" mt="1590359822780" redirect="true"/>
+  <file name="downloads.html" crc="4113480315" seo="true" mt="1590359655891" redirect="true"/>
+  <file name="worplace-3.html" crc="200235106" seo="true" mt="1590353809528" redirect="true"/>
+  <file name="12-ideal-offices.html" crc="4270906721" seo="true" mt="1590351874902" redirect="true"/>
+  <file name="workplace-2.html" crc="4122106158" seo="true" mt="1590352912351" redirect="true"/>
+  <file name="workplace-1.html" crc="295509024" seo="true" mt="1590352885674" redirect="true"/>
+  <file name="workplace-4.html" crc="4203261617" seo="true" mt="1590353110530" redirect="true"/>
+  <file name="workplace-5.html" crc="396140475" seo="true" mt="1590360555034" redirect="true"/>
+  <file name="workplace-6.html" crc="4209523518" seo="true" mt="1590360531493" redirect="true"/>
+  <file name="workplace-7.html" crc="397117360" seo="true" mt="1590360526902" redirect="true"/>
+  <file name="workplace-8.html" crc="3981631129" seo="true" mt="1590360505856" redirect="true"/>
+  <file name="workplace-9.html" crc="4258915704" seo="true" mt="1590360504728" redirect="true"/>
+  <file name="workplace-10.html" crc="327119415" seo="true" mt="1590353508806" redirect="true"/>
+  <file name="workplace-11.html" crc="246917458" seo="true" mt="1590360497131" redirect="true"/>
+  <file name="workplace-12.html" crc="4117842561" seo="true" mt="1590360557709" redirect="true"/>
+  <file name="publications.html" crc="525026332" seo="true" mt="1590361542402" redirect="true"/>
+  <file name="bibliography.html" crc="3763079499" seo="true" mt="1590357053947" redirect="true"/>
 </manifest>
